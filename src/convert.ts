@@ -4,6 +4,16 @@ import Languages from './constants';
 import { loadTexts1, loadTexts2 } from './text';
 import { getMetadataForHQR } from './metadata';
 
+const getCharmap = (charmap) => {
+    const map = {};
+    for (let i = 0; i < charmap.length; i += 1) {
+        if (i !== charmap[i]) {
+            map[i] = charmap[i];
+        }
+    }
+    return map;
+};
+
 const convertLBA1 = async () => {
     const metadata = await getMetadataForHQR('LBA1', 'TEXT.HQR');
 
@@ -46,6 +56,7 @@ const convertLBA1 = async () => {
             authors: language.authors,
             description: metadata.description,
             entries,
+            charmap: getCharmap(language.charmap),
         };
 
         let json = JSON.stringify(quotes, null, 4);
