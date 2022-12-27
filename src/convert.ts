@@ -112,6 +112,7 @@ const convertLBA2 = async () => {
             authors: language.authors,
             description: metadata.description,
             entries,
+            charmap: getCharmap(language.charmap),
         };
 
         let json = JSON.stringify(quotes, null, 4);

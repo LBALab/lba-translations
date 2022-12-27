@@ -99,7 +99,7 @@ export default {
             entries: LBA1_TEXT_ENTRIES,
             charmap: LBA1_DEFAULT_CHARMAP,
             hasVoice: true,
-            authors: ADELINE,
+            authors: [ADELINE],
         },
         {
             index: 1,
@@ -109,7 +109,7 @@ export default {
             entries: LBA1_TEXT_ENTRIES,
             charmap: LBA1_DEFAULT_CHARMAP,
             hasVoice: true,
-            authors: ADELINE,
+            authors: [ADELINE],
         },
         {
             index: 2,
@@ -119,8 +119,8 @@ export default {
             entries: LBA1_TEXT_ENTRIES,
             charmap: LBA1_DEFAULT_CHARMAP,
             hasVoice: true,
-            authors: ADELINE,
-            review: 'Kobold',
+            authors: [ADELINE],
+            review: ['Kobold'],
         },
         {
             index: 3,
@@ -130,7 +130,7 @@ export default {
             entries: LBA1_TEXT_ENTRIES,
             charmap: LBA1_DEFAULT_CHARMAP,
             hasVoice: false,
-            authors: ADELINE,
+            authors: [ADELINE],
         },
         {
             index: 4,
@@ -140,7 +140,7 @@ export default {
             entries: LBA1_TEXT_ENTRIES,
             charmap: LBA1_DEFAULT_CHARMAP,
             hasVoice: false,
-            authors: ADELINE,
+            authors: [ADELINE],
         },
         {
             index: 0,
@@ -151,7 +151,7 @@ export default {
             charmap: LBA1_DEFAULT_CHARMAP,
             hasVoice: false,
             isFan: true,
-            authors: 'spider_ruler33',
+            authors: ['spider_ruler33'],
         },
         {
             index: 0,
@@ -162,7 +162,7 @@ export default {
             charmap: LBA1_DEFAULT_CHARMAP,
             hasVoice: false,
             isFan: true,
-            authors: 'Alexandre Fontoura',
+            authors: ['Alexandre Fontoura'],
         },
         {
             index: 0,
@@ -173,7 +173,7 @@ export default {
             charmap: POLISH_CHARMAP,
             hasVoice: false,
             isFan: true,
-            authors: 'Kazimierz Król',
+            authors: ['Kazimierz Król'],
         },
         {
             index: 0,
@@ -184,7 +184,7 @@ export default {
             charmap: LBA1_DEFAULT_CHARMAP,
             hasVoice: false,
             isFan: true,
-            authors: 'Gergely',
+            authors: ['Gergely'],
         },
         {
             index: 0,
@@ -195,7 +195,7 @@ export default {
             charmap: RUSSIAN_CHARMAP,
             hasVoice: false,
             isFan: true,
-            authors: 'Cody',
+            authors: ['Cody'],
         },
     ],
     LBA2: [
@@ -207,7 +207,7 @@ export default {
             entries: LBA2_TEXT_ENTRIES,
             charmap: LBA2_DEFAULT_CHARMAP,
             hasVoice: true,
-            authors: ADELINE,
+            authors: [ADELINE],
         },
         {
             index: 1,
@@ -217,7 +217,7 @@ export default {
             entries: LBA2_TEXT_ENTRIES,
             charmap: LBA2_DEFAULT_CHARMAP,
             hasVoice: true,
-            authors: ADELINE,
+            authors: [ADELINE],
         },
         {
             index: 2,
@@ -227,8 +227,8 @@ export default {
             entries: LBA2_TEXT_ENTRIES,
             charmap: LBA2_DEFAULT_CHARMAP,
             hasVoice: true,
-            authors: ADELINE,
-            review: 'Kobold',
+            authors: [ADELINE],
+            review: ['Kobold'],
         },
         {
             index: 3,
@@ -238,7 +238,7 @@ export default {
             entries: LBA2_TEXT_ENTRIES,
             charmap: LBA2_DEFAULT_CHARMAP,
             hasVoice: false,
-            authors: ADELINE,
+            authors: [ADELINE],
         },
         {
             index: 4,
@@ -248,7 +248,7 @@ export default {
             entries: LBA2_TEXT_ENTRIES,
             charmap: LBA2_DEFAULT_CHARMAP,
             hasVoice: false,
-            authors: ADELINE,
+            authors: [ADELINE],
         },
         {
             index: 5,
@@ -258,7 +258,7 @@ export default {
             entries: LBA2_TEXT_ENTRIES,
             charmap: LBA2_DEFAULT_CHARMAP,
             hasVoice: false,
-            authors: ADELINE,
+            authors: [ADELINE],
         },
         {
             skip: true,
@@ -270,7 +270,7 @@ export default {
             charmap: LBA2_DEFAULT_CHARMAP,
             hasVoice: false,
             isFan: true,
-            authors: '',
+            authors: [''],
         },
         {
             index: 0,
@@ -281,7 +281,7 @@ export default {
             charmap: POLISH_CHARMAP,
             hasVoice: false,
             isFan: true,
-            authors: 'Kazimierz Król',
+            authors: ['Kazimierz Król'],
         },
         {
             index: 0,
@@ -292,7 +292,7 @@ export default {
             charmap: LBA2_DEFAULT_CHARMAP,
             hasVoice: false,
             isFan: true,
-            authors: 'Gergely',
+            authors: ['Gergely'],
         },
         {
             index: 0,
@@ -303,7 +303,7 @@ export default {
             charmap: RUSSIAN_CHARMAP,
             hasVoice: false,
             isFan: true,
-            authors: 'Cody',
+            authors: ['Cody'],
         },
     ],
 };
