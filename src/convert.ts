@@ -16,7 +16,7 @@ const getCharmap = (charmap) => {
 
 const convertLBA1 = async () => {
     const metadata = await getMetadataForHQR('LBA1', 'TEXT.HQR');
-
+    console.log('LBA1:');
     for (let i = 0; i < Languages.LBA1.length; i += 1) {
         let index = 0;
         let entries = [];
@@ -69,7 +69,7 @@ const convertLBA1 = async () => {
 
 const convertLBA2 = async () => {
     const metadata = await getMetadataForHQR('LBA2', 'TEXT.HQR');
-
+    console.log('LBA2:');
     for (let i = 0; i < Languages.LBA2.length; i += 1) {
         let index = 0;
         let entries = [];
