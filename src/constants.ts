@@ -93,6 +93,7 @@ export default {
     LBA1: [
         {
             index: 0,
+            new_index: 0,
             name: 'English',
             code: 'EN',
             culture: 'en-GB',
@@ -103,6 +104,7 @@ export default {
         },
         {
             index: 1,
+            new_index: 1,
             name: 'Français',
             code: 'FR',
             culture: 'fr-FR',
@@ -113,6 +115,7 @@ export default {
         },
         {
             index: 2,
+            new_index: 2,
             name: 'Deutsch',
             code: 'DE',
             culture: 'de-DE',
@@ -124,6 +127,7 @@ export default {
         },
         {
             index: 3,
+            new_index: 3,
             name: 'Español',
             code: 'SP',
             culture: 'es-ES',
@@ -134,6 +138,7 @@ export default {
         },
         {
             index: 4,
+            new_index: 4,
             name: 'Italiano',
             code: 'IT',
             culture: 'it-IT',
@@ -144,6 +149,7 @@ export default {
         },
         {
             index: 0,
+            new_index: 5,
             name: 'Português/Brasil',
             code: 'BR',
             culture: 'pt-BR',
@@ -155,6 +161,7 @@ export default {
         },
         {
             index: 0,
+            new_index: 6,
             name: 'Português',
             culture: 'pt-PT',
             code: 'PT',
@@ -166,6 +173,7 @@ export default {
         },
         {
             index: 0,
+            new_index: 7,
             name: 'Polskie',
             code: 'PL',
             culture: 'pl-PL',
@@ -177,6 +185,7 @@ export default {
         },
         {
             index: 0,
+            new_index: 8,
             name: 'Magyar',
             code: 'HUN',
             culture: 'hu-HU',
@@ -188,6 +197,7 @@ export default {
         },
         {
             index: 0,
+            new_index: 9,
             name: 'Pусский',
             code: 'RUS',
             culture: 'ru-RU',
