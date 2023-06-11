@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 Project-Id-Version: twine
 Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org
-POT-Creation-Date: 2023-06-11 10:42:21
-PO-Revision-Date: 2023-06-11 10:42:21
+POT-Creation-Date: 2023-06-11 10:53:47
+PO-Revision-Date: 2023-06-11 10:53:47
 Last-Translator: Adeline Software International
 Language-Team: Français <https://translations.scummvm.org/projects/twin-e/twin-e/fr-FR/>
 Language: fr-FR

@@ -89,7 +89,7 @@ msgstr ""\n`);
         
         const date = new Date().toISOString().replace('T', ' ').substring(0, 19);
 
-        pot = pot.concat('Project-Id-Version: twin-e\n');
+        pot = pot.concat('Project-Id-Version: twine\n');
         pot = pot.concat('Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n');
         pot = pot.concat(`POT-Creation-Date: ${date}\n`);
         pot = pot.concat(`PO-Revision-Date: ${date}\n`);
@@ -131,9 +131,9 @@ msgstr ""\n`);
             }
         }
 
-        fs.writeFile(`LBA1/twine.pot`, pot, (err) => {
+        fs.writeFile(`LBA1/twine-lba1.pot`, pot, (err) => {
             if (err) throw err;
-            console.log(`LBA1/twine.pot file created.`);
+            console.log(`LBA1/twine-lba1.pot file created.`);
         });
     }
 };
