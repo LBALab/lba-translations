@@ -7,10 +7,10 @@ msgid ""
 msgstr ""
 Project-Id-Version: twine
 Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org
-POT-Creation-Date: 2023-06-11 10:53:47
-PO-Revision-Date: 2023-06-11 10:53:47
+POT-Creation-Date: 2023-06-11 13:20:15
+PO-Revision-Date: 2023-06-11 13:20:15
 Last-Translator: Alexandre Fontoura
-Language-Team: Português <https://translations.scummvm.org/projects/twin-e/twin-e/pt-PT/>
+Language-Team: Português <https://translations.scummvm.org/projects/twine/lba1/pt-PT/>
 Language: pt-PT
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
