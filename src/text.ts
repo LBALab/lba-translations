@@ -1,6 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 
+import jconv from 'jconv';
+
 import { HQR } from '@lbalab/hqr';
 
 const toArrayBuffer = (b: Buffer) =>
@@ -21,18 +23,25 @@ export async function loadTextData(game, hqr: HQR, language) {
     let start;
     let end;
     let idx = 0;
-
     do {
         start = data.getUint16(idx * 2, true);
         end = data.getUint16(idx * 2 + 2, true);
         const type = game === 'lba2' ? data.getUint8(start++) : undefined;
         let quote = '';
-        for (let i = start; i < end - 1; i += 1) {
-            quote += String.fromCharCode(
-                language.data.charmap
-                    ? language.data.charmap[data.getUint8(i)]
-                    : data.getUint8(i),
-            );
+        if (language.data.code === 'JPN') {
+            const bytes = [];
+            for (let i = start; i < end - 1; i += 1) {
+                bytes.push(data.getInt8(i));
+            }
+            quote = jconv.convert(Buffer.from(bytes), 'SJIS', 'UTF8').toString('utf8');
+        } else {
+            for (let i = start; i < end - 1; i += 1) {
+                quote += String.fromCharCode(
+                    language.data.charmap
+                        ? language.data.charmap[data.getUint8(i)]
+                        : data.getUint8(i),
+                );
+            }
         }
         texts.push({
             index: -1,

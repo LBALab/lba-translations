@@ -267,10 +267,10 @@ const convertLBA2 = async () => {
 
 const convert = async () => {
     await convertLBA1();
-    await convertLBA1Pot();
-    await convertLBA1Po();
+    // await convertLBA1Pot();
+    // await convertLBA1Po();
 
-    await convertLBA2();
+    // await convertLBA2();
 };
 
 convert();

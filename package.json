@@ -8,8 +8,9 @@
   "dependencies": {
     "@lbalab/hqr": "^3.4.1",
     "@types/lodash": "^4.14.190",
-    "lodash": "^4.17.21",
-    "axios": "^1.2.0"
+    "axios": "^1.2.0",
+    "jconv": "^0.1.5",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@babel/core": "^7.20.2",
