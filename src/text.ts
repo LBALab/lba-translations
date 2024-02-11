@@ -33,6 +33,7 @@ export async function loadTextData(game, hqr: HQR, language) {
             for (let i = start; i < end - 1; i += 1) {
                 bytes.push(data.getInt8(i));
             }
+            // SJIS charmap reference: http://www.rikai.com/library/kanjitables/kanji_codes.sjis.shtml
             quote = jconv.convert(Buffer.from(bytes), 'SJIS', 'UTF8').toString('utf8');
         } else {
             for (let i = start; i < end - 1; i += 1) {
