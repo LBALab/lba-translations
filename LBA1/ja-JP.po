@@ -1,0 +1,5222 @@
+# Little Big Adventure 1 language file
+# Copyright (C) 2023 ScummVM Team
+# This file is distributed under the same license as the ScummVM package.
+# Alexandre Fontoura, 2023.
+#
+msgid ""
+msgstr ""
+Project-Id-Version: twine
+Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org
+POT-Creation-Date: 2024-02-15 21:44:49
+PO-Revision-Date: 2024-02-15 21:44:49
+Last-Translator: Unknown
+Language-Team: Japanese <https://translations.scummvm.org/projects/twine/lba1/ja-JP/>
+Language: ja-JP
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+X-Generator: Weblate 4.4
+
+# 309:Options and Menus dialogs
+#: 309:0
+msgid "Normal"
+msgstr "ノーマル"
+
+# 309:Options and Menus dialogs
+#: 309:1
+msgid "Athletic"
+msgstr "アスレチック"
+
+# 309:Options and Menus dialogs
+#: 309:2
+msgid "Aggressive (Manual)"
+msgstr "アグレッシブ（マニュアル）"
+
+# 309:Options and Menus dialogs
+#: 309:3
+msgid "Discreet"
+msgstr "ディスクリート"
+
+# 309:Options and Menus dialogs
+#: 309:4
+msgid "Aggressive (Auto)"
+msgstr "アグレッシブ（オート）"
+
+# 309:Options and Menus dialogs
+#: 309:5
+msgid "Fly with the Proto-Pack"
+msgstr "プロトパックを使用する"
+
+# 309:Options and Menus dialogs
+#: 309:6
+msgid "Put away the Proto-Pack "
+msgstr "プロトパックを使用しない"
+
+# 309:Options and Menus dialogs
+#: 309:7
+msgid "Volume - Music"
+msgstr "音量　ミュージック"
+
+# 309:Options and Menus dialogs
+#: 309:8
+msgid "Volume - Sound effects"
+msgstr "音量　効果音"
+
+# 309:Options and Menus dialogs
+#: 309:9
+msgid "Volume - CD"
+msgstr "音量　ＣＤ"
+
+# 309:Options and Menus dialogs
+#: 309:10
+msgid "Volume - Line In"
+msgstr "音量　入力"
+
+# 309:Options and Menus dialogs
+#: 309:11
+msgid "Volume - Master"
+msgstr "音量　マスター"
+
+# 309:Options and Menus dialogs
+#: 309:12
+msgid "Return to game"
+msgstr "ゲームに戻る"
+
+# 309:Options and Menus dialogs
+#: 309:13
+msgid "Save parameters "
+msgstr "設定内容の保存"
+
+# 309:Options and Menus dialogs
+#: 309:14
+msgid "New game"
+msgstr "ニューゲーム"
+
+# 309:Options and Menus dialogs
+#: 309:15
+msgid "Continue saved game"
+msgstr "コンティニューゲーム"
+
+# 309:Options and Menus dialogs
+#: 309:16
+msgid "Quit"
+msgstr "終了"
+
+# 309:Options and Menus dialogs
+#: 309:17
+msgid "Option menu"
+msgstr "オプションメニュー"
+
+# 309:Options and Menus dialogs
+#: 309:18
+msgid "Cancel"
+msgstr "キャンセル"
+
+# 309:Options and Menus dialogs
+#: 309:19
+msgid "Return to previous menu"
+msgstr "前の画面に戻る"
+
+# 309:Options and Menus dialogs
+#: 309:20
+msgid "Quit game"
+msgstr "終了"
+
+# 309:Options and Menus dialogs
+#: 309:21
+msgid "Continue "
+msgstr "ゲームに戻る"
+
+# 309:Options and Menus dialogs
+#: 309:22
+msgid "Volume settings"
+msgstr "音量の設定"
+
+# 309:Options and Menus dialogs
+#: 309:23
+msgid "Polygon detail (Full)"
+msgstr "ポリゴン（細かい）"
+
+# 309:Options and Menus dialogs
+#: 309:24
+msgid "Shadows (All)"
+msgstr "影（全）"
+
+# 309:Options and Menus dialogs
+#: 309:25
+msgid "Scenery Zoom On "
+msgstr "拡大モード　オン"
+
+# 309:Options and Menus dialogs
+#: 309:26
+msgid "Polygon detail (Medium)"
+msgstr "ポリゴン（普通）"
+
+# 309:Options and Menus dialogs
+#: 309:27
+msgid "Character shadows"
+msgstr "影（キャラクター）"
+
+# 309:Options and Menus dialogs
+#: 309:28
+msgid "Scenery Zoom On "
+msgstr "拡大モード　オン"
+
+# 309:Options and Menus dialogs
+#: 309:29
+msgid "Polygon detail (Low)"
+msgstr "ポリゴン（粗い）"
+
+# 309:Options and Menus dialogs
+#: 309:30
+msgid "No shadows"
+msgstr "影（無し）"
+
+# 309:Options and Menus dialogs
+#: 309:31
+msgid "No Scenery Zoom "
+msgstr "拡大モード　オフ"
+
+# 309:Options and Menus dialogs
+#: 309:32
+msgid "Create new player:"
+msgstr "キャラクターを作る"
+
+# 309:Options and Menus dialogs
+#: 309:33
+msgid "Copy saved game"
+msgstr "セーブゲームの複写"
+
+# 309:Options and Menus dialogs
+#: 309:34
+msgid "Type your name:"
+msgstr "名前入力"
+
+# 309:Options and Menus dialogs
+#: 309:35
+msgid "This player already exists! Try again."
+msgstr "そのファイルは既に存在しています。"
+
+# 309:Options and Menus dialogs
+#: 309:36
+msgid "Enter new name"
+msgstr "名前入力"
+
+# 309:Options and Menus dialogs
+#: 309:37
+msgid "Delete saved game"
+msgstr "セーブゲームの消去"
+
+# 309:Options and Menus dialogs
+#: 309:38
+msgid "Saved games management"
+msgstr "セーブファイルの管理"
+
+# 309:Options and Menus dialogs
+#: 309:39
+msgid "Advanced Options"
+msgstr "その他の設定"
+
+# 309:Options and Menus dialogs
+#: 309:40
+msgid "Delete"
+msgstr "セーブゲームの消去"
+
+# 309:Options and Menus dialogs
+#: 309:41
+msgid "Speech files transfer."
+msgstr "音声データ転送中！"
+
+# 309:Options and Menus dialogs
+#: 309:42
+msgid "Copying speech files on hard disk, please wait..."
+msgstr "音声データをＨＤにコピー中です。"
+
+# 311:Credits dialogs
+#: 311:0
+msgid ""
+msgstr "RELENTLESS Twinsen's Adventure"
+
+# 311:Credits dialogs
+#: 311:1
+msgid "Original idea by Frédérick Raynal"
+msgstr "Original idea by Frederick Raynal"
+
+# 311:Credits dialogs
+#: 311:2
+msgid "Produced by Adeline Software Int."
+msgstr "Produced by Adeline Software Int."
+
+# 311:Credits dialogs
+#: 311:3
+msgid "Programming:"
+msgstr "Programming:"
+
+# 311:Credits dialogs
+#: 311:4
+msgid "    Frédérick Raynal"
+msgstr "・・Frederick Raynal"
+
+# 311:Credits dialogs
+#: 311:5
+msgid "    Laurent Salmeron"
+msgstr "・・Laurent Salmeron"
+
+# 311:Credits dialogs
+#: 311:6
+msgid "    Serge Plagnol"
+msgstr "・・Serge Plagnol"
+
+# 311:Credits dialogs
+#: 311:7
+msgid "    Frantz Cournil"
+msgstr "・・Frantz Cournil"
+
+# 311:Credits dialogs
+#: 311:8
+msgid "    Olivier Lhermite"
+msgstr "・・Olivier Lhermite"
+
+# 311:Credits dialogs
+#: 311:9
+msgid "3D Objects & Animation:"
+msgstr "3D Objects & Animation:"
+
+# 311:Credits dialogs
+#: 311:10
+msgid "    Didier Chanfray"
+msgstr "・・Didier Chanfray"
+
+# 311:Credits dialogs
+#: 311:11
+msgid "Scenery Graphics:"
+msgstr "Scenery Graphics:"
+
+# 311:Credits dialogs
+#: 311:12
+msgid "    Yaël Barroz"
+msgstr "・・Yael Barroz"
+
+# 311:Credits dialogs
+#: 311:13
+msgid "    Jean-Marc Torroella"
+msgstr "・・Jean-Marc Torroella"
+
+# 311:Credits dialogs
+#: 311:14
+msgid "Story & Design:"
+msgstr "Story & Design:"
+
+# 311:Credits dialogs
+#: 311:15
+msgid "    Jean-Jacques Poncet"
+msgstr "・・Jean-Jacques Poncet"
+
+# 311:Credits dialogs
+#: 311:16
+msgid "Dialogs:"
+msgstr "Dialogs:"
+
+# 311:Credits dialogs
+#: 311:17
+msgid "Story Coding:"
+msgstr "Story Coding:"
+
+# 311:Credits dialogs
+#: 311:18
+msgid "    Sébastien Viannay"
+msgstr "・・Sebastien Viannay"
+
+# 311:Credits dialogs
+#: 311:19
+msgid "Video Sequences:"
+msgstr "Video Sequences:"
+
+# 311:Credits dialogs
+#: 311:20
+msgid "    Frédéric Taquet"
+msgstr "・・Frederic Taquet"
+
+# 311:Credits dialogs
+#: 311:21
+msgid "Music:"
+msgstr "Music:"
+
+# 311:Credits dialogs
+#: 311:22
+msgid "    Philippe Vachey"
+msgstr "・・Philippe Vachey"
+
+# 311:Credits dialogs
+#: 311:23
+msgid "Testing:"
+msgstr "Testing:"
+
+# 311:Credits dialogs
+#: 311:24
+msgid "    Emmanuel Oualid"
+msgstr "・・Emmanuel Oualid"
+
+# 311:Credits dialogs
+#: 311:25
+msgid "    Nicolas Viannay"
+msgstr "・・Nicolas Viannay"
+
+# 311:Credits dialogs
+#: 311:26
+msgid "    Alexis Madinier"
+msgstr "・・Alexis Madinier"
+
+# 311:Credits dialogs
+#: 311:27
+msgid "    Lionel Chaze"
+msgstr "・・Lionel Chaze"
+
+# 311:Credits dialogs
+#: 311:28
+msgid "    Vijay Maharaj"
+msgstr "・・Vijay Maharaj"
+
+# 311:Credits dialogs
+#: 311:29
+msgid "Quality Control:"
+msgstr "Quality Control:"
+
+# 311:Credits dialogs
+#: 311:30
+msgid "Sound FX:"
+msgstr "Sound FX:"
+
+# 311:Credits dialogs
+#: 311:31
+msgid "    Little Phil V."
+msgstr "・・Little Phil V."
+
+# 311:Credits dialogs
+#: 311:32
+msgid "Directed by Frédérick Raynal"
+msgstr "Directed by Frederick Raynal"
+
+# 311:Credits dialogs
+#: 311:33
+msgid "Little Big Adventure"
+msgstr "Little Big Adventure"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:0
+msgid "You've just rediscovered your Holomap! You can use it by going through your inventory."
+msgstr "ホロマップを発見した。　使用するにはシフト キーでインベントリーリストの中から探すか、 Ｈキーを押せば直接使える。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:1
+msgid "You've just rediscovered your Magic Ball! Try using it on the clones!"
+msgstr "マジックボールを見つけた。 クローンに向けて使ってみよう！"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:2
+msgid "You've just stolen Dr. FunFrock's saber!"
+msgstr "ファンフロック博士のサーベルを手に入れた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:3
+msgid "You've just found Gawley's Horn, an object left for you by your ancestors."
+msgstr "ゴーリーの角。 ご先祖様が君に残してくれた物だ。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:4
+msgid "You've just earned the first level of Magic by finding the Tunic left for you by your ancestors. You will be able to store up magic with it."
+msgstr "ご先祖様が残してくれたチュニックを 見つけて、最初の魔法を身につけた。 その服に魔法を貯めておけるようになる。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:5
+msgid "You've just earned the second level of Magic by finding the Book of Bù."
+msgstr "ビューの本を見つけて、 第２の魔法を身につけた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:6
+msgid "You've just earned the third level of Magic by finding Sendell's Medallion."
+msgstr "センデルのメダルを見つけた事で、 第３の魔法を身につけた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:7
+msgid "You've just earned the fourth level of Magic by filling up your flask with Clear Water."
+msgstr "“聖なる水”を瓶に満たして、 第４の魔法を身につけた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:8
+msgid "You now have the Red Magnetic Card."
+msgstr "レッドカードを手に入れた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:9
+msgid "With this card you are the fourth member of the Elves club. Anyway, its your own business!"
+msgstr "このカードでエルブス・クラブの ４人目のメンバーだ。 入るも入らないも君次第だが。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:10
+msgid "You've just rediscovered your ID card."
+msgstr "ＩＤカードを発見した。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:11
+msgid "You now have the Architect's pass."
+msgstr "建築技師の通行証を手に入れた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:12
+msgid "You now have the Proto-Pack."
+msgstr "プロトパックを手に入れた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:13
+msgid "The Kamis have given you a Snowboard."
+msgstr "カミー達がスノーボードをくれた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:14
+msgid "You have a Meca-Penguin."
+msgstr "メカペンギンを手に入れた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:15
+msgid "You've just replenished some of your gas supply."
+msgstr "燃料を手に入れた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:16
+msgid "You've just stolen a Pirate's Flag."
+msgstr "海賊の旗を手に入れた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:17
+msgid "You've just found a Magic Flute."
+msgstr "魔法のフルートを見つけた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:18
+msgid "The wise man gave you the Space Guitar."
+msgstr "「知恵ある者」が君に スペースギターをくれた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:19
+msgid "You've just bought a hair dryer."
+msgstr "ドライヤーを購入した。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:20
+msgid "You've just found the key lost by your ancestor Hégésippe."
+msgstr "ご先祖、ヘギー・シーパがなくした キーを見つけた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:21
+msgid "You've just found a Bottle of Syrup!"
+msgstr "シロップの瓶を見つけた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:22
+msgid "The bottle is now empty."
+msgstr "瓶は今、空っぽです。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:23
+msgid "You have a Ferry Ticket."
+msgstr "フェリーの切符を手に入れた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:24
+msgid "You just received a keypad that controls a digital locking system."
+msgstr "デジタルロック・システムをコントロールする キーパッドを受け取った。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:25
+msgid "You now possess a coffee pot."
+msgstr "コーヒーポットを手に入れた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:26
+msgid "M. Lanktir gave you his list. "
+msgstr "ランクティアがリストをくれた。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:27
+msgid "Holomap. The Holomap shows your position on the planet. The arrows represent important places that were pointed out to you during your quest. They will disappear once you have completed your task in each of the corresponding places. By pressing the arrows, you can scroll through text corresponding to the arrows visible on the Holomap."
+msgstr "ホロマップ（Ｈキー）。ホロマップは、君が惑 星のどこにいるかを表示してくれます。矢印が 指し示すのは、冒険中君が教えてもらった重要 な場所の位置です。　示された場所での任務を 達成すると矢印は消えます。　＜Ｃｔｒｌ＞ キーと＜カーソル＞キーを同時に押すと、ホロ マップが回転します。　＜カーソル＞キーのみ を押すと、ホロマップの矢印が指す場所につい てのテキストをスクロールできます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:28
+msgid "Magic Ball. Each time you reach a higher level of magic, the Magic Ball's striking power will increase. Its trajectories will also become more effective with each new level, as long as you have enough magic in stock! The Ball will use up magic each time it is thrown."
+msgstr "マジックボール（ＡＬＴキー）。より高いレベ ルの魔法を身に付けると、マジックボールの威 力が増します。　魔法のレベルが上がると、 マジックボールの的中率も高くなります。　 ただし、魔法を十分に貯えてないと意味があり ません。マジックボールは投げるたびに、 魔法を消費するからです。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:29
+msgid "Magic Saber. It is the most powerful weapon on this planet."
+msgstr "魔法の剣。　＜ＥＮＴＥＲ＞キーで剣を手にし たら、＜ＡＬＴ＞キーを押して攻撃します。 魔法の剣はこの惑星で最も強力な武器です。 マジックボールは、再度選択すれば、再び使う ことができます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:30
+msgid "Gawley's Horn: For use on the Seals of Sendell. It will allow you to break them open, which will subsequently allow you to access new places."
+msgstr "ゴーリーの角（ＥＮＴＥＲキー）。センデルの 封印を破るために使用します。　 ゴーリーの角で封印を破れば、 次の場所に進むことができます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:31
+msgid "Tunic. With this magical symbol, you have just earned the first level of power."
+msgstr "チュニック。　この魔法のアイテムがあれば、 最初の魔法を身につけることができます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:32
+msgid "Book of Bù (and PROPHECY). Used to read the prophecy. | With this magical symbol, you have just earned the second level of power. You can now also read runes and talk to animals."
+msgstr "ビューの本（ＥＮＴＥＲキー）。　予言を読む ために使います。　この魔法のアイテムがあれ ば第２の魔法を身につけることができます。 また、ルーン文字を読んだり、動物と話をする ことが可能になります。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:33
+msgid "Sendell's Medallion. With this magical symbol, you have just earned the third level of power."
+msgstr "センデルのメダル。 この魔法のアイテムがあれば、第３の魔法を身 につけることができます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:34
+msgid "Sendell's Medallion. | It will allow you to earn the third level of power."
+msgstr "これがあれば、第３の魔法を身につけることが できます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:35
+msgid "Flask of Clear Water. With this magical symbol, you have just earned the fourth level of power."
+msgstr "聖なる水の瓶。 これがあれば、第４の魔法を身につけることが できます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:36
+msgid "Flask of Clear Water. | It will allow you to earn the fourth level of power."
+msgstr "それがあれば第４の魔法を身につけることがで きます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:37
+msgid "Red Magnetic Card. It will allow you to open the doors with a red lock."
+msgstr "赤のマグネティックカード。 これにより、赤の錠のついたドアを開けること ができます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:38
+msgid "The Elves Club Blue Card. This card is coated with star powder and will allow you to open the doors with blue locks."
+msgstr "エルベス・クラブの青のカード。 星のパウダーでコーティングされたこのカード を使えば、青の錠のついたドアを開けることが できます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:39
+msgid "Twinsen's ID card. This card allows you to identify yourself to the authorities. Your smile is especially attractive on the photo!"
+msgstr "トゥインセンのＩＤカード。 各当局に対して、君の身分を証明してくれるも の。　写真の君の笑顔が特にステキだ！"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:40
+msgid "M. Mies van der Rooh's pass. This pass will grant you access to the Teleportation Center. You will still have to use Gawley's Horn on the left, after the first guard post."
+msgstr "ミエス・バン・ダ・ルー（建築技師）の通行証 この通行証があれば、テレポーテーションセン ターに入ることができます。　最初の警備監視 所を通ったら、画面左のゴーリーの角を使わな ければなりません。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:41
+msgid "Proto-Pack"
+msgstr "プロトパック。 カーソルキーで動かします。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:42
+msgid "Snowboard. Can only be used in the Himalayi, near the ski lift. Place yourself in between any two flags before using."
+msgstr "スノーボード。 ハマライ山のスキーリフトの近くでのみ、使う ことができます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:43
+msgid "Meca-Penguin. Red clones just hate this stupid toy."
+msgstr "メカペンギン。 赤のクローンはこんなものが苦手です。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:44
+msgid "Gas, extract of molasses. You cannot use vehicles when your gas gauge is at zero."
+msgstr "燃料。 糖蜜のエキス、燃料メーターがゼロの時、乗り 物は使えません。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:45
+msgid "Pirate Flag. You can attach it to a boat."
+msgstr "海賊の旗。 ボートに取り付けます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:46
+msgid "Magic Flute. The enchanted melodies produced by this instrument can melt frozen Clear Water and make flowers grow in the desert."
+msgstr "魔法のフルート。 このフルートが奏でるメロディは、凍りついた 清き水を溶かし、砂漠に花を咲かせます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:47
+msgid "Space Guitar. It was found in the middle of an asteroid that landed in the White Leaf Desert. It brought new harmonics to Twinsun."
+msgstr "スペースギター。 ホワイトリーフ砂漠に落ちた隕石の中から 見つかり、トゥインサンに新しい音楽を もたらしました。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:48
+msgid "Hair dryer"
+msgstr "ヘア・ドライヤー"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:49
+msgid "Ancestral Key. Opens the secret compartment in Twinsen's house."
+msgstr "先祖伝来のキー。 この鍵で、トゥインセンの家の秘密の小部屋の ドアが開きます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:50
+msgid "Bottle of Syrup. This bottle contains 50cl of very concentrated red syrup."
+msgstr "シロップの瓶。 濃縮した赤いシロップが５０センチリットル、 入っています。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:51
+msgid "Empty Bottle"
+msgstr "空の瓶"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:52
+msgid "Ferry Ticket"
+msgstr "フェリーの切符"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:53
+msgid "Keypad that controls a digital locking system. Once placed on one door inside the Teleportation Center, it allows access to a room filled with Meca-Penguins."
+msgstr "デジタルロック・システムをコントロールする キーパッド。テレポーテーションセンター内の ドアに取り付けると、メカペンギンがいっぱい いる部屋に入ることができます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:54
+msgid "Coffee Pot. You must return it to one Lanktir who lives next to the bazaar on Proxima island."
+msgstr "コーヒーポット。 プロキシマ島のマーケットの隣りに住む、ラン クティアに返さなくてはなりません。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:55
+msgid "Bonuses List."
+msgstr "ボーナスリスト。 ＜ＥＮＴＥＲ＞キーを押すと読めます。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:56
+msgid "Lucky Clover Leaf: using this clover leaf will use up one of your chances to revitalise yourself to a maximum."
+msgstr "幸運のクローバーの葉（ＥＮＴＥＲキー）。 このクローバーの葉を使うと、体力が最大限ま で回復します。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:57
+msgid "Empty Space"
+msgstr "からっぽ"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:58
+msgid "Twinsun is a relatively new planet on the outskirts of a remote galaxy. It's rotational plane has stabilized between two suns. | There is a huge mountain range running along its equator, that divides the planet in half; each hemisphere is warmed by a single sun. | The Northern hemisphere, with its orange sky, is warmer than the Southern hemisphere. Except for a polar region, the planet's climate is clement. The formation of life forms on the planet was thus favorable. Four species developed over the course of the centuries: The Spheros, the Rabbibunnies, the Quetches and the Grobos. They all lived in harmony until a tyrant named Dr. FunFrock reared his ugly head."
+msgstr "トゥインサンは、遥か彼方の銀河のはしにある 新しい惑星。その惑星軌道は２つの太陽の間で 安定していた。　赤道に沿って広大な山岳地帯 が広がり、惑星を南北に分けていた。それぞれ の半球は１つずつの太陽に照らされていた。　 北半球にはオレンジの空が広がり、南半球より も暖かい。極の地帯以外は気候も非常に 温暖で、その気候にあった生命体が繁殖してい た。惑星に生きる４つの種族は、スフェロ族、 ラビバニー族、クエッチ族、グロボ族。 暴君、ファンフロック博士が現れるまでは、みな が共存し平和に暮らしていたのだ。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:59
+msgid "Ever since FunFrock's rise to power, the population has been living under a reign of terror. FunFrock set up a police state where suspicion is omnipresent. He is all powerful and controls the people with an iron fist. He has at his disposal two high tech weapons that insure his power: cloning and teleportation. | He can clone any of the species at will, and subsequently recruit these clones into his ranks. He can then deploy these clones instantly through a network of telepods that are dispersed over the entire planet."
+msgstr "ファンフロックの台頭によって、惑星の民は恐 怖に怯えながら暮らすようになった。 彼は警察国家を建設し、住民はいつも疑惑の影 におびえた。ファンフロックは力で住民を統制 したのだ。 彼の力を裏付けるのは、２つのハイテク兵器、 クローニングとテレポーテーションだ。彼は、 自由に各種族のクローンを作り出し、自分の軍 隊の一員としていった。そして、いたる所に設 置したテレポッドで、彼らを惑星全土に配備し たのだ。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:60
+msgid "A few years ago, under the guise of protecting the population, Dr. FunFrock herded the planet's habitants into the southern hemisphere. The repression is harsh. Every day brings more and more arrests, and the people slowly begin to lose hope. | In an effort to keep their spirits up, the people sometimes evoke an ancient legend along with the name of a goddess, Sendell. The mentioning of the legend or Sendell has since been forbidden by Dr. FunFrock. |  | Meanwhile... a young quetch named Twinsen has been having strange dreams..."
+msgstr "何年か経ち、人民を守るという名の元に、ファ ンフロック博士は惑星の住民を南半球に集め始 めた。抑圧は厳しく、毎日、大量の逮捕者が出 て、惑星の民は次第に希望を失っていった。 それでも、わずかに残った勇気を奮い立たせる ため、惑星の民は古代より伝説にある女神、セ ンデルの名を口にした。 するとファンフロック博士は、センデルについ て語る事を禁止したのだ。 その頃、クエッチ族の若者トゥインセンは、 奇妙な夢を見ていた．．．。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:61
+msgid "\"The day will come when someone from the present or future species will rise up and say, | 'This world is mine from now on, and the key to all powers belongs to me!' | This day will surely come because avarice and violence harbor in the hearts of all species of the universe. If the peril on this day is too great, the Chosen One will come forth. He will rise up against the tyrant and overthrow him. He will free and reunite the people, because throughout the years, the Chosen One's ancestors will have prepared him for his victory. They will have left information and weapons in his dwelling. The Chosen One, also known as the Heir, will, however, have to gather together four magical symbols if he hopes to be victorious: the Tunic, the Book of Bù, Sendell's Medallion and a Flask of Clear Water. On the day of peril Sendell will visit the Heir in his sleep and announce the coming of the final combat. The Heir will then have to go to the Well of Sendell where the goddess will endow her powers on him! \""
+msgstr "やがて現在、あるいは未来の種族の民が立ち上 がり言うだろう、「これから世界は自分の物で あり、全ての力は自分にある」と。 この宇宙の民の心に欲と暴力が巣食う限り、 この独裁者による統治の日は必ずやってくる。 独裁者の力が耐えがたき日になったとき、選ば れし者が現れる。彼は暴君に立ち向かい、それ を倒すだろう。 彼は民を解放し、再び結び付ける。 すでに先祖達が、彼の勝利を予言している。 先祖達は彼の住みかに言葉と武器を残す。 選ばれし者、または世継ぎと呼ばれる者は、 勝利するために魔法の宝を４つ集めねばならな い。チュニック、ビューの本、センデルのメダ ルそして瓶一杯の聖なる水。時が来れば、セン デルは世継ぎの夢枕に立ち、戦いが近いことを 告げるだろう。そして世継ぎはセンデルの泉へ 行き、女神の力を受けなければならない。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:62
+msgid "Locations of several clover leaves and boxes: | There is a box for clover leaves in the sewers of Citadel island, and another in the basement of the tavern; one clover leaf is guarded by a soldier who is located behind sandbags. Another is guarded by a clone in the middle of the ruins on Principal island. Another one is on the roof of the Maritime Museum. Another is guarded by a groboclone to the right of the Teleportation Center's entrance. Another is guarded by a soldier in front of FunFrock's fortress."
+msgstr "クローバーの葉と箱の位置。クローバーの葉を 入れる箱は、シタデル島の下水道に１つ、酒場 の地下室に１つある。クローバーの葉の１つは 砂袋の後にいる兵士が監視、もう１つはプリン シパル島の廃墟の中央にいるクローンが監視し ている。海事博物館の部屋にも１つある。テレ ポーテーションセンター入口の右側のグロボク ローンの所やファンフロックの要塞の前にいる 兵士の所にもクローバーがあり、監視されてい る。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:63
+msgid "\" To find Captain LeBorgne's treasure, the voyager who arrives at the port of Proxima island must use the closest mooring post as a guide. With his back to the docked boats, he must follow these instructions in DISCREET mode: | 6 steps to the North (straight ahead), then 6 steps to the East (to his right), following the gradual slope. 2 steps to the North (straight ahead) until he reaches the metal garbage can, 3 steps to the East (to his right) until he arrives at a light post. He must stand EXACTLY between the 2 lamp posts, and then take 8 steps to the North until he arrives at a gate. Captain LeBorgne's treasure is in the building behind the gate.\""
+msgstr "海賊ルボーニャの宝を見つけるには、プロキシ マ島の港に到着後、最寄りの停泊ポストを目印 に使わなければならない。埠頭につけた船を背 にし、ディスクリートモードで次の指示に従う こと。北へ６歩まっすぐ進み、次に右手、 東の方へ６歩ゆるやかな坂を進む、北へまっす ぐ２歩、メタルのゴミ箱の所まで進み、右手、 東の方角へ３歩、電柱の所まで前進する。２本 の電柱の間に立っているはずなので、そこから 北へ８歩、ゲートの所まで進む。 海賊ルボーニャの宝は、 そのゲートの後ろの建物にある。"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:64
+msgid "Citadel Island"
+msgstr "シタデル島"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:65
+msgid "Principal Island"
+msgstr "プリンシパル島"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:66
+msgid "White Leaf Desert"
+msgstr "ホワイトリーフ砂漠"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:67
+msgid "Proxima Island"
+msgstr "プロキシマ島"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:68
+msgid "Rebellion Island"
+msgstr "リベリオン島"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:69
+msgid "Hamalayi Range"
+msgstr "ハマライ山"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:70
+msgid "Tippett Island"
+msgstr "チペット島"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:71
+msgid "Brundle Island"
+msgstr "ブランドル島"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:72
+msgid "Fortress Island"
+msgstr "フォートレス島"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:73
+msgid "Polar Island"
+msgstr "北極島"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:74
+msgid "Clear Water Lake | (The Hamalayi mountains)"
+msgstr "聖なる水の湖 （ハマライ山）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:75
+msgid "Water Tower | (Principal island)"
+msgstr "給水塔 （プリンシパル島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:76
+msgid "Twinsen's house | (Citadel island)"
+msgstr "トゥインセンの家 （シタデル島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:77
+msgid "Forger's Cell | (Principal island)"
+msgstr "偽造犯の独房 （プリンシパル島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:78
+msgid "Drug store | (Citadel island)"
+msgstr "ドラッグストア （シタデル島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:79
+msgid "Forger's house | (Proxima island)"
+msgstr "偽造犯の家 （プロキシマ島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:80
+msgid "Dr FunFrock's headquarters | (Principal island)"
+msgstr "ファンフロック博士の司令部 （プリンシパル島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:81
+msgid "Teleportation Center | (Brundle island)"
+msgstr "テレポーテーションセンター （ブランドル島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:82
+msgid "Maritime Museum | (Proxima island)"
+msgstr "海事博物館 （プロキシマ島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:83
+msgid "Cloning Center & Fortress | (Fortress island)"
+msgstr "クローニングセンター （フォートレス島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:84
+msgid "Runic Stone | (Proxima island)"
+msgstr "ルーニックストーン （プロキシマ島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:85
+msgid "Drug store | (Citadel island)"
+msgstr "ドラッグストア （シタデル島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:86
+msgid "Runic Stone"
+msgstr "ルーニックストーン"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:87
+msgid "Mr. Mies Van der Rooh the architect's house. Bug street | (Citadel island)"
+msgstr "建築設計士、ミエス・バン・ダ・ルーの家、 バグ通り （シタデル島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:88
+msgid "Well of Sendell | (Polar island)"
+msgstr "センデルの泉 （北極島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:89
+msgid "Library | (Principal Island)"
+msgstr "図書館 （プリンシパル島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:90
+msgid "Port-Belooga | (Principal Island)"
+msgstr "ブルーガ港 （プリンシパル島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:91
+msgid "Proxim-City | (Proxima Island)"
+msgstr "プロキシムシティ （プロキシマ島）"
+
+# 313:Inventory, Intro and Holomap dialogs
+#: 313:92
+msgid "Mutant Factory | (The Hamalayi mountains)"
+msgstr "ミュータント工場 （ハマライ山）"
+
+# 315:Citadel Island dialogs
+#: 315:0
+msgid "What are you doing here? This sector is off limits to the public."
+msgstr "ここで何をしている？　一般市民は立入禁止だ"
+
+# 315:Citadel Island dialogs
+#: 315:1
+msgid "Halt!"
+msgstr "止まれ！"
+
+# 315:Citadel Island dialogs
+#: 315:2
+msgid "Stop squirming, prisoner Twinsen!"
+msgstr "こらトゥインセン クネクネ動いてんじゃない！"
+
+# 315:Citadel Island dialogs
+#: 315:3
+msgid "Hey, you! You're not one of my nurses! Sound the alarm!"
+msgstr "おいお前　うちの看護士じゃないな　警報を鳴 らせ！"
+
+# 315:Citadel Island dialogs
+#: 315:4
+msgid "Good day, fellow nurse."
+msgstr "やぁ　どうだい"
+
+# 315:Citadel Island dialogs
+#: 315:5
+msgid "A prisoner has escaped! | Sound the alarm!"
+msgstr "警報を鳴らせ！　脱走囚だ！"
+
+# 315:Citadel Island dialogs
+#: 315:6
+msgid "\"RULE# 1024-GH : | Dr. FunFrock reminds you that it is absolutely forbidden to make any allusion whatsoever to the so called Legend.\""
+msgstr "「規則　ナンバー１０２４ーＧＨ：ファンフロ ック博士の命令により、これより伝説と呼ばれ るもの及びそれに関するもの　一切に関する言 動を禁止する」"
+
+# 315:Citadel Island dialogs
+#: 315:7
+msgid "\"Long live the venerable Dr. FunFrock, the one who saved us from all the superstitions.\""
+msgstr "「我々を全ての迷信から救って下さる　偉大な るファンフロック博士　永遠なれ」"
+
+# 315:Citadel Island dialogs
+#: 315:8
+msgid "Hmmmmm... what if I try to get the guard's attention?"
+msgstr "ふーん　あの看守の気を引いたらどうなるのか なあ？"
+
+# 315:Citadel Island dialogs
+#: 315:9
+msgid "Good day"
+msgstr "やあ"
+
+# 315:Citadel Island dialogs
+#: 315:10
+msgid "You've returned at last, my love! Come inside quickly - all the clones must be looking for you."
+msgstr "よかった　やっと帰ってきたのね、早く中に入 って！　クローン達があなたのことを捜してる わよ。"
+
+# 315:Citadel Island dialogs
+#: 315:11
+msgid "Twinsen, where were you? I was worried sick!"
+msgstr "トゥインセン　どこにいたの？　あたし、心配 で死にそう！"
+
+# 315:Citadel Island dialogs
+#: 315:12
+msgid "I've just escaped from the asylum. They think that I am a trouble maker because of the strange dreams I have, the ones where Sendell is calling me. I spoke to you about them on several occasions."
+msgstr "収容所から逃げてきたんだ　奴らは、僕を問題 児だと思ってる　僕が変な夢を見るからだ。ほ ら例のセンデルが呼んでるやつさ　君にも夢の 事　何回か話しただろう？"
+
+# 315:Citadel Island dialogs
+#: 315:13
+msgid "I rummage around here as there's no one guarding this place. I hide in the truck so that the guards won't see me. You just have to jump into the pile of garbage and be VERY DISCREET about it."
+msgstr "このあたりを見てまわったけど、見張りだらけ だ。　おれは、トラックの中に隠れてきたから 見つからなかったけど・・・　お前も逃げるな らゴミ捨て場に飛び込み、音を立てずに歩くん だぜ！　誰にも言うんじゃないぞ。"
+
+# 315:Citadel Island dialogs
+#: 315:14
+msgid "Hi! What are you doing there? Did you know that you can read the posters? All you have to do is move in front of one."
+msgstr "やあ　そこで何してんだい？　君そのポスター 読めるの知ってた？　ポスターの前でノーマル モードにしてアクションコマンドを使えばいい んだよ。"
+
+# 315:Citadel Island dialogs
+#: 315:15
+msgid "Uhhh ... How's it going? "
+msgstr "やあ"
+
+# 315:Citadel Island dialogs
+#: 315:16
+msgid "I know where they went and I'll help you if you buy me a drink. Ask the waiter about it."
+msgstr "奴らがどこへ行ったかって？　一杯おごってく れりゃ話してやるぜ、 ウェイターに聞いてみな！"
+
+# 315:Citadel Island dialogs
+#: 315:17
+msgid "You're being held here because you are a trouble maker. An informant told us that you claim to have prophetic dreams. | Calm down, we're going to dissect... uh, I mean... take care of you!"
+msgstr "お前は問題を起こすからここにいるんだ　妙な 夢を見ることは情報屋に聞いてるよ　落ち着け って　これから解剖して．．．いや　面倒見て やるからさ。"
+
+# 315:Citadel Island dialogs
+#: 315:18
+msgid "Ok, I just have to wait for the truck to move into place."
+msgstr "ＯＫ　 トラックがくるのを待ってから中に入るよ。"
+
+# 315:Citadel Island dialogs
+#: 315:19
+msgid "It is forbidden to travel outside the Citadel in that kind of attire!"
+msgstr "その服装でシタデル島の外に出ることは禁止さ れている。"
+
+# 315:Citadel Island dialogs
+#: 315:20
+msgid "Twinsen! What are you doing here? I heard you were arrested only yesterday!"
+msgstr "トゥインセン！　ここで何してんだ？　昨日逮 捕されたって聞いたばっかりだぞ！"
+
+# 315:Citadel Island dialogs
+#: 315:21
+msgid "They let me out early for good behavior!"
+msgstr "模範囚だから早く出られたんだ。"
+
+# 315:Citadel Island dialogs
+#: 315:22
+msgid "Impossible! Nobody gets out of the Citadel alive!"
+msgstr "そんなバカな！　シタデル島を生きて出られる はずがない。"
+
+# 315:Citadel Island dialogs
+#: 315:23
+msgid "\"ANNOUNCEMENT #357-G: | A new automatic surveillance device is now operating in the city. All citizens must remain motionless if one of these devices is in their vicinity.\""
+msgstr "「告知ナンバー３５７－Ｇ：現在街には、新し いオート監視装置が設置され運用されている。 監視装置が接近しているときは、監視された市 民は動いてはならない」"
+
+# 315:Citadel Island dialogs
+#: 315:24
+msgid "It is forbidden to use that robot !"
+msgstr "そのロボットを使うことは禁止されている。"
+
+# 315:Citadel Island dialogs
+#: 315:25
+msgid "You look kind of lost, Mr. Nurse. Use your holomap if you don't know how to get back home!"
+msgstr "看護士さんは、どうやら迷子みたいだね。　帰 り方が分からないんならホロマップを使うとい いよ。"
+
+# 315:Citadel Island dialogs
+#: 315:26
+msgid "Welcome aboard! You have picked a wonderful day for travelling, the weather is beautiful!"
+msgstr "ようこそ私の船へ！　 お客さんいい日をお選びになりましたね 今日は素晴らしい天気ですよ。"
+
+# 315:Citadel Island dialogs
+#: 315:27
+msgid "I think it's time to make use of what you hid in the house."
+msgstr "家に隠してるものを使うときだと思うわ。"
+
+# 315:Citadel Island dialogs
+#: 315:28
+msgid "Open up! We know you're in there!"
+msgstr "ここを開けろ！　いるのは分かっている！"
+
+# 315:Citadel Island dialogs
+#: 315:29
+msgid "You are charged with aiding an escapee. Follow us!"
+msgstr "犯人逃亡幇助の罪だ　ついてこい！"
+
+# 315:Citadel Island dialogs
+#: 315:30
+msgid "I'm looking for a young girl. She is being escorted by two groboclones."
+msgstr "女の子を捜してるんです　グロボクローン２人 に連れ去られたんだけど。"
+
+# 315:Citadel Island dialogs
+#: 315:31
+msgid "Sound the alarm! It's the escapee!"
+msgstr "警報を鳴らせ！　脱走囚だ！"
+
+# 315:Citadel Island dialogs
+#: 315:32
+msgid "I believe that you can read all the posters. All you have to do is move in front of one. I can't really help you out, because I don't know how to read!"
+msgstr "ポスターは全部読めるはずなんだ。　ただ君が ポスターの前まで行ってノーマルモードにして アクションコマンドを使えばいいんだ。　俺は 字が読めないから役には立たないけどな。"
+
+# 315:Citadel Island dialogs
+#: 315:33
+msgid "I haven't seen them. | Sorry!"
+msgstr "奴らは見てないね。　悪いけど。"
+
+# 315:Citadel Island dialogs
+#: 315:34
+msgid "I saw them at the port a little while ago. They were leaving for another island. It's strange, because prisoners usually stay at the Citadel."
+msgstr "少し前に港で見かけたよ　別の島へ向かうとこ ろだった。　普通、囚人はシタデル島にいるは ずだから変だと思ったんだ。"
+
+# 315:Citadel Island dialogs
+#: 315:35
+msgid "You need a ticket to board the ferry. You can buy one next door."
+msgstr "フェリーに乗るなら切符を買え。　切符は隣で 売っている。"
+
+# 315:Citadel Island dialogs
+#: 315:36
+msgid "Good day, one ticket for... Sound the alarm! It's the escapee!"
+msgstr "こんにちは　切符１枚．．．うわっ　警報を鳴 らせ！　脱走囚だ！"
+
+# 315:Citadel Island dialogs
+#: 315:37
+msgid "I've had it up to my trunk! There are 4 crates in the warehouse that I cannot seem to arrange on the 4 crosses painted on the ground. I would gladly give a ferry ticket to anyone who could help me out of this mess."
+msgstr "駄目だもう頭がこんがらがった！　倉庫に４つ 木箱があって、それを４つのＸ印の上に置くん だけど　 どうしたらいいか全然分からないんだ。　俺の 代わりにこれをやってくれた人には喜んでフェ リーの切符をあげるんだけどなぁ．．．。"
+
+# 315:Citadel Island dialogs
+#: 315:38
+msgid "Hey! You over there, come here!"
+msgstr "おい！　そこのお前だ！　こっちへ来い！"
+
+# 315:Citadel Island dialogs
+#: 315:39
+msgid "I can't open this chest with this blasted trick back of mine! Gimme a hand and I'll let you keep some of what's inside. All you have to do is move in front of the chest. You can do the same for rummaging through lots of things like cupboards, garbage cans, etc..."
+msgstr "ハッ　この引き出し　からくりがあるんだか何 だか全然開かないんだ、助けてくれよ！　中に あるもんを分けてやるからさ　開けるにはただ 引き出しの前まで行って　ノーマルモードにし てアクションコマンドを使えばいいんだけど。 　同じ要領でやれば、いろんなところを かきまわすことが出来るんだ。 戸棚とかゴミ箱の中とかね、"
+
+# 315:Citadel Island dialogs
+#: 315:40
+msgid "My son and I fixed the ventilation flap in your chimney. We'll put up a fence later. It's odd that it is so far away from your house! According to my son, who is an architect, there are a lot of strange things about your house!"
+msgstr "あんたんとこの煙突の通気孔　息子と私で直し たよ、フェンスは後からつける事にしたがね。 　しかしあんたんちからこんなに遠いなんて妙 だねぇ。　設計士の息子が言うには何でも　あ んたんちには他にも変なことがたくさんあるん だって？"
+
+# 315:Citadel Island dialogs
+#: 315:41
+msgid "You know, don't worry about putting up a fence around the chimney. I've thought about it and I prefer to keep it as it is."
+msgstr "でも　煙突の回りのフェンスは結構ですよ。　 僕も考えたんだけど、あれはあのままでいいん だ。"
+
+# 315:Citadel Island dialogs
+#: 315:42
+msgid "Good day."
+msgstr "やあ"
+
+# 315:Citadel Island dialogs
+#: 315:43
+msgid "Try the tavern, you never know..."
+msgstr "酒場に行ってみな　何かあるかもよ。"
+
+# 315:Citadel Island dialogs
+#: 315:44
+msgid "The crates are arranged correctly this time. Thank you, and please accept this ferry ticket as a token of my gratitude."
+msgstr "今回は木箱が正しく並んでいるじゃないか　あ りがとう！　どうかフェリーの切符を受け取っ てくれ、俺の感謝の気持ちだよ。"
+
+# 315:Citadel Island dialogs
+#: 315:45
+msgid "I'm on special assignment for the good Dr. FunFrock, and am looking for the plans of the Teleportation Center."
+msgstr "ファンフロック博士の特別任務を 任されていて、テレポーテーションセンターの 設計図を捜してるんだ。"
+
+# 315:Citadel Island dialogs
+#: 315:46
+msgid "Come in friend! We will look at them together because they are rather complicated."
+msgstr "こっちへおいで！　一緒に見てあげよう　何た ってひどく複雑だからねえ。"
+
+# 315:Citadel Island dialogs
+#: 315:47
+msgid "I was put in charge of verifying this building because it was built over ruins that are marked with a strange symbol. It seems that a mad man is attacking different sites also marked with this same symbol. All this extra work has really ruined my weekend! | We're really worried about the Teleportation Center: it's weak point is situated on the left, right after the first guard post."
+msgstr "この建物を検証するように言われてるんだ。　 だってここは不思議なシンボルのついた廃墟の 上に立てたからね。　話によると変な男が、同 じシンボルのついた違う建物を攻撃してるらし い。余計な仕事が多くって週末も何もあった もんじゃないよ。テレポーテーションセンター のことが本当に心配でね。最初の警備室をすぎ てすぐ左側にセンターの弱点があるんだ。"
+
+# 315:Citadel Island dialogs
+#: 315:48
+msgid "You will need my card to get into the center. It is on the drawing table. If you do succeed in catching this vandal with his weird Horn, I would appreciate it if you would kick his rear end for me!"
+msgstr "センターに入るには僕のカードがいる設計台の 上にあるよ。　もし気味悪い角をつけた変な奴 を捕まえたら、僕の代わりにそいつのケツを蹴 飛ばしといてくれると嬉しいんだけど。"
+
+# 315:Citadel Island dialogs
+#: 315:49
+msgid "Go ask my son, he has come home from work. Sorry about your house: the clones came with an attack tank, and they were looking for you!"
+msgstr "息子に聞いてみてくれないか、仕事から帰って きてるから。　家の事はすまなかった。　クロ ーンが戦車で攻撃してきたんだよ。　あんたを 捜してたみたいだ。"
+
+# 315:Citadel Island dialogs
+#: 315:50
+msgid "I would like to buy a drink for the grobo upstairs."
+msgstr "上のグロボに酒を買ってやりたいんだけど。"
+
+# 315:Citadel Island dialogs
+#: 315:51
+msgid "Very good sir, but that will cost you 10 Kashes per drink."
+msgstr "ホホッ　いいですよ。　 えーっと１杯につき１０キャッシュ頂きます。"
+
+# 315:Citadel Island dialogs
+#: 315:52
+msgid "Hide! They have itchy trigger fingers!"
+msgstr "隠れて！　あの人達すぐに撃つわよ。"
+
+# 315:Citadel Island dialogs
+#: 315:53
+msgid "\"Keep the planet clean!\""
+msgstr "「この星をきれいにしよう！」"
+
+# 315:Citadel Island dialogs
+#: 315:54
+msgid "Let's see now, where did I put my key?"
+msgstr "ちょっと待てよ　キーをどこへやったかな？"
+
+# 315:Citadel Island dialogs
+#: 315:55
+msgid "Dad! Do you have a key with you?"
+msgstr "父さん！　そっちにキー持ってる？"
+
+# 315:Citadel Island dialogs
+#: 315:56
+msgid "All you have to do is ask."
+msgstr "ただ聞けばいいんだよ。"
+
+# 315:Citadel Island dialogs
+#: 315:57
+msgid "I've got to get into the Teleportation Center."
+msgstr "どうしてもテレポーテーションセンターに入ら なくちゃ。"
+
+# 315:Citadel Island dialogs
+#: 315:58
+msgid "You don't have to be aggressive all the time. I don't talk to pushy people!"
+msgstr "オホッ　そんなにいつもトゲトゲしなくてもい いよ。　押しの強い人は嫌いだしさ。"
+
+# 315:Citadel Island dialogs
+#: 315:59
+msgid "10 Kashes! That's too expensive!"
+msgstr "１０キャッシュ！そんなの高すぎるよ"
+
+# 315:Citadel Island dialogs
+#: 315:60
+msgid "You've just got back all the objects that were in your inventory!"
+msgstr "インベントリーリストにあったアイテムの全て を手に入れた。"
+
+# 315:Citadel Island dialogs
+#: 315:61
+msgid "Don't ever try teleporting yourself - it's very dangerous! Only the clones can do it."
+msgstr "テレポートなんて危ないから試しちゃダメ！　 できるのはクローンだけよ。"
+
+# 315:Citadel Island dialogs
+#: 315:62
+msgid "\"Welcome to Lupin-Burg | (Citadel Island).\""
+msgstr "「ルピンバーグへようこそ　シタデル島」"
+
+# 315:Citadel Island dialogs
+#: 315:63
+msgid "Yeah, the clones already confiscated the key to my cellar, so don't be surprised when they come back to close down the tavern!"
+msgstr "実は、クローンにここの地下室のキーを押収さ れてしまったんだ。　もうじき、奴らが酒場を 閉鎖しに戻ってくるかもしれない。"
+
+# 315:Citadel Island dialogs
+#: 315:64
+msgid "\"Welcome to Citadel Island\""
+msgstr "「シタデル島へようこそ」"
+
+# 315:Citadel Island dialogs
+#: 315:65
+msgid "We are going to close this tavern down. Get out of here!"
+msgstr "今からこの酒場を閉鎖する。 さっさと出て行け。"
+
+# 315:Citadel Island dialogs
+#: 315:66
+msgid "Good day, this talk about the Legend is strange, don't you think?"
+msgstr "やあ　最近伝説のうわさがおかしいよ　 そう思わない？"
+
+# 315:Citadel Island dialogs
+#: 315:67
+msgid "The 4 crates are not on the 4 crosses, try again!"
+msgstr "４つの木箱が、Ｘ印の上にちゃんと載ってない ぞ！　やり直しだな。"
+
+# 315:Citadel Island dialogs
+#: 315:68
+msgid "I don't know anything about it, and it is forbidden to talk about it!"
+msgstr "よく知らないな　 それにその話は禁句だからね。"
+
+# 315:Citadel Island dialogs
+#: 315:69
+msgid "I saw them! They left for another island, but I don't know which one."
+msgstr "見たよ！　別の島に行っちゃったけど、どの島 かは知らないな。"
+
+# 315:Citadel Island dialogs
+#: 315:70
+msgid "It is forbidden to talk about it! "
+msgstr "その話は禁止されている。"
+
+# 315:Citadel Island dialogs
+#: 315:71
+msgid "Bah! That doesn't interest me. Go see at the library or go drown your sorrows at the tavern; or even better, do it the other way around."
+msgstr "ふん　ちっともおもしろくない。　図書館で調 べるか、酒場で一杯やるんだな。　順番を変え て先に一杯ってのもいいな。"
+
+# 315:Citadel Island dialogs
+#: 315:72
+msgid "What's strange is that you're talking about it. That's forbidden, you know!"
+msgstr "おかしいのは　その言葉を口にしているお前の 方だよ　禁句のはずだぞ！"
+
+# 315:Citadel Island dialogs
+#: 315:73
+msgid "I don't know. The books that mention it have been confiscated and sent to Principal Island."
+msgstr "知らないわ　そのことを書いてある本はプリン シパル島にもっていかれちゃったもの。"
+
+# 315:Citadel Island dialogs
+#: 315:74
+msgid "It is forbidden to talk about that!"
+msgstr "その話は禁止されている。"
+
+# 315:Citadel Island dialogs
+#: 315:75
+msgid "Prisoner Twinsen, I've already had enough of seeing you here, so don't make any more problems for yourself!"
+msgstr "囚人トゥインセン　俺はもうお前の顔をほとほ と見飽きた。　いいかげんおとなしくしてた方 が身のためだぞ。"
+
+# 315:Citadel Island dialogs
+#: 315:76
+msgid "A piece of advice: surrender instead of trying to provoke us."
+msgstr "一言助言だ。　我々をおこらす前に降伏するこ とだ。"
+
+# 315:Citadel Island dialogs
+#: 315:77
+msgid "You are not going to get away by evoking that subversive propaganda."
+msgstr "あんな反乱誘発行為をしてみたって　ここから は絶対に逃げられないぞ。"
+
+# 315:Citadel Island dialogs
+#: 315:78
+msgid "I'm a bartender, you know, so I've have had my fill of bar jokes and strange stories!"
+msgstr "俺はバーテンだからさ　酒場用のジョークとか おかしな話はいっぱい聞いてるよ。"
+
+# 315:Citadel Island dialogs
+#: 315:79
+msgid "I don't know anything about it, but the tavern will soon be closed down. That's been confirmed!"
+msgstr "そのことは何も知らないけど　酒場はもうすぐ 閉鎖されるんだ。　もう決まってるんだ。"
+
+# 315:Citadel Island dialogs
+#: 315:80
+msgid "Good day"
+msgstr "こんにちは"
+
+# 315:Citadel Island dialogs
+#: 315:81
+msgid "Well, I don't know anything about it. But you could offer me a drink anyway?"
+msgstr "まあ　そのことは何も知らないけど一杯おごっ てくれてもいいんじゃない？"
+
+# 315:Citadel Island dialogs
+#: 315:82
+msgid "\"This room contains information and weapons that were amassed for generations to help the Heir who will, one day, be chosen from our descendants. The key to the room was passed down from generation to generation, but our ancestor Hégésippe was the last family member to retain the key. He was attacked and killed by the ruthless pirate LeBorgne during a sea voyage. Nobody knows where Leborgne's treasure, which undoubtedly contains the golden key to the room, is today.\""
+msgstr "「この部屋には、我々の子孫からいつか選ばれ る世継ぎのため、何代にもわたって集められて きた言葉と武器がある。　部屋のキーは先祖代 々受け継がれていたのだが、ご先祖であるヘギ ー・シーパがキーを持つ最後の代となってしま った。彼は、航海中冷酷な海賊ルボーニャに襲 われ殺された。　部屋を開けるゴールドキーは 間違いなく失われたルボーニャの宝の中にある はずだ。」"
+
+# 315:Citadel Island dialogs
+#: 315:83
+msgid "\" You who read this text, know that there are 3 Runic Stones in this world. Their locations are now indicated on your Holomap. They are large menhirs with runic text written on them. They will help the Heir in his quest for Sendell. The third stone will show the exact location of the Well of Sendell. In addition to the help provided by the text, each stone conceals a secret.\""
+msgstr "「この文字を読む者に、３つのルーニックスト ーンの存在が明かされる。　そのありかは、今 ホロマップに示されている。　これらの大きな 石には、ルーン文字が書かれている。　 これらの石は、世継ぎの者をセンデルへと導く だろう。　３番目の石がセンデルの泉の正確な 位置を教えてくれる。　石の文字が知恵を与え てくれるだけでなく、石にはそれぞれ秘密があ る。」"
+
+# 315:Citadel Island dialogs
+#: 315:84
+msgid "\"Bug street | (Citadel Island).\""
+msgstr "「バグ通り　シタデル島」"
+
+# 315:Citadel Island dialogs
+#: 315:85
+msgid "It's ok, let's go!"
+msgstr "いいんだ、行こう！"
+
+# 315:Citadel Island dialogs
+#: 315:86
+msgid "You don't have enough Kashes, come back later!"
+msgstr "キャッシュが足りないぞ、出直してきな！"
+
+# 315:Citadel Island dialogs
+#: 315:87
+msgid "Good day"
+msgstr "どうも"
+
+# 315:Citadel Island dialogs
+#: 315:88
+msgid "\"Life candy: do you want 10 hearts for 10 Kashes?\""
+msgstr "「ライフキャンディ　ハート１０個　１０キャ ッシュでいかが？」"
+
+# 315:Citadel Island dialogs
+#: 315:89
+msgid "Ok, I'll take them."
+msgstr "よし、買うよ"
+
+# 315:Citadel Island dialogs
+#: 315:90
+msgid "No, thank you."
+msgstr "いや、結構"
+
+# 315:Citadel Island dialogs
+#: 315:91
+msgid "Not enough Kashes!"
+msgstr "キャッシュが足りないんだ！"
+
+# 315:Citadel Island dialogs
+#: 315:92
+msgid "Good day, I would like some information about LeBorgne the pirate."
+msgstr "こんにちは　海賊ルボーニャのこと知りたいん だけど。"
+
+# 315:Citadel Island dialogs
+#: 315:93
+msgid "\"L.B.A. | Lupin-Burg sewer service | Little Vachond street\""
+msgstr "「Ｌ．Ｂ．Ａ　ルピンバーグ下水工事　リトル バション通り」"
+
+# 315:Citadel Island dialogs
+#: 315:94
+msgid "\"L.B.A. | Lupin-Burg sewer service | Dr FunFrock Square\""
+msgstr "「Ｌ．Ｂ．Ａ　ルピンバーグ下水工事　ファン フロック博士広場」"
+
+# 315:Citadel Island dialogs
+#: 315:95
+msgid "Halt!"
+msgstr "止まれ！"
+
+# 315:Citadel Island dialogs
+#: 315:96
+msgid "Hey, you! You're not one of my nurses! Sound the alarm!"
+msgstr "おいお前、うちの看護士じゃないな！　警報を 鳴らせ！"
+
+# 315:Citadel Island dialogs
+#: 315:97
+msgid "Good day, fellow nurse."
+msgstr "やあ、どうだい"
+
+# 315:Citadel Island dialogs
+#: 315:98
+msgid "Good day, fellow nurse."
+msgstr "やあ、どうだい"
+
+# 315:Citadel Island dialogs
+#: 315:99
+msgid "A prisoner is escaping! | Sound the alarm!"
+msgstr "囚人が脱走した！　警報を鳴らせ！"
+
+# 315:Citadel Island dialogs
+#: 315:100
+msgid "A prisoner is escaping! | Sound the alarm!"
+msgstr "囚人が脱走した！　警報を鳴らせ！"
+
+# 315:Citadel Island dialogs
+#: 315:101
+msgid "A prisoner is escaping! | Sound the alarm!"
+msgstr "囚人が脱走した！　警報を鳴らせ！"
+
+# 315:Citadel Island dialogs
+#: 315:102
+msgid "Good day, neighbor."
+msgstr "やあ、お隣りさん"
+
+# 315:Citadel Island dialogs
+#: 315:103
+msgid "Good day, neighbor."
+msgstr "やあ、お隣りさん"
+
+# 315:Citadel Island dialogs
+#: 315:104
+msgid "Good day"
+msgstr "やあ"
+
+# 315:Citadel Island dialogs
+#: 315:105
+msgid "Good day"
+msgstr "やあ"
+
+# 315:Citadel Island dialogs
+#: 315:106
+msgid "Good day"
+msgstr "やあどうも"
+
+# 315:Citadel Island dialogs
+#: 315:107
+msgid "Hey buddy!"
+msgstr "おっ、なんだ！"
+
+# 315:Citadel Island dialogs
+#: 315:108
+msgid "Good day"
+msgstr "やーあ"
+
+# 315:Citadel Island dialogs
+#: 315:109
+msgid "Good day"
+msgstr "こんにちは"
+
+# 315:Citadel Island dialogs
+#: 315:110
+msgid "You are being held here because you are a trouble maker."
+msgstr "ここに収容しておくのは、お前が問題を起こす からだ。"
+
+# 315:Citadel Island dialogs
+#: 315:111
+msgid "Hey, Mr. Nurse! Use your holomap if you're lost."
+msgstr "ねねね、ねぇ看護士さん、まよったんならホロ マップを使いなよ。"
+
+# 315:Citadel Island dialogs
+#: 315:112
+msgid "You'd better try to get the holomap back or buy another one at the bazaar on Principal Island."
+msgstr "あのさー　ホロマップの作動に必要なのは、 ＜Ｈ＞キーだよ。　だから、＜Ｈ＞キーを押す か、だめなら　新しいのを買えよ。　プリンシ パル島のマーケットでさ。"
+
+# 315:Citadel Island dialogs
+#: 315:113
+msgid "I haven't seen them. | | Sorry!"
+msgstr "見たことないよ、悪いね！"
+
+# 315:Citadel Island dialogs
+#: 315:114
+msgid "I'd like to help you, but I haven't seen them."
+msgstr "協力してやりたいけど、見てないんだよ。"
+
+# 315:Citadel Island dialogs
+#: 315:115
+msgid "I haven't seen them. | | Sorry!"
+msgstr "見てないわ、ごめんね。"
+
+# 315:Citadel Island dialogs
+#: 315:116
+msgid "Didn't see 'em. I ain't budged an inch!"
+msgstr "見なかったぞ、ずっといたがな！"
+
+# 315:Citadel Island dialogs
+#: 315:117
+msgid "I didn't see them. Try at the tavern, you never know..."
+msgstr "見なかったねぇ、 酒場に行けば、分かるかもよ。"
+
+# 315:Citadel Island dialogs
+#: 315:118
+msgid "I haven't seen anyone, but ask inside the tavern."
+msgstr "僕は誰も見てないよ、でも酒場へ行って来てみ な。"
+
+# 315:Citadel Island dialogs
+#: 315:119
+msgid "You need a ticket to board the ferry. You can buy one next door. "
+msgstr "フェリーに乗るには切符は要る。 切符は隣で買えますよ。"
+
+# 315:Citadel Island dialogs
+#: 315:120
+msgid "Leave me alone, I have nothing to say to you."
+msgstr "もうほっといてよ 君に話すことなんてないんだから。"
+
+# 315:Citadel Island dialogs
+#: 315:121
+msgid "Try the tavern, you never know."
+msgstr "酒場で聞けば分かるかも。"
+
+# 315:Citadel Island dialogs
+#: 315:122
+msgid "Try the tavern, that sounds like something they would be familiar with."
+msgstr "酒場で聞けば？ そういう事は、酒場の人が詳しそうだわ。"
+
+# 315:Citadel Island dialogs
+#: 315:123
+msgid "Don't get all excited, son! I prefer talking calmly."
+msgstr "そう興奮するなよ、君！ 落ち着いて話そうじゃないか。"
+
+# 315:Citadel Island dialogs
+#: 315:124
+msgid "Calm down quickly! If you are going to be like that, I won't speak to you any more."
+msgstr "ちょっと落ち着いて！ そんな調子じゃ、もう話なんかしないわよ。"
+
+# 315:Citadel Island dialogs
+#: 315:125
+msgid "Did you know that the telepods are dangerous for all species? Only the clones can use them!"
+msgstr "テレポッドはトゥインサンの種族には危険だっ て知ってたか？ クローン人間しか使えないんだ。"
+
+# 315:Citadel Island dialogs
+#: 315:126
+msgid "A piece of advice: surrender instead of provoking us."
+msgstr "一言いっておく、我々をおこらす前に降伏しろ ！"
+
+# 315:Citadel Island dialogs
+#: 315:127
+msgid "Quiet!"
+msgstr "静かに！"
+
+# 315:Citadel Island dialogs
+#: 315:128
+msgid "Thanks, mate!"
+msgstr "ウフウフ　ありがとさん！"
+
+# 315:Citadel Island dialogs
+#: 315:129
+msgid "I was trying to dig a tunnel, but the noise tipped them off!"
+msgstr "トンネルを掘ろうとしたんだけどさ 音で彼らに気付かれたんだ。"
+
+# 315:Citadel Island dialogs
+#: 315:130
+msgid "Where do you want to go?"
+msgstr "どこへ行きましょうか？"
+
+# 315:Citadel Island dialogs
+#: 315:131
+msgid "To Principal Island"
+msgstr "プリンシパル島まで"
+
+# 315:Citadel Island dialogs
+#: 315:132
+msgid "To the White Leaf Desert"
+msgstr "ホワイトリーフ砂漠まで"
+
+# 315:Citadel Island dialogs
+#: 315:133
+msgid "To Proxima Island"
+msgstr "プロキシマ島まで"
+
+# 315:Citadel Island dialogs
+#: 315:134
+msgid "To Rebellion Island"
+msgstr "リベリオン島まで"
+
+# 315:Citadel Island dialogs
+#: 315:135
+msgid "I'm staying here!"
+msgstr "ここに残るよ！"
+
+# 315:Citadel Island dialogs
+#: 315:136
+msgid "Bah! That doesn't interest me."
+msgstr "ふん、ちっともおもしろくない。"
+
+# 315:Citadel Island dialogs
+#: 315:137
+msgid "Hi!"
+msgstr "やあ"
+
+# 315:Citadel Island dialogs
+#: 315:138
+msgid "Sorry, I haven't seen her!"
+msgstr "悪いけど、彼女は見てないなあ。"
+
+# 315:Citadel Island dialogs
+#: 315:139
+msgid "I don't know what those things are!"
+msgstr "それが何かなんて知らないよ！"
+
+# 315:Citadel Island dialogs
+#: 315:140
+msgid "Yes... Hey, stop talking about it, ok? That's a sure way to wind up in the Citadel."
+msgstr "もちろん！ おっと　この話はもうやめにしようぜ。 な、シタデル島の刑務所行きになっちまうぞ。"
+
+# 315:Citadel Island dialogs
+#: 315:141
+msgid "I don't know what that is all about."
+msgstr "何のことだか、さっぱり分からないよ。"
+
+# 315:Citadel Island dialogs
+#: 315:142
+msgid "I know that LeBorgne had some kind of a captain's log written for him (he was practically illiterate), and the boss of the tavern on Principal Island knows where it is!"
+msgstr "海賊ルボーニャは、船長航海日誌みたいなもの を書いてもらってたんだ。　自分は字がへたく そだったからね。 で、日誌のありかは、プリンシパル島の酒場の マスターが知ってるよ。"
+
+# 315:Citadel Island dialogs
+#: 315:143
+msgid "They took a fast boat a little while ago. Destination unknown."
+msgstr "ちょっと前に、速いボートに乗って行ったよ。 行き先は知らないね。"
+
+# 315:Citadel Island dialogs
+#: 315:144
+msgid "One day, one of my swabs claimed that LeBorgne was an ancestor of mine and... well, you know how dramatic burials at sea can be!"
+msgstr "いつだったか　船の乗務員がルボーニャはわし の先祖だなんて言ってたが　で、いっいやぁ、 海に埋葬するとは、すごく過激な発想だよな。"
+
+# 315:Citadel Island dialogs
+#: 315:145
+msgid "I can't help you out, my friend. Don't know what you're talking about."
+msgstr "君の力になってやれないな。 何の事だかさっぱり分かんないんだから。"
+
+# 315:Citadel Island dialogs
+#: 315:146
+msgid "That's none of your business!"
+msgstr "お前には関係ない。"
+
+# 315:Citadel Island dialogs
+#: 315:147
+msgid "Ask the sailor, he would have know who LeBorgne was."
+msgstr "あの船長に聞けば？ ルボーニャの事を知ってたはずだよ。"
+
+# 315:Citadel Island dialogs
+#: 315:148
+msgid "Not me!"
+msgstr "わたしじゃない！"
+
+# 315:Citadel Island dialogs
+#: 315:149
+msgid "Bah, you think so? And in the first place, I don't know it."
+msgstr "そう思います？　第一知りませんよ。"
+
+# 315:Citadel Island dialogs
+#: 315:150
+msgid "Asks one of my colleagues working in the warehouse on the port. He will know about this LeBorgne."
+msgstr "港の倉庫で働いている俺の同僚に聞いてみな。 ルボーニャの事知ってるはずだよ。"
+
+# 315:Citadel Island dialogs
+#: 315:151
+msgid "There is a library on Principal Island, but I don't know if they have any books about the Legend there."
+msgstr "プリンシパル島に図書館があるけど、その伝説 の本があるかどうかは知らないわ。"
+
+# 315:Citadel Island dialogs
+#: 315:152
+msgid "I don't know anything about that story."
+msgstr "その話はまったく知らないわ。"
+
+# 315:Citadel Island dialogs
+#: 315:153
+msgid "Sorry, but I don't know what that could be about."
+msgstr "悪いけどな、俺には何の事だかわからんよ。"
+
+# 315:Citadel Island dialogs
+#: 315:154
+msgid "Don't know him!"
+msgstr "知らないな！"
+
+# 315:Citadel Island dialogs
+#: 315:155
+msgid "I was not informed about this mission!"
+msgstr "このミッションのことは聞いていない！"
+
+# 315:Citadel Island dialogs
+#: 315:156
+msgid "Really! Well that's too bad, but I don't know anything about it."
+msgstr "そうか、そりゃ残念だ。 でも俺は何にも知らないよ。"
+
+# 315:Citadel Island dialogs
+#: 315:157
+msgid "I've never seen those plans."
+msgstr "そんな設計図見たことないよ"
+
+# 315:Citadel Island dialogs
+#: 315:158
+msgid "What legend? I don't know about any legend!"
+msgstr "何の伝説？ 伝説なんて一つも知らないし聞いたこともない"
+
+# 315:Citadel Island dialogs
+#: 315:159
+msgid "Good day"
+msgstr "やあ"
+
+# 315:Citadel Island dialogs
+#: 315:160
+msgid "Ask a sailor that type of question."
+msgstr "その手の質問は船乗りにしなよ。"
+
+# 315:Citadel Island dialogs
+#: 315:161
+msgid "Sorry, I don't know where they are."
+msgstr "悪いけど、どこだかさっぱり分からないよ。"
+
+# 315:Citadel Island dialogs
+#: 315:162
+msgid "Bah! That holds little interest for me."
+msgstr "ふーん、そりゃちょっとおもしろそうだね。"
+
+# 315:Citadel Island dialogs
+#: 315:163
+msgid "That's in the past now, there are no pirates living today."
+msgstr "そりゃ過去の話で、今は海賊なんて存在しない よ。"
+
+# 315:Citadel Island dialogs
+#: 315:164
+msgid "Sorry, but I don't know what that could be about."
+msgstr "悪いけど、それが何のことだが分からないよ。"
+
+# 315:Citadel Island dialogs
+#: 315:165
+msgid "I didn't see them, but try asking at the tavern."
+msgstr "見なかったけど、酒場で聞いてみたら？"
+
+# 315:Citadel Island dialogs
+#: 315:166
+msgid "Never heard anything about it!"
+msgstr "そんなの聞いたことないわ。"
+
+# 315:Citadel Island dialogs
+#: 315:167
+msgid "I'm looking for the plans of the Teleportation Center - I'm on a special assignment!"
+msgstr "テレポーテーションセンターの設計図を探して るんだ。 博士の特別任務でね。"
+
+# 315:Citadel Island dialogs
+#: 315:168
+msgid "I haven't seen them. | | Sorry!"
+msgstr "見たことないなぁ 悪いね。"
+
+# 315:Citadel Island dialogs
+#: 315:169
+msgid "Sorry neighbor, I don't know what you're talking about."
+msgstr "悪いがねぇ 何の話かさっぱり分からないよ。"
+
+# 315:Citadel Island dialogs
+#: 315:170
+msgid "Try over at the port, all the sailors knew that pirate."
+msgstr "港の方で聞いてみたら、船員は皆、知っていた ぞ。"
+
+# 315:Citadel Island dialogs
+#: 315:171
+msgid "Good day, I'm looking for a friend. She is escorted by two groboclones."
+msgstr "やあ　女の子を捜してるんです。 グロボクローン２人に連れていかれたんですが"
+
+# 315:Citadel Island dialogs
+#: 315:172
+msgid "I didn't see her, but if she was arrested, where she is, surely isn't any of your business!"
+msgstr "見なかったけど、その子が逮捕されたのなら、 その居場所なんて誰も知ったこっちゃないよ。"
+
+# 315:Citadel Island dialogs
+#: 315:173
+msgid "I don't know what you are talking about."
+msgstr "何の話かさっぱり分からないよ。"
+
+# 315:Citadel Island dialogs
+#: 315:174
+msgid "Can I see your ferry ticket please?"
+msgstr "フェリーの切符を拝見します。"
+
+# 315:Citadel Island dialogs
+#: 315:175
+msgid "Ask a sailor, he might be able to help you."
+msgstr "船員に聞いてごらん。 何か教えてくれるかもよ。"
+
+# 315:Citadel Island dialogs
+#: 315:176
+msgid "I don't know where they are."
+msgstr "どこだか知らないよ。"
+
+# 315:Citadel Island dialogs
+#: 315:177
+msgid "I haven't seen them."
+msgstr "ウハッ　見たことないねぇ。"
+
+# 315:Citadel Island dialogs
+#: 315:178
+msgid "If you still want to take the ferry, I can sell you some tickets for only 5 kashes each. I print them up myself."
+msgstr "まだフェリーに乗る気があるんだったら、俺が わずか５キャッシュで切符を１枚売ってあげる よ。自分で印刷したやつだけど。"
+
+# 315:Citadel Island dialogs
+#: 315:179
+msgid "You don't have enough Kashes, come back later."
+msgstr "君のキャッシュじゃ足りないよ。 出直してきな。"
+
+# 315:Citadel Island dialogs
+#: 315:180
+msgid "No more gas."
+msgstr "ガス欠だ。"
+
+# 315:Citadel Island dialogs
+#: 315:181
+msgid "Sorry, but someone came by for the robot. Apparently, they needed it at a top secret construction site."
+msgstr "悪いけど、誰かがロボットを取りに来たみたい だ。彼らはきっと極秘の工事現場であれを使っ たんだ。"
+
+# 315:Citadel Island dialogs
+#: 315:182
+msgid "Thank you for preventing them from closing down my tavern. If you see something of interest in my cellar, please help yourself."
+msgstr "この酒場の閉鎖をくいとめてくれて本当にあり がとう。　うちの地下室に気に入ったものがあ ったら、勝手に持ってっていいよ。"
+
+# 315:Citadel Island dialogs
+#: 315:183
+msgid "Do what I do: gather up the clover leaves and the boxes. You need one box to hold each clover leaf. Each clover leaf will give you another chance when you are in an extremely dangerous situation."
+msgstr "俺のまねをして、クローバーの葉っぱと箱を集 めてくるんだ。　クローバーは１つずつ１つの 箱に入れる。　クローバーを使うと、君のパワ ーは完全に回復する。　君のピンチを救ってく れる心強い味方なんだ。"
+
+# 315:Citadel Island dialogs
+#: 315:184
+msgid "I read some extracts from the captain's log - LeBorgne was ruthless! If you're still interested in the log, it's for sale at the Old Burg bazaar on Principal Island."
+msgstr "航海日誌をちょっと読んでみたが、ルボーニャ は冷酷だったんだなぁ．．．。 君もその航海日誌を読みたけりゃ、プリンシパ ル島のオールドバーグマーケットで今売ってる ぞ。"
+
+# 315:Citadel Island dialogs
+#: 315:185
+msgid "I don't know where they are."
+msgstr "どこだか知らないね。"
+
+# 315:Citadel Island dialogs
+#: 315:186
+msgid "I'm not sure, but I seem to remember before, at the library, there were some books that talked about it."
+msgstr "うら覚えだけど、係わりのありそうな本を図書 館で何冊か見たことがあるような気がするな。"
+
+# 315:Citadel Island dialogs
+#: 315:187
+msgid "Hi"
+msgstr "やあ"
+
+# 315:Citadel Island dialogs
+#: 315:188
+msgid "On the Hamalayi"
+msgstr "ハマライ山へ"
+
+# 315:Citadel Island dialogs
+#: 315:189
+msgid "I can't help you, ask someone else."
+msgstr "俺は無理だから、他の人に聞いておくれ。"
+
+# 315:Citadel Island dialogs
+#: 315:190
+msgid "Mercy!"
+msgstr "すごい！"
+
+# 317:Principal Island dialogs
+#: 317:0
+msgid "Halt!"
+msgstr "止まれ！"
+
+# 317:Principal Island dialogs
+#: 317:1
+msgid "Good day, I'm looking for a friend. She is escorted by two groboclones."
+msgstr "恋人を捜してるんです。グロボクローン２人に 連れていかれたんだけど。"
+
+# 317:Principal Island dialogs
+#: 317:2
+msgid "Sorry, I didn't see them but try going to the astronomer's house in the Old Burg; he knows a lot about what is going on."
+msgstr "悪いけど見なかったわ。でもオールドバーグの 天文学者の家に行ってみて、彼はいろんなこと に詳しいから。"
+
+# 317:Principal Island dialogs
+#: 317:3
+msgid "It is forbidden to talk about that!"
+msgstr "その話は禁止されている。"
+
+# 317:Principal Island dialogs
+#: 317:4
+msgid "If you want to see my cousin, go in front of the sink and wash your hands! Ha ha!"
+msgstr "俺のいとこに会いたけりゃ、洗面所で手を洗っ てこいよ！　ハハ。"
+
+# 317:Principal Island dialogs
+#: 317:5
+msgid "I was arrested for sneezing in public, it's ridiculous! There's also, however, a forger in the cell to the right of general headquarters."
+msgstr "人前でくしゃみして逮捕されたんだ。ばかばか しいよな、でも総司令部の向かって右側にある 独房には偽造犯もいるんだ。"
+
+# 317:Principal Island dialogs
+#: 317:6
+msgid "I can't help you. Except perhaps... considering the risks you've taken, I guess I can trust you. I was arrested on this island, but earlier on I gave a fake red card to my brother who was living on Proxima island. He will give it to you if you say \"Amos\" to him (the location of the house is now indicated on your Holomap)."
+msgstr "ハハッ　助けてやれないよ。　でも１つだけな ら、君が危険を覚悟でやっているから何とか協 力してやろう。 俺はこの島で捕まったんだけど、その前に兄さ んに偽のレッドカードを渡しといたんだ。 ハハハ　彼はプロキシマ島にいるよ。ヘッヘヘ 「アモス」って言えば、兄さんがその偽造カー ドをくれるだろうよ。彼の家の位置は、今、君 のホロマップに表示されているよ。"
+
+# 317:Principal Island dialogs
+#: 317:7
+msgid "\"Dr. FUNFROCK's headquarters. Access IS FORBIDDEN!\""
+msgstr "「ファンフロック博士司令部　立ち入り禁止」"
+
+# 317:Principal Island dialogs
+#: 317:8
+msgid "\"Young male quetch seeks young female rabbibunny for friendship (and maybe more...)\""
+msgstr "「クエッチ族青年　ラビバニーの女友達募集中 　恋人も可」"
+
+# 317:Principal Island dialogs
+#: 317:9
+msgid "Bah! Not interested."
+msgstr "ふん　興味ないね。"
+
+# 317:Principal Island dialogs
+#: 317:10
+msgid "As I live and breathe, you will never see me drink any tap water in this city, mate. And all you have to do is drink some of it to understand why!"
+msgstr "こうやって生きているうちは、俺は絶対にこの 町の水道の水は飲まないと決めてるんだ。 一度飲んでみりゃ　俺がなぜそんなことを言う のかすぐ分かるさ。"
+
+# 317:Principal Island dialogs
+#: 317:11
+msgid "That old pirate is right, the tap water tastes funny. They should be able to improve its quality, and by the way the water tower is located in the North mountains (check your holomap)."
+msgstr "あのおいぼれの言う通りだ、水道水の味がおか しい。水質を向上させるべきだよ。 そういや、給水塔は山の北側にあるんだ。 ホロマップを見てごらん。　"
+
+# 317:Principal Island dialogs
+#: 317:12
+msgid "The Legend is a weak spot in FunFrock's power. You must discover why; it's the only way of seeing your friend again."
+msgstr "その伝説がファンフロック政権の弱点だな、そ のわけをさぐるのじゃ。　 君の友達を救う方法はそれしかない。"
+
+# 317:Principal Island dialogs
+#: 317:13
+msgid "Good day, this talk about the Legend is strange, don't you think?"
+msgstr "こんにちは　この伝説の評判おかしいよ、 そう思わない？"
+
+# 317:Principal Island dialogs
+#: 317:14
+msgid "\"ANNOUNCEMENT #358-G : A prisoner named Twinsen has escaped from the Citadel. Anyone seeing the escapee must notify the nearest clone.\""
+msgstr "「告知　＃３５８－Ｇ：トゥインセンという名 の囚人がシタデル島から脱走した。この脱走囚 を見た者は、近くのクローンに通報すること」"
+
+# 317:Principal Island dialogs
+#: 317:15
+msgid "\"Opening hours for the Principal Island library: | More or less, all the time.\""
+msgstr "「プリンシパル島図書館の開館時間　だいたい 一日中」"
+
+# 317:Principal Island dialogs
+#: 317:16
+msgid "We have some documents on the \"Legend\" somewhere in the Censored Publications Department, but you need special authorization to look at them. Let me see your ID card."
+msgstr "ここの検閲出版物部門のどこだったか、あなた の言う「伝説」に関する書籍がいくつかありま す。しかし、それらの本を閲覧するには、特別 許可が必要です。　 あなたのＩＤカードを見せて下さい。"
+
+# 317:Principal Island dialogs
+#: 317:17
+msgid "Good day. You need a boarding ticket to go to Citadel Island."
+msgstr "こんにちは、シタデル島に行くには乗船切符が 必要です。"
+
+# 317:Principal Island dialogs
+#: 317:18
+msgid "\" My dear and respected Dr. FunFrock, I took the plans of the Teleportation Center home with me, to work on them over the week-end. I will bring them back on Monday. Signed: Mies Van der Rooh, Architect, Bug Street, Citadel Island. \""
+msgstr "「尊敬するファンフロック博士へ　テレポーテ ーションセンターの設計図を持って帰り、週末 家で取り組みます。月曜日には持って来ます。 署名　ミエス・バン・ダ・ルー　設計士　 バグ通り　シタデル島」"
+
+# 317:Principal Island dialogs
+#: 317:19
+msgid "I'm interested in the story of LeBorgne the pirate."
+msgstr "海賊ルボーニャの話に興味があるんだ。"
+
+# 317:Principal Island dialogs
+#: 317:20
+msgid "I'm looking for the plans of the Teleportation Center. I'm on a special assignment!"
+msgstr "テレポーテーションセンターの設計図を探して るんだ。　博士の特別任務でね。"
+
+# 317:Principal Island dialogs
+#: 317:21
+msgid "Sound the alarm! It's the escapee!"
+msgstr "警報を鳴らせ　脱走囚だ。"
+
+# 317:Principal Island dialogs
+#: 317:22
+msgid "Good day"
+msgstr "やあ"
+
+# 317:Principal Island dialogs
+#: 317:23
+msgid "A ferry ticket costs 10 kashes. However as I have a WANTED poster in my office, you will have to pay 30 Kashes to make me overlook the fact that you look a lot like the guy on it."
+msgstr "ハハハ　フェリーの切符は１０キャッシュだ。 だけど、俺の事務所にも指名手配のポスターが あってさ、君、手配中の男にそっくりだよね。 　ヘヘッ　見逃して欲しければ、切符１枚に ３０キャッシュ払うんだね。"
+
+# 317:Principal Island dialogs
+#: 317:24
+msgid "Halt! You are a wanted escapee!"
+msgstr "止まれ！　手配中の脱走囚だな。"
+
+# 317:Principal Island dialogs
+#: 317:25
+msgid "If you give me 10 Kashes I'll let you read the poster behind me."
+msgstr "俺に１０キャッシュくれれば　後ろにあるポス ターを読ませてやるよ。"
+
+# 317:Principal Island dialogs
+#: 317:26
+msgid "I saw them a little while ago on Citadel Island. But they left on a fast boat. Destination unknown!"
+msgstr "ちょっと前にシタデル島で彼らを見かけたよ。 でも速いボートで行っちまった。 行先はしらないねぇ。"
+
+# 317:Principal Island dialogs
+#: 317:27
+msgid "Welcome, dear customer! I don't have any more cherry flavored syrup, but there is a pharmacy open on Citadel Island. |P Move in front of the item that interests you."
+msgstr "いらっしゃい、ねぇそこのお客さん、チェリー 味のシロップは切らしちゃったけど、シタデル 島の薬局ならまだやってるよ。ハハッ、お客さ んが買いたいなーと思うアイテムの前まで移動 して、アクションコマンドを使って下さいな。"
+
+# 317:Principal Island dialogs
+#: 317:28
+msgid "Mister, Mister! There's a loose stone in the back wall. I might be able to escape!"
+msgstr "おじさん！　後ろの壁の石がゆるくなってる。 ここから逃げられちゃうかも！"
+
+# 317:Principal Island dialogs
+#: 317:29
+msgid "A loose stone? Let me see that."
+msgstr "ゆるんでるだって？　どれ見てみよう。"
+
+# 317:Principal Island dialogs
+#: 317:30
+msgid "The passage will only open when you come from my cousin's house. Now stop rummaging everywhere!"
+msgstr "通路は、俺のいとこの家から来たときだけ開く ことになっている。ほら、あちこちさぐるのは やめるんだ！"
+
+# 317:Principal Island dialogs
+#: 317:31
+msgid "Sorry, but you don't have enough Kashes. Come back later."
+msgstr "悪いが、君のキャッシュじゃ足りないね、出直 して下さいな。"
+
+# 317:Principal Island dialogs
+#: 317:32
+msgid "Here you can't just talk to just anybody. Prove that you are not working for FunFrock. Go clobber a clone for starters!"
+msgstr "ここじゃ、やたらと人に話なんてできないんだ ファンフロックの部下じゃないって証拠を見せ ろよ。　手始めにクローンでも殴ってみせろ。"
+
+# 317:Principal Island dialogs
+#: 317:33
+msgid "Didn't see anything, but if you have any problems, you should talk to the Astronomer who is under house arrest, up above the Old Burg."
+msgstr "何も見なかったねぇ、でも相談があるなら、自 宅監禁になっている天文学者に聞くといい。 オールドバーグの端だよ。"
+
+# 317:Principal Island dialogs
+#: 317:34
+msgid "So you're the one that beats up on clones? Good job! I haven't seen your friend but you should go see the Astronomer. He will certainly be able to help you."
+msgstr "それじゃ　クローンを殴り倒したのは君だった のか、よくやったぞ、　ウハ　君の友達は見て いないけど、天文学者の所へ行くといいよ、彼 なら絶対に君の力になれるよ。"
+
+# 317:Principal Island dialogs
+#: 317:35
+msgid "Leave me alone, this job is already hard enough."
+msgstr "ほっといてくれ、それでなくても大変な仕事な んだから。"
+
+# 317:Principal Island dialogs
+#: 317:36
+msgid "This young girl must be someone important if that tyrant FunFrock is holding her outside of Citadel Island. Something funny is going on with this forbidding of any talk about the Legend: this must be some kind of weakness in his power! Find out what is behind this Legend, it's your only hope of seeing your friend again. If you need to leave the island, I know a friend who can help you at Port-Belooga (check your holomap). Tell him that I sent you. And be discreet in your quest."
+msgstr "暴君ファンフロックがシタデル島以外の場所で 捕らえてるところを見ると、この娘は重要人物 に違いない。あの伝説を口にするのを禁止した のも、何かくさいところがある。伝説が彼の力 を脅かすものに違いない。この伝説の秘密を解 き明かすんじゃ、君の友達を救い出す手はそれ しかない。この島から出るのなら　ブルーガ港 にいるわしの友達が手伝ってくれる。 　ホロマップで確認して、わしの紹介だと言い なさい。それから行動はあくまでも慎重にな。"
+
+# 317:Principal Island dialogs
+#: 317:37
+msgid "Unfortunately, I don't know anything about the Legend, but I have a fisherman friend who could help you in your travels if you tell him that I sent you. He lives at Port-Belooga (check your holomap)."
+msgstr "残念じゃが、伝説の事はまったく知らない。 でもわしの紹介だと言えば、ブルーガ港に住ん でいるわしの友人の漁師が手を貸し手くれるじ ゃろう。　 ホロマップで確認してみなさい。"
+
+# 317:Principal Island dialogs
+#: 317:38
+msgid "Ha ha! It's a colleague, he's looking for a wife."
+msgstr "ハハハ．．．俺の同僚さ、　奥さん募集中だ。"
+
+# 317:Principal Island dialogs
+#: 317:39
+msgid "I don't know anything about it, and anyway, it's a forbidden subject."
+msgstr "そんなこと全く知らないねえ。 第一、その話題は禁句だろうが。"
+
+# 317:Principal Island dialogs
+#: 317:40
+msgid "According to my doctor, I can drink only the city's tap water. But it tastes too bad. If someone could improve its taste, I would be willing to show him the Censored Publication Department, and that would be quite a privilege."
+msgstr "かかりつけの医者は、町の水道の水しか飲むな っていうんです。でもすごくまずいんですよ。 おいしい水を飲ませてくれる方がいたら、検閲 出版物部門に喜んでお連れするんですがね、 これはもうけもんですよ。"
+
+# 317:Principal Island dialogs
+#: 317:41
+msgid "Hold on a minute, I'm going to taste the water."
+msgstr "ちょっと待って下さい。　 水の味をみてみますから。"
+
+# 317:Principal Island dialogs
+#: 317:42
+msgid "Hmmmmm, cherry flavor, not bad... but I would have preferred carrot. But anyway, as promised, I will show you where the documents about the \"Legend\" are."
+msgstr "うーん、チェリー風味だ、悪くないですね。　 ま　ニンジンの方が良かったけど．．．、 でもとにかく約束通り、 伝説に関する書籍の所へご案内しましょう。"
+
+# 317:Principal Island dialogs
+#: 317:43
+msgid "Never saw 'em! The sea is my only concern. | Sometimes I even take voyagers on my boat, but only people that I can trust."
+msgstr "見たことねぇなあ。　海の事しか頭にねぇんだ よ。　俺の船に旅行者を乗せるなんてことも　 たまにはあるが信頼できる奴だけだね。"
+
+# 317:Principal Island dialogs
+#: 317:44
+msgid "If the Astronomer sent you, I guess I can trust you. Despite the solidarity in the resistance against FunFrock, you know, times are hard. For 10 Kashes I'll take you where you want to go."
+msgstr "天文学者の紹介じゃ、君を信頼しようじゃない か。　ファンフロックに抵抗しようと団結する ことは大切だが、やっぱり景気も悪い。　 １０キャッシュ頂けば、行きたい所へ連れて行 ってやろう。"
+
+# 317:Principal Island dialogs
+#: 317:45
+msgid "I don't know yet."
+msgstr "まだ分からない。"
+
+# 317:Principal Island dialogs
+#: 317:46
+msgid "To the White Leaf Desert."
+msgstr "ホワイトリーフ砂漠へ"
+
+# 317:Principal Island dialogs
+#: 317:47
+msgid "I'm not going to leave just yet."
+msgstr "とてもまだ出発できない。"
+
+# 317:Principal Island dialogs
+#: 317:48
+msgid "You don't have enough Kashes to make the trip Twinsen. See you later!"
+msgstr "船に乗るには　キャッシュが足りないみたいだ な、トゥインセン。　またな！"
+
+# 317:Principal Island dialogs
+#: 317:49
+msgid "\"In the distant past, when the spheros, rabbibunnies, Quetches and grobos emerged from the original primordial soup, centuries before Dr. FunFrock's coup, a prophecy was pronounced. Its text is hardly remembered today and that is why people now refer to it as the \"Legend\". It explained how \"the Heir,\" when his time had come, would be called to overthrow a tyrant! The secret of the Legend can still be learned somewhere in the White Leaf Desert.\""
+msgstr "「はるか昔、スフェロ族、ラビバニー族、 クエッチ族、グロボ族が海の水から進化をとげ 誕生した。ファンフロック博士台頭の何百年も 前、一つの予言がなされた。予言の原文はほと んど忘れられ、現在人々はその予言を“伝説” と呼んでいる。そこには、ある日“世継ぎ”と 呼ばれる者が選ばれ、暴君を倒すだろうと書か れていた。伝説の秘密を知る鍵は、 ホワイトリーフ砂漠に眠っている。」"
+
+# 317:Principal Island dialogs
+#: 317:50
+msgid "You've just got back all the objects that were in your inventory!"
+msgstr "「インベントリーリストにあったアイテムの全 てを手に入れた。」"
+
+# 317:Principal Island dialogs
+#: 317:51
+msgid "You can come aboard sir, we were just getting underway."
+msgstr "お乗りなさい、だんなさん。 ちょうど出発するところですよ。"
+
+# 317:Principal Island dialogs
+#: 317:52
+msgid "\"Welcome to Principal Island.\""
+msgstr "「プリンシパル島へようこそ」"
+
+# 317:Principal Island dialogs
+#: 317:53
+msgid "I didn't see her, but I think that I can trust you now. Follow me, I know how to get to the Astronomer's home."
+msgstr "その娘は見てないけど、もう、君を信用しても 大丈夫だな。　ついて来な、天文学者の家がど こだか教えてやるよ。"
+
+# 317:Principal Island dialogs
+#: 317:54
+msgid "My cousin is a locksmith. He will open the unguarded door for you. Follow me!"
+msgstr "俺のいとこは鍵屋なんだ。　 彼なら警備のいないドアを開けてやれるぜ。"
+
+# 317:Principal Island dialogs
+#: 317:55
+msgid "I don't know if I can help you. I am a locksmith and I can open doors... but only for people that I can trust!"
+msgstr "助けてやろうかやるまいか．．．、 俺は鍵屋だからドア開けなんて簡単だが、 信用できる奴にしかしてやらないんだ。"
+
+# 317:Principal Island dialogs
+#: 317:56
+msgid "If you already know about that passage, I can open the unguarded door for you. After you!"
+msgstr "その通路のことよく分かってるっていうんなら 監視のいないドアを開けてやろうじゃないか、 先にどうぞ。"
+
+# 317:Principal Island dialogs
+#: 317:57
+msgid "I can help you get rid of the Supergro. Follow me, but wait until he moves away from the steps before going by!"
+msgstr "スーパーグローを倒すの手伝ってあげるわ。 ついて来て、でも近寄る前に彼が階段から 離れるまで待ってね。"
+
+# 317:Principal Island dialogs
+#: 317:58
+msgid "Thief! | Leave my money box alone!"
+msgstr "どろぼう！　俺の金庫から手を離せ！"
+
+# 317:Principal Island dialogs
+#: 317:59
+msgid "You are too aggressive! Get out of here, and don't come back until you have calmed down!"
+msgstr "お前乱暴すぎるよ！　いいかげんにして出てい きな、落ち着くまで戻ってくるなよ！"
+
+# 317:Principal Island dialogs
+#: 317:60
+msgid "Shut up stupid, it is forbidden to talk about it!"
+msgstr "だまれ　まぬけ！　その話は禁止なんだ。"
+
+# 317:Principal Island dialogs
+#: 317:61
+msgid "\" Principal island sanitation department: NO SWIMMING! \""
+msgstr "「プリンシパル島衛生局　遊泳禁止！」"
+
+# 317:Principal Island dialogs
+#: 317:62
+msgid "Where do you want to go?"
+msgstr "「どこに行きたいんだ？」"
+
+# 317:Principal Island dialogs
+#: 317:63
+msgid "To Port-Belooga."
+msgstr "ブルーガ港へ"
+
+# 317:Principal Island dialogs
+#: 317:64
+msgid "To the water tower."
+msgstr "給水塔へ"
+
+# 317:Principal Island dialogs
+#: 317:65
+msgid "I'm paying to see!"
+msgstr "お金払ってるんだよ！"
+
+# 317:Principal Island dialogs
+#: 317:66
+msgid "No way, this smells like a scam!"
+msgstr "何だよー　これペテンっぽいな！"
+
+# 317:Principal Island dialogs
+#: 317:67
+msgid "I can guide you through the Censored Publications Department. There is one book that talks about the Legend. I could show it to you, but first, I would like you to change the taste of the tap water, here in the city. It is the only type of water that I am allowed to drink, and it is really disgusting."
+msgstr "検閲出版物部門にあなたをご案内しましょう、 伝説に関する本が一冊ありますから。　今見せ てもいいんですが、先にこの町のまずい水道水 の味をよくしてきて下さいな、頼みますよ。　 私が飲めるのは、水道の水だけなんですから、 まったくまずくて困ります。"
+
+# 317:Principal Island dialogs
+#: 317:68
+msgid "\"Old Burg | (Principal island)\""
+msgstr "「オールドバーグ　プリンシパル島」"
+
+# 317:Principal Island dialogs
+#: 317:69
+msgid "\"Peg Leg Street | (Principal island)\""
+msgstr "「ペグレッグ通り　プリンシパル島」"
+
+# 317:Principal Island dialogs
+#: 317:70
+msgid "Sorry, but you don't have enough Kashes. Come back later."
+msgstr "悪いけど、お客さんのキャッシュじゃ、ちょっ と足りないようだね。　出直してきな。"
+
+# 317:Principal Island dialogs
+#: 317:71
+msgid "To Proxima Island."
+msgstr "プロキシマ島へ"
+
+# 317:Principal Island dialogs
+#: 317:72
+msgid "I read some of the Captain's log - LeBorgne was ruthless! If you are still interested, the log is on sale at the Old Burg bazaar, on this island."
+msgstr "航海日誌をちょっと読んだけど、ルボーニャは 冷酷だったんだな！　君もその航海日誌が読み たけりゃ、この島のオールドバーグマーケット って所で売ってるよ。"
+
+# 317:Principal Island dialogs
+#: 317:73
+msgid "I am Bob Vortix, astronomer under house arrest. What are you doing in town, apart from beating up clones?"
+msgstr "わしは、ボブ・ホーテックス　自宅監禁中の天 文学者じゃ。　クローンを殴ること以外に町で 何してるんじゃ？"
+
+# 317:Principal Island dialogs
+#: 317:74
+msgid "The Astronomer sent me."
+msgstr "天文学者の紹介です。"
+
+# 317:Principal Island dialogs
+#: 317:75
+msgid "Come back when you know where you want to go."
+msgstr "どこに行きたいか決まったら戻ってきな。"
+
+# 317:Principal Island dialogs
+#: 317:76
+msgid "\" Life candy: would you like 10 hearts for 10 Kashes? \""
+msgstr "「ライフキャンディ　ハート１０個　 　１０キャッシュでどう？」"
+
+# 317:Principal Island dialogs
+#: 317:77
+msgid "Ok, I'll buy."
+msgstr "よし、買うよ"
+
+# 317:Principal Island dialogs
+#: 317:78
+msgid "No, thank you."
+msgstr "いや、結構"
+
+# 317:Principal Island dialogs
+#: 317:79
+msgid "Not enough Kashes!"
+msgstr "キャッシュが足りないんだ。"
+
+# 317:Principal Island dialogs
+#: 317:80
+msgid "Good day. Come this way, I'll open the door for you."
+msgstr "やあ、あなたですか。　こちらへ　　　　 ドアを開けてあげましょう。　　　　　　"
+
+# 317:Principal Island dialogs
+#: 317:81
+msgid "Sound the alarm! A prisoner is escaping!"
+msgstr "警報を鳴らせ！　囚人が脱走した。"
+
+# 317:Principal Island dialogs
+#: 317:82
+msgid "My poor friend! I really don't know what you are talking about."
+msgstr "かわいそうだけど、何のこと言ってるのか さっぱり分からないわ。"
+
+# 317:Principal Island dialogs
+#: 317:83
+msgid "You know Julia? She is a nice girl. She watches a bit too much TV, but there is some truth in her story: someone left a box for clover leaves on the islet in front of my house. It is too shallow for a boat to get there by water, and since the bridge leading to the islet has collapsed, the only way to get there is to fly."
+msgstr "ジュリア知ってる？　彼女いい娘よ。 彼女時々テレビの見過ぎだけど、本当の事をた まには言うのよ。誰かが私の家の前の小島に、 クローバーの箱を置いていったのは本当よ。 小島へは瀬が浅すぎてボートでは行けないし、 小島へかかる橋もこわれてるから、そこへ渡る には飛んで行くしかないのよ。"
+
+# 317:Principal Island dialogs
+#: 317:84
+msgid "Very good sir, wait here please."
+msgstr "かしこまりました。　ここでお待ち下さい。"
+
+# 317:Principal Island dialogs
+#: 317:85
+msgid "What are you doing there, who are you?"
+msgstr "ここで何をしている？　何者だ？"
+
+# 317:Principal Island dialogs
+#: 317:86
+msgid "I'm fixing the antennas."
+msgstr "アンテナを直してるんです。"
+
+# 317:Principal Island dialogs
+#: 317:87
+msgid "Twinsen, I'm escaping."
+msgstr "トゥインセンです。逃亡中なんです。"
+
+# 317:Principal Island dialogs
+#: 317:88
+msgid "Santa Claus."
+msgstr "サンタクロースです。"
+
+# 317:Principal Island dialogs
+#: 317:89
+msgid "\"Welcome to Port-Belooga | (Principal Island) | Sea calm to choppy, gusty winds.\""
+msgstr "「ブルーガ港へようこそ　プリンシパル島　 荒波注意、突風あり」"
+
+# 317:Principal Island dialogs
+#: 317:90
+msgid "I'm not interested."
+msgstr "興味ありません"
+
+# 317:Principal Island dialogs
+#: 317:91
+msgid "I'll buy."
+msgstr "買います"
+
+# 317:Principal Island dialogs
+#: 317:92
+msgid "Good day"
+msgstr "やあ"
+
+# 317:Principal Island dialogs
+#: 317:93
+msgid "\"L.B.A. | Old Burg Sewer service. Emerald Moon Street.\""
+msgstr "「Ｌ．Ｂ．Ａ　オールドバーグ下水工事 エメラルドムーン通り」"
+
+# 317:Principal Island dialogs
+#: 317:94
+msgid "Feel free to look through my stuff, creep!"
+msgstr "勝手に人の物をいじるなんてさ、変態！"
+
+# 317:Principal Island dialogs
+#: 317:95
+msgid "She's not here. I would have noticed her. We don't have many readers these days."
+msgstr "ここにはいません。 いたら知らせました。 最近、図書館の利用者も少ないんです。"
+
+# 317:Principal Island dialogs
+#: 317:96
+msgid "I've been all over the island today, and I haven't seen those people."
+msgstr "今日はこの島を歩き回ったけど、 そんな人たち、見てないね。"
+
+# 317:Principal Island dialogs
+#: 317:97
+msgid "I didn't see her."
+msgstr "見てないね"
+
+# 317:Principal Island dialogs
+#: 317:98
+msgid "I didn't see her."
+msgstr "見てないよ"
+
+# 317:Principal Island dialogs
+#: 317:99
+msgid "Sorry. I haven't seen your trio."
+msgstr "悪いが、そんな３人組見てないなぁ。"
+
+# 317:Principal Island dialogs
+#: 317:100
+msgid "I didn't see her, but ..."
+msgstr "そんな娘みてないけど"
+
+# 317:Principal Island dialogs
+#: 317:101
+msgid "The water is drinkable, but it is true that it tastes funny. You'll have to go to the water tower if you want to change something."
+msgstr "水は飲めないこたねえけど、確かに味はへんだ よなあ。　 味を変えたきゃ、給水塔へ行くしかねえな。"
+
+# 317:Principal Island dialogs
+#: 317:102
+msgid "Good day"
+msgstr "こんにちは"
+
+# 317:Principal Island dialogs
+#: 317:103
+msgid "Good day, mate."
+msgstr "よう、兄ちゃん"
+
+# 317:Principal Island dialogs
+#: 317:104
+msgid "Bye, say hi to my cousin when you see him."
+msgstr "またな、 俺のいとこに会ったらよろしく言ってくれ。"
+
+# 317:Principal Island dialogs
+#: 317:105
+msgid "Good day"
+msgstr "どうも"
+
+# 317:Principal Island dialogs
+#: 317:106
+msgid "Sorry, but you don't have enough Kashes. Come back later."
+msgstr "悪いけど、お前のキャッシュじゃ足りないな。 出直しな。"
+
+# 317:Principal Island dialogs
+#: 317:107
+msgid "We don't trust people easily here. Prove that you don't work for FunFrock, clobber a clone!"
+msgstr "簡単には人を信用したりしないのよ。 ファンフロックの部下じゃないという証拠に、 クローンを殴ってみせて。"
+
+# 317:Principal Island dialogs
+#: 317:108
+msgid "To Citadel Island."
+msgstr "シタデル島へ"
+
+# 317:Principal Island dialogs
+#: 317:109
+msgid "To Rebellion Island."
+msgstr "リベリオン島へ"
+
+# 317:Principal Island dialogs
+#: 317:110
+msgid "Here it is: like new, good handling and fast, this catamaran is for you!... for 200 Kashes."
+msgstr "これだよ。 新品同様、速くて操縦簡単、この船は君のもの だよ。　２００キャッシュでね。"
+
+# 317:Principal Island dialogs
+#: 317:111
+msgid "Too expensive for my blood!"
+msgstr "高すぎて買えないよ！"
+
+# 317:Principal Island dialogs
+#: 317:112
+msgid "Great, I'll take it."
+msgstr "のった。　これ下さい。"
+
+# 317:Principal Island dialogs
+#: 317:113
+msgid "Not enough Kashes!"
+msgstr "キャッシュが足りないよ！"
+
+# 317:Principal Island dialogs
+#: 317:114
+msgid "I've got to tell you something. It's awful! My best friend (Beatrice) is in love with Steven. But Paul, Steven's half brother, left Cindy when Linda got out of the clinic after her bobsleigh accident. But not for Linda, for Tatjana! Only Serge (who secretly admires Steven) has been trying for months to win the love of Tatjana who refuses to talk to Christy since she died. All the while Stephanie - who remarried Serge - discovered the letter from Paulina in which she explained where was the box of clover leaves left behind by Roy. So, evidently, Beatrice wonders if Linda knows about the accident. | You get all that?"
+msgstr "これちょっと聞いてよ、ひどいのよ。 親友ビアトリスの恋人はスティーブンなんだけ ど、彼の弟のポールが、リンダがボブスレー事 故のけがが治って退院した日にシンディを捨て たの。でもリンダじゃなくタチアナっていう、 クリスティの墓参りをしていない娘のためで、 ただスティーブンの隠れファンのサージが、タ チアナにはもう何ヶ月も言い寄っているのよ。 　その間ステファニーっていうサージの奥さん が、ポリーナの手紙を見つけて、その内容って のが、ロイがクローバーの箱を置き忘れたって ことだったの。だからビアトリスは、リンダが 事故のこと覚えているかどうか知りたいのよ。 　全部分かった？"
+
+# 317:Principal Island dialogs
+#: 317:115
+msgid "Wake up, I've just found the escapee!"
+msgstr "起きろ。　脱走囚を見つけたぞ！"
+
+# 317:Principal Island dialogs
+#: 317:116
+msgid "Thief! | | Leave my money box alone!"
+msgstr "どろぼう！　俺の金庫から手を離せ！"
+
+# 317:Principal Island dialogs
+#: 317:117
+msgid "Sorry dear customer, but all that interests me is my modest concern."
+msgstr "すみませんねえ、お客さん、でもささやかな願 い事しか頭にないんですよ。"
+
+# 317:Principal Island dialogs
+#: 317:118
+msgid "Fool, don't do that! ANYTHING can happen now!"
+msgstr "バカもの！　止めるんだ。　 もう何が起こっても不思議じゃないぞ。"
+
+# 317:Principal Island dialogs
+#: 317:119
+msgid "Ha, ha! You too are looking for his treasure? Well, I sure once had an old dusty book about LeBorgne, but a customer bought it this morning. It was a rabbibunny. I know that he works over at the library."
+msgstr "ははーん！　お客さんも海賊の宝を探してるの か？　いやあ確かにこの店には古びたルボーニ ャの本があったんだが、今朝他のお客さんが買 ってったよ。　ラビバニー族だったよ。　 確か彼はむこうの図書館の職員だよ。"
+
+# 317:Principal Island dialogs
+#: 317:120
+msgid "I have not seen this young lady. But go over to the Astronomer's house. Even though he is not allowed to leave his own house, he knows everything. He lives in the last house on the hill overlooking the city."
+msgstr "こんな女の子は見たことないなあ、でも天文学 者の家に行ってごらん。　彼は今、自宅監禁の 身なんだが、彼なら何でも知ってるぞ。　彼の 家は町を眺望できる丘の一番端にたってるよ。"
+
+# 317:Principal Island dialogs
+#: 317:121
+msgid "It tastes EXACTLY the same as before. I won't guide you through the library."
+msgstr "前とまったく同じ味じゃないか。　図書館の案 内はできませんな。"
+
+# 317:Principal Island dialogs
+#: 317:122
+msgid "Did you know that a wise guy dumped some syrup into the island's water supply? I'd like to find that guy so that I can give him a piece of my mind. You wouldn't happen to know him, would you?"
+msgstr "頭のいい男が、この島の給水塔にシロップを入 れたこと知ってましたか？　その人を探し出し て一言どうしてもお礼が言いたいんです。　そ の人が誰なのか御存じありませんか？"
+
+# 317:Principal Island dialogs
+#: 317:123
+msgid "It was me! Not bad, huh?"
+msgstr "僕がやったんだ。　すごいでしょう？"
+
+# 317:Principal Island dialogs
+#: 317:124
+msgid "Probably another FunFrock stunt."
+msgstr "これもきっとファンフロックの仕業だよ"
+
+# 317:Principal Island dialogs
+#: 317:125
+msgid "Bravo! This little twinge of cherry is fantastic. Ever since my doctor told me that I could only drink tap water and... well you know all that. In gratitude, I can show you all the ancient works that are here, even the LEGENDARY ones!"
+msgstr "ブラボー！　この、ちょっとしたチェリー風味 が最高だ。　かかりつけの医者に水道の水しか 飲まないようにと言われて以来、あ、もう話し ましたね。　お礼のしるしに、この図書館にあ る古い書籍をすべてお見せしましょう。　もち ろん、伝説の本もね。"
+
+# 317:Principal Island dialogs
+#: 317:126
+msgid "Oh, so Dr. FunFrock is taking care of us now. Funny, I find it hard to believe that it was him."
+msgstr "あっそう。　じゃあ、ファンフロック博士が面 倒みてくれてるんですか。　おかしいな、ファ ンフロック博士だったとは、信じ難いですね。"
+
+# 317:Principal Island dialogs
+#: 317:127
+msgid "I have not seen this person."
+msgstr "こんなの見たことありません。"
+
+# 317:Principal Island dialogs
+#: 317:128
+msgid "My dear sir, I have been looking for Captain LeBorgne's log for years now. And would you believe that I found it today while shopping in the Old Burg? Naturally, such a piece should be consulted on site. Go look on the table in the back of the room next to the projection room."
+msgstr "お客さん、 私はもう何年もルボーニャの航海日誌を捜して きたんですが、今日オールドバーグで買物して るとき、偶然にも見つけたんですよ。　 もちろん、その場ですぐ購入して読んでしまい ましたよ。　映写室の隣の部屋の奥に行って、 テーブルの上をごらんなさい。"
+
+# 317:Principal Island dialogs
+#: 317:129
+msgid "Wait here, I'll go get them for you."
+msgstr "ここにいて下さい。 私がとって参りますから。"
+
+# 317:Principal Island dialogs
+#: 317:130
+msgid "We must have something about LeBorgne. Go check with the chief librarian. You know him already, he's a rather large, orange rabbibunny."
+msgstr "ルボーニャの本はあったはずだけど。 司書長に聞いてごらんなさい。　もうご存じで しょう、大きくてオレンジ色のラビバニーが司 書長ですよ。"
+
+# 317:Principal Island dialogs
+#: 317:131
+msgid "Ok, I'll read you an extract from this book if you promise to leave me alone. What do you want me to read about?"
+msgstr "それじゃあ、僕をほっとくと約束してくれるの なら、この本を少し読んであげてもいいよ。　 どの部分を読んで欲しいの？"
+
+# 317:Principal Island dialogs
+#: 317:132
+msgid "Pirate recipes."
+msgstr "海賊のレシピ"
+
+# 317:Principal Island dialogs
+#: 317:133
+msgid "Leborgne's treasure."
+msgstr "ルボーニャの宝"
+
+# 317:Principal Island dialogs
+#: 317:134
+msgid "Why LeBorgne?"
+msgstr "なぜ、ルボーニャと"
+
+# 317:Principal Island dialogs
+#: 317:135
+msgid "As you know, this is a French game, and our respect for the culinary arts prevents us from revealing the ingredients used in pirate recipes. "
+msgstr "知っての通り、これはフランスのゲームだろ、 料理という芸術を大事にしているので、海賊料 理で使われる材料を明かすことなんてできない よ。"
+
+# 317:Principal Island dialogs
+#: 317:136
+msgid "\" To find Captain LeBorgne's treasure, the voyager who arrives at the port of Proxima island must use the closest mooring post as a guide. With his back to the docked boats, he must follow these instructions in DISCREET mode: | 6 steps to the North (straight ahead), then 6 steps to the East (to his right), following the gradual slope. 2 steps to the North (straight ahead) until he reaches the metal garbage can, 3 steps to the East (to his right) until he arrives at a light post. He must stand EXACTLY between the 2 lamp posts, and then take 8 steps to the North until he arrives at a gate. Captain LeBorgne's treasure is in the building behind the gate.\" "
+msgstr "海賊ルボーニャの宝を見つけるには、まずプロ キシマ島の港に着いたら船を降り、最寄りの停 泊ポストを目印に使うのだ。埠頭に寄せた船を 背に、ディスクリートモードで次の指示に従う こと。　北の方角へまっすぐ６歩進み、それか ら東の方角へ６歩、ゆるやかな坂を進む。　北 の方角へまっすぐ２歩、メタルのゴミ箱の所ま で進み、そして東へ３歩進むと、電柱の所まで 来る。　この時点で、２本の電柱の間に立って るはずだ。　次にそこから北へ８歩、ゲートの 所まで進む。　海賊ルボーニャの宝は、そのゲ ート後ろの建物の中だ。"
+
+# 317:Principal Island dialogs
+#: 317:137
+msgid "\"That was his nickname because he was always chewing an old toothpick. One day, during a typhoon, he sneezed: he found his toothpick, but lost an eye!\""
+msgstr "そのニックネームの由来は、彼がいつも、つま ようじを噛んでいたからだ。　彼がある台風の 日に、くしゃみをした瞬間、つまようじは吹き 飛び、彼の目に刺さった。"
+
+# 317:Principal Island dialogs
+#: 317:138
+msgid "There's no need to be aggressive, I was here before you!"
+msgstr "ずいぶんずうずうしいなあ。 僕が先だったんだぞ。"
+
+# 317:Principal Island dialogs
+#: 317:139
+msgid "Good day!"
+msgstr "どうも"
+
+# 317:Principal Island dialogs
+#: 317:140
+msgid "I don't know where they could be."
+msgstr "どこだか知らないよ。"
+
+# 317:Principal Island dialogs
+#: 317:141
+msgid "This is rebellion, it is forbidden to speak of that Legend!"
+msgstr "これは反乱だ。 あの伝説の話は禁止されている！"
+
+# 317:Principal Island dialogs
+#: 317:142
+msgid "I didn't see her, but the Astronomer will certainly be able to help you."
+msgstr "見なかったけど、天文学者なら君の助けになっ てくれるよ。"
+
+# 317:Principal Island dialogs
+#: 317:143
+msgid "You should talk to the sailors about that kind of story."
+msgstr "その手の話は、船乗りに話してみるべきだね。"
+
+# 317:Principal Island dialogs
+#: 317:144
+msgid "I'd like to help you, but I don't know where they are."
+msgstr "協力してやりたいけど、彼らがどこだか知らな いんだ。"
+
+# 317:Principal Island dialogs
+#: 317:145
+msgid "Hmmh! Quite a character that LeBorgne, he scoured the entire hemisphere a few hundred years ago. My fisherman friend told me that the Bazaar is selling an object that belonged to LeBorgne."
+msgstr "ふーん、 ルボーニャってすごい人物じゃないか。数百年 前、半球すべてを支配していたとはなあ。 漁師の友人が、マーケットではルボーニャの所 持品だった物を売っていると、言っていたな。"
+
+# 317:Principal Island dialogs
+#: 317:146
+msgid "I don't know where they are."
+msgstr "どこだかしらないねえ。"
+
+# 317:Principal Island dialogs
+#: 317:147
+msgid "Hiiii hi ! Bbbrrfff !"
+msgstr "ヒヒブルルルルー"
+
+# 317:Principal Island dialogs
+#: 317:148
+msgid "One of my colleagues was galloping at full speed across the White Leaf Desert and he said that he saw someone locked up in a grotto, behind a giant symbol of some kind."
+msgstr "僕の仲間の馬が、全速でホワイトリーフ砂漠を 横切ったときに、何かの巨大なシンボルのうし ろのほら穴の中に、誰かが閉じこめられてたの を見たってさ。"
+
+# 317:Principal Island dialogs
+#: 317:149
+msgid "Never heard anything about it!"
+msgstr "そんな事は初耳だなあ。"
+
+# 317:Principal Island dialogs
+#: 317:150
+msgid "What's a Teleportation Center?"
+msgstr "テレポーテーションセンターって何だい？"
+
+# 317:Principal Island dialogs
+#: 317:151
+msgid "Hi!"
+msgstr "やあ"
+
+# 317:Principal Island dialogs
+#: 317:152
+msgid "Ah! That LeBorgne was quite a man!"
+msgstr "アッハハー、そのルボーニャって男、 すごい奴だな。"
+
+# 317:Principal Island dialogs
+#: 317:153
+msgid "Ha ha, that's a good one! Sorry I don't have any with me."
+msgstr "ハッハッハハハ、そりゃいいや。 悪いが俺は持ってないよ。"
+
+# 317:Principal Island dialogs
+#: 317:154
+msgid "Can't seem to sell a single hair dryer here. One of my colleagues is already out there trying his best. If this keeps up, I'll have to move on to another island."
+msgstr "ここじゃドライヤー１つだって売れなそうだ。 同僚はあっちの方でずいぶん景気よくやってる ようだし、このままじゃ、他の島に移ってやる しかないな。"
+
+# 317:Principal Island dialogs
+#: 317:155
+msgid "I don't know where they are."
+msgstr "どこだが分からんねー。"
+
+# 317:Principal Island dialogs
+#: 317:156
+msgid "I cannot help you, my friend. Don't know what you are talking about."
+msgstr "助けになってやれないな。 何の話かさっぱり分からないんだから。"
+
+# 317:Principal Island dialogs
+#: 317:157
+msgid "Take that, rebel!"
+msgstr "それを持っていけよ。"
+
+# 317:Principal Island dialogs
+#: 317:158
+msgid "Move along!"
+msgstr "前へ進め。"
+
+# 317:Principal Island dialogs
+#: 317:159
+msgid "Good day"
+msgstr "やあ"
+
+# 317:Principal Island dialogs
+#: 317:160
+msgid "Go to the tavern, they love pirate stories there!"
+msgstr "酒場に行ったら？　 海賊話の好きな奴ばかりだよ。"
+
+# 317:Principal Island dialogs
+#: 317:161
+msgid "Leave me alone, I have nothing to say."
+msgstr "ほっといてくれ。　話すことなんてないよ。"
+
+# 317:Principal Island dialogs
+#: 317:162
+msgid "Good day"
+msgstr "やあ"
+
+# 317:Principal Island dialogs
+#: 317:163
+msgid "It is strictly forbidden to talk about that!"
+msgstr "そんなことを口にするのは、厳禁なんだぞ。"
+
+# 317:Principal Island dialogs
+#: 317:164
+msgid "Never heard anything about it."
+msgstr "そんなこと一度も聞いたことないよ。"
+
+# 317:Principal Island dialogs
+#: 317:165
+msgid "I don't know where they are."
+msgstr "どこだか分からないよ。"
+
+# 317:Principal Island dialogs
+#: 317:166
+msgid "Sorry, I don't know what you're talking about."
+msgstr "悪いけど、何のことかさっぱり分からないよ。"
+
+# 317:Principal Island dialogs
+#: 317:167
+msgid "Hi!"
+msgstr "やあ"
+
+# 317:Principal Island dialogs
+#: 317:168
+msgid "Calm down!"
+msgstr "落ち着けよ！"
+
+# 317:Principal Island dialogs
+#: 317:169
+msgid "I didn't see her."
+msgstr "見なかったわ"
+
+# 317:Principal Island dialogs
+#: 317:170
+msgid "Look, you seem like a nice guy, but you're a big boy now. Figure it out for yourself, I'm not a library!"
+msgstr "ねえ、あなたっていい人そうだけど、 もう大人の男でしょ。自分で考えてみたら？ 私、図書館じゃないわ。"
+
+# 317:Principal Island dialogs
+#: 317:171
+msgid "I don't know anything about all that."
+msgstr "聞いたこともない話ね。"
+
+# 317:Principal Island dialogs
+#: 317:172
+msgid "I didn't see her."
+msgstr "見なかったよ。"
+
+# 317:Principal Island dialogs
+#: 317:173
+msgid "I don't know where they could be."
+msgstr "どこにあるのかは知らないね。"
+
+# 317:Principal Island dialogs
+#: 317:174
+msgid "Pirates, phooey! Those sailors will say anything to get someone to buy them a drink!"
+msgstr "海賊？　ふん。 船乗りは、酒おごってもらえば、 何でも言うんだな！"
+
+# 317:Principal Island dialogs
+#: 317:175
+msgid "Good day"
+msgstr "やあ"
+
+# 317:Principal Island dialogs
+#: 317:176
+msgid "30 Kashes for a hair dryer, how about that? I normally sell them door to door, but customers are sparse, and you seem nice enough."
+msgstr "ヘアドライヤー、３０キャッシュ、どうです？ 普段は訪問販売なんですが、 客がまばらでして、あなたならと思いまして。"
+
+# 317:Principal Island dialogs
+#: 317:177
+msgid "Come in!"
+msgstr "お入り！"
+
+# 317:Principal Island dialogs
+#: 317:178
+msgid "Good day, my good sir."
+msgstr "こんにちは、お兄さん"
+
+# 317:Principal Island dialogs
+#: 317:179
+msgid "No. Not at all."
+msgstr "いや、全然。"
+
+# 317:Principal Island dialogs
+#: 317:180
+msgid "Go see Beatrice and tell her that Julia sent you. She'll explain all that better than I can. She lives on the outskirts of the Old Burg, in a house next to the sea, on Peg Leg Street."
+msgstr "ビアトリスに会ったらジュリアの紹介だと言っ て。　彼女の説明の方がわかりやすいわ。 彼女の家はオールドバーグの郊外、 ペグレッグ通り、海岸沿いの家よ。"
+
+# 317:Principal Island dialogs
+#: 317:181
+msgid "Julia spoke a lot about you."
+msgstr "ジュリアからいろいろ聞きました。"
+
+# 317:Principal Island dialogs
+#: 317:182
+msgid "I don't know anything about pirating, try talking to the sailors instead."
+msgstr "海賊のことなんて分からないわ。 船乗りに聞いてみた方がいいわよ。"
+
+# 317:Principal Island dialogs
+#: 317:183
+msgid "I don't know where they are, kind sir."
+msgstr "私はどこだか知らないわ。"
+
+# 317:Principal Island dialogs
+#: 317:184
+msgid "Good day, young quetch."
+msgstr "どうも、クエッチさん。"
+
+# 317:Principal Island dialogs
+#: 317:185
+msgid "I didn't see her."
+msgstr "そんな娘見なかったよ。"
+
+# 317:Principal Island dialogs
+#: 317:186
+msgid "I don't know what you're talking about!"
+msgstr "何のことだかさっぱり分からないな。"
+
+# 317:Principal Island dialogs
+#: 317:187
+msgid "They say that the tap water tastes better now. Great! Another publicity stunt from the anti-alcohol foundation."
+msgstr "水道の水の味が良くなったそうだな。 クッソー、アルコール反対団体によるＰＲ活動 の一環に違いないな。"
+
+# 317:Principal Island dialogs
+#: 317:188
+msgid "I never saw 'em"
+msgstr "全然見かけなかったな。"
+
+# 317:Principal Island dialogs
+#: 317:189
+msgid "I don't know her, but go see Wadbull over at the bazaar. And be careful... normally it is forbidden to talk about that!"
+msgstr "彼女のことは知らないが、マーケットにいる ワドブルに会いに行くといいだろう。 でも気を付けな、 規則でその話をするのは禁止されてるから。"
+
+# 317:Principal Island dialogs
+#: 317:190
+msgid "Ah, I never heard that one. But the one about the pirate that had rheumatisms in one leg and termites in the other cracks me up every time!"
+msgstr "んー、そりゃ聞いたことないな。　でも片足が リュウマチにかかってて、もう片方の足は白ア リにやられてる海賊の話は、聞くたびに大笑い だよ、ハッハッハ。"
+
+# 317:Principal Island dialogs
+#: 317:191
+msgid "Hi mate!"
+msgstr "よう元気か！"
+
+# 317:Principal Island dialogs
+#: 317:192
+msgid "I don't know where they are."
+msgstr "どこだか知らないねえ。"
+
+# 317:Principal Island dialogs
+#: 317:193
+msgid "LeBorgne! Since he didn't know how to read, he had his cook write the Captain's log. I know that it is for sale at the bazaar next door."
+msgstr "ルボーニャか！　彼は字が読めなかったから、 コックに航海日誌を書いてもらってたんだ。　 彼の航海日誌は隣のマーケットで売ってるよ。"
+
+# 317:Principal Island dialogs
+#: 317:194
+msgid "Sorry, I don't know anything about that."
+msgstr "悪いけど、そんな事は知らないなあ。"
+
+# 317:Principal Island dialogs
+#: 317:195
+msgid "This super Holomap costs only 20 Kashes (you will find that it is very useful!)."
+msgstr "こちらにあるホロマップは、たったの ２０キャッシュぽっきりですよ。 使ってみればその便利さに驚きますよ。"
+
+# 317:Principal Island dialogs
+#: 317:196
+msgid "Gas for 10 voyages costs 30 Kashes."
+msgstr "旅行１０回分のガソリンが、 ３０キャッシュですよ。"
+
+# 317:Principal Island dialogs
+#: 317:197
+msgid "15 hearts of life powder will cost you 30 Kashes."
+msgstr "命のハートは１５個につき、 ３０キャッシュで販売していますよ。"
+
+# 317:Principal Island dialogs
+#: 317:198
+msgid "10 flasks of magic powder will cost you 30 Kashes."
+msgstr "マジックフラスコ１０本分が、 たったの３０キャッシュですよ。"
+
+# 317:Principal Island dialogs
+#: 317:199
+msgid "A meca-penguin will cost you 3 Kashes."
+msgstr "メカペンギンだよ。 １個たったの３キャッシュ。"
+
+# 317:Principal Island dialogs
+#: 317:200
+msgid "I didn't see her."
+msgstr "そんな娘見てないね。"
+
+# 317:Principal Island dialogs
+#: 317:201
+msgid "Sorry, I never heard anything about that."
+msgstr "悪いけど、そんな話聞いたことは一度もないな あ。"
+
+# 317:Principal Island dialogs
+#: 317:202
+msgid "Hi friend."
+msgstr "こんちは"
+
+# 317:Principal Island dialogs
+#: 317:203
+msgid "I don't know where they are."
+msgstr "どこだか知らないなあ。"
+
+# 317:Principal Island dialogs
+#: 317:204
+msgid "Good day"
+msgstr "いらっしゃい。"
+
+# 317:Principal Island dialogs
+#: 317:205
+msgid "Ask the boss or the sailor at the table."
+msgstr "マスターかそこの船乗りに聞いてみな。"
+
+# 317:Principal Island dialogs
+#: 317:206
+msgid "You know that it is forbidden to talk about that! But this is your lucky day: I'd most happily turn you in, but that would deprive me of a chance to line my pockets with your Kashes."
+msgstr "へ？　その話が禁止だってのは知ってるだろ。 でも今日は特別だ。　君を警察に通報すること もできるが、俺のふところを君のキャッシュで 暖めてくれるなら考え直すぜ！"
+
+# 317:Principal Island dialogs
+#: 317:207
+msgid "Good day"
+msgstr "どうも"
+
+# 317:Principal Island dialogs
+#: 317:208
+msgid "I'm a huge STAR WARS fan. The saga's sequel should be released soon, so I already reserved my seat in the movie theater!"
+msgstr "俺スターウォーズの大ファンなんだよ。 続編がもうすぐ劇場公開されるはずなんだ。 だから俺、早めに映画館の座席の予約入れてお いたんだ。"
+
+# 317:Principal Island dialogs
+#: 317:209
+msgid "I'd like to help you, but I really don't know much, except about movies. Good luck!"
+msgstr "助けてやりたいけど、俺、映画のこと以外は、 あんまり詳しくないんだよね。　 ま、がんばれよ。"
+
+# 317:Principal Island dialogs
+#: 317:210
+msgid "I found this page ripped out of a book. It says \"... pull the middle lever ONCE, then pull the right lever ONCE.\" This must be the answer to some kind of puzzle!"
+msgstr "これは本からはぎ取られたページだな。 どれどれ、「真ん中のレバーを一回引き、それ から右のレバーを一回引く。」こりゃきっと、 パズルか何かの答えに違いない。"
+
+# 317:Principal Island dialogs
+#: 317:211
+msgid "I don't know where they are. Sorry."
+msgstr "どこだか知らないなあ。ごめんよ。"
+
+# 317:Principal Island dialogs
+#: 317:212
+msgid "Good day"
+msgstr "やあ"
+
+# 317:Principal Island dialogs
+#: 317:213
+msgid "Ask the rabbibunny with the yellow T-shirt, he's the librarian."
+msgstr "黄色のＴシャツのラビバニーに聞いてみな？ 彼は図書館員だ。"
+
+# 317:Principal Island dialogs
+#: 317:214
+msgid "Ow! But I found this page on the ground, I didn't rip it out. I promise!"
+msgstr "おっと、でもこページ、下に落ちてたんだ。 はぎ取ったのは俺じゃない。　本当だよ。"
+
+# 317:Principal Island dialogs
+#: 317:215
+msgid "According to the book I have, there is a \"Clear water\" lake in the Hamalayi mountains, somewhere to the North West of Principal Island. Did you know that the Hamalayi range is impossible to cross? It marks the border with the Northern hemisphere, the one that Dr. FunFrock cleared out. The sun is too hot for us over there: the temperature is unbearable, and the changes in climate caused the development of mutant monsters. And despite the fact that the good doctor spared us from all that, there are still rebels out there who want to overthrow him - it's shameful!"
+msgstr "俺のもってる本によれば、「聖なる水」の湖っ てのは、ハマライ山にあるそうだ。プリンシパ ル島から北西方向に行った辺りらしい。でも ハマライ山を縦断するのは、不可能だって知っ てたかな？　 　山はファンフロック博士が立入り禁止にして いる北半球との境界線上にあるんだ。北半球で は太陽の光が強く、気温は極度に高い。それに その激しい気候で突然変異を起こした怪物もは びこってるんだ。博士がそういう危険なものか ら俺たちを守ってくれてるにもかかわらず、 北半球には今だ反逆者が、博士を倒そうと ねらってるんだ。　まったく、けしからんよ。"
+
+# 317:Principal Island dialogs
+#: 317:216
+msgid "Sorry, I don't know what you're talking about."
+msgstr "悪いけど、何を言ってるのかさっぱりわからな いよ。"
+
+# 317:Principal Island dialogs
+#: 317:217
+msgid "Ask the librarian, he knows a lot about the history of LeBorgne."
+msgstr "図書館員に聞きなよ、彼は海賊ルボーニャの歴 史にとても詳しいんだ。"
+
+# 317:Principal Island dialogs
+#: 317:218
+msgid "Did you know that Dr. FunFrock installed busts of his effigy to protect us? The ones that don't have a pedestal are placed on ancient seals. Since these symbols were indestructible, at least the busts hide them now!"
+msgstr "ファンフロック博士は、自分の胸像を置いて、 僕らが伝説に惑わされないようにしてくれたん だ。その像には台座のないものがあって、それ は古代の封印の上に置かれていてね。その胸像 が封印された破壊不可能な伝説の象徴を隠して くれているんだ。"
+
+# 317:Principal Island dialogs
+#: 317:219
+msgid "I don't know where they are."
+msgstr "どこだか知らないなあ。"
+
+# 317:Principal Island dialogs
+#: 317:220
+msgid "Go see the librarian."
+msgstr "司書の所に行ってみなよ。"
+
+# 317:Principal Island dialogs
+#: 317:221
+msgid "I never saw him, but try a little further up at the Bazaar. Wadbull knows a lot and he SELLS A BIT OF EVERYTHING!"
+msgstr "彼は見なかったけど、マーケットのもうちょっ と奥の方で探してみたらどうかな。ワドブルは 物知りだし、彼の店ではこまごまといろんな物 を売ってるんだよ。"
+
+# 317:Principal Island dialogs
+#: 317:222
+msgid "Nobody remembers that nowadays. I even wonder if the library still has books about the Legend."
+msgstr "そんな事もう誰も覚えちゃいないよ。図書館に まだその伝説に関する本が残ってるかどうかも 疑問だね。"
+
+# 317:Principal Island dialogs
+#: 317:223
+msgid "I don't know her. Sorry."
+msgstr "そんな娘知らないよ、悪いね。"
+
+# 317:Principal Island dialogs
+#: 317:224
+msgid "I don't know anything about it, but some people say that there used to be some books over at the library that spoke of it."
+msgstr "そんな話全く知らんよ。 でも昔むこうの図書館に、それに関する本が 何冊か置いてあったって、誰かが言ってたぞ。"
+
+# 317:Principal Island dialogs
+#: 317:225
+msgid "Stop doing that, you're going to put ashes everywhere!"
+msgstr "それやめてよ、 灰があちこちに散らばっちゃうじゃない。"
+
+# 317:Principal Island dialogs
+#: 317:226
+msgid "Don't know where they are, but forget about it! Teleportation makes me sick."
+msgstr "どこだか知らないけど、あきらめなよ。 ああ、テレポートすると気持ちわるい．．．。"
+
+# 317:Principal Island dialogs
+#: 317:227
+msgid "Ewwwww! Teleportation makes me nauseous."
+msgstr "あーー、 テレポートすると吐き気がする．．．。"
+
+# 317:Principal Island dialogs
+#: 317:228
+msgid "No more gas."
+msgstr "ガス欠だ。"
+
+# 317:Principal Island dialogs
+#: 317:229
+msgid "By the way - thanks, I have the red card!"
+msgstr "ところで．．．ありがとう。 レッドカードは持ってるよ。"
+
+# 317:Principal Island dialogs
+#: 317:230
+msgid "You can't imagine what it's like to be locked up! | It's awful... just awful!"
+msgstr "閉じ込められるのがどんな気持ちか分からない だろう。　みじめだよ、とにかく最悪だ。"
+
+# 317:Principal Island dialogs
+#: 317:231
+msgid "I doubt that she is being held here."
+msgstr "彼女は、この牢屋にはいないんじゃない。"
+
+# 317:Principal Island dialogs
+#: 317:232
+msgid "Never heard anything about it."
+msgstr "そんな事きいたこともないなあ。"
+
+# 317:Principal Island dialogs
+#: 317:233
+msgid "They say that he was never captured!"
+msgstr "彼はまだ捕まってないってウワサだよ。"
+
+# 317:Principal Island dialogs
+#: 317:234
+msgid "Sorry, but I really don't know anything about it."
+msgstr "ごめんよ。　でも本当に何も知らないんだよ。"
+
+# 317:Principal Island dialogs
+#: 317:235
+msgid "\"Drinking water for Principal Island: DO NOT THROW ANYTHING IN THE TANK!\""
+msgstr "「プリンシパル島の飲料水。タンクに物を投げ 込まないで下さい。」"
+
+# 317:Principal Island dialogs
+#: 317:236
+msgid "Sorry dear customer, but this is a bazaar here, not a library!"
+msgstr "失礼ですがお客さん、 ここは図書館じゃなくて、マーケットですよ。"
+
+# 317:Principal Island dialogs
+#: 317:237
+msgid "No one remembers that stuff today, that's just a lot of bunk."
+msgstr "そんなことはもう誰も覚えちゃいないよ。 そりゃウソ八百だよ。"
+
+# 317:Principal Island dialogs
+#: 317:238
+msgid "Well ... I don't know, but someone in the Old Burg must know something about this stupid Legend."
+msgstr "さあ、俺は知らないな。　 でもオールドバーグに、そのバカげた伝説に ついて何か知ってる人がいるはずだぜ。"
+
+# 317:Principal Island dialogs
+#: 317:239
+msgid "She's not being held here. But if you want my red card, go and see my brother. Our house's location is marked on your holomap."
+msgstr "この牢屋にはいないよ。　でもレッドカードが 欲しけりゃ、俺の兄貴に会うといい。俺達の家 の位置は、ホロマップに載ってるよ。"
+
+# 317:Principal Island dialogs
+#: 317:240
+msgid "I was just thinking as well, that I've seen this quetch somewhere before!"
+msgstr "私も思ってたとこなの。このクエッチ、 どっかで見たことがあるって。"
+
+# 317:Principal Island dialogs
+#: 317:241
+msgid "Go try at the Old Burg tavern, and talk to the bar tender."
+msgstr "オールドバーグの酒場であたってみなよ。 バーテンダーに聞くといい。"
+
+# 317:Principal Island dialogs
+#: 317:242
+msgid "Hi, I've just returned from a trip around this hemisphere and I'm selling my boat. Follow me if you're interested."
+msgstr "よう、南半球一周から帰ってきたところで、 今、ボートを売ってんだ。　 興味あるならついてきな。"
+
+# 317:Principal Island dialogs
+#: 317:243
+msgid "Good day, so you've been around the hemisphere? Watch out for the icebergs near the Hamalayi mountains!"
+msgstr "こんちわ、 南半球をまわった経験はあるのかい？　ハマラ イ山近くのアイスバーグには気を付けろよ！"
+
+# 317:Principal Island dialogs
+#: 317:244
+msgid "You might get into trouble with the authorities if you carry this flag. It's a rebel's emblem."
+msgstr "この旗をつけたまま走らせると、警察に止めら れるかもな。　反乱軍の旗だからさ。"
+
+# 317:Principal Island dialogs
+#: 317:245
+msgid "Come here! Now that's a real sailor! LeBorgne had a log that must have contained the location of his treasure somewhere."
+msgstr "こっち来いよ！　もうこれで立派な船乗りだ。 ルボーニャの航海日誌には、彼の宝のありかが 書かれているに違いない。"
+
+# 317:Principal Island dialogs
+#: 317:246
+msgid "Never seen 'em, don't even know what you're talking about."
+msgstr "見たことないし、 何のことかさっぱり分からないよ。"
+
+# 317:Principal Island dialogs
+#: 317:247
+msgid "Well, well, what do we have here? A snooper? Twinsen I presume. I would like to know what you're doing here."
+msgstr "おやおや、こいつは誰だろね、スパイか？ フフフ、トゥインセンだな。 ここに来た訳を聞かせてもらおう。"
+
+# 317:Principal Island dialogs
+#: 317:248
+msgid "There's a treasure on this island: you must blow into a magic horn in front of FunFrock's bust to gain access to it."
+msgstr "この島には宝がある。その宝を手に入れたいな ら、ファンフロックの胸像の前で、 魔法のフルートを吹くんだ。"
+
+# 317:Principal Island dialogs
+#: 317:249
+msgid "I am not familiar with that story."
+msgstr "その話は聞いたことがないなあ。"
+
+# 317:Principal Island dialogs
+#: 317:250
+msgid "I don't know what that could be all about."
+msgstr "それが何の事なのか分からないな。"
+
+# 317:Principal Island dialogs
+#: 317:251
+msgid "Good day"
+msgstr "いらっしゃい。"
+
+# 317:Principal Island dialogs
+#: 317:252
+msgid "Good day"
+msgstr "いらっしゃい。"
+
+# 317:Principal Island dialogs
+#: 317:253
+msgid "Hello"
+msgstr "よく来た。"
+
+# 317:Principal Island dialogs
+#: 317:254
+msgid "Good day dear friend."
+msgstr "やあよく来てくれました。"
+
+# 317:Principal Island dialogs
+#: 317:255
+msgid "Ah, those plans are not present in our books."
+msgstr "ああ、 そういう設計図はこの図書館にはありません。"
+
+# 317:Principal Island dialogs
+#: 317:256
+msgid "To the Hamalayi mountains."
+msgstr "ハマライ山へ"
+
+# 317:Principal Island dialogs
+#: 317:257
+msgid "Wherever you go, come back soon. We are waiting for the imminent return of a solitary navigator, and he will sell his boat."
+msgstr "どこに行ってもいいが、すぐに戻ってこいよ。 俺達の待ってる旅人は、もうすぐ帰ってくるん だから。　彼がボートを売ってくれる。"
+
+# 317:Principal Island dialogs
+#: 317:258
+msgid "Don't know anything about it!"
+msgstr "その事は知らないなあ。"
+
+# 317:Principal Island dialogs
+#: 317:259
+msgid "It's kind of you to help me, but I managed to steal the guard's key. Take it, I don't need it any more."
+msgstr "助けてくれるのは、ありがたいが、 自分で何とか警備員の鍵を盗んだよ。 やるよ、俺はもう要らないから。"
+
+# 317:Principal Island dialogs
+#: 317:260
+msgid "I just discovered a secret passage, incredible! Do you like my red card otherwise?"
+msgstr "俺今アクションコマンドを使ってみたら、秘密 の通路が見つかったんだ。驚いたな。 俺のレッドカード、まだ必要かい？"
+
+# 317:Principal Island dialogs
+#: 317:261
+msgid "Ah, it's impossible to open it without a red card."
+msgstr "ああ、 レッドカードが無いとそれが開かないんだ。"
+
+# 317:Principal Island dialogs
+#: 317:262
+msgid "Ah, it's impossible to open it without a blue card."
+msgstr "ああ、 ブルーカードが無いとそれが開かないんだ。"
+
+# 317:Principal Island dialogs
+#: 317:263
+msgid "To the military camp."
+msgstr "軍の駐留地へ"
+
+# 317:Principal Island dialogs
+#: 317:264
+msgid "Peg Leg Street."
+msgstr "ペグレッグ通り"
+
+# 317:Principal Island dialogs
+#: 317:265
+msgid "I am cured. I don't kown what you poured in the water this time but my kidney stone vanished. Thank you!"
+msgstr "治ったぞー。 君が今回水道の水に何を入れたか知らないが、 肝臓にあった石が消えたんだ。　感謝するよ。"
+
+# 317:Principal Island dialogs
+#: 317:266
+msgid "Hello"
+msgstr "こんにちは。"
+
+# 317:Principal Island dialogs
+#: 317:267
+msgid "One day, one of my swabs claimed that LeBorgne was an ancestor of mine and... well, you know how dramatic burials at sea can be!"
+msgstr "いつだったか、船の乗務員がルボーニャは、 わしの先祖だなんて言ってて、いいやあ、 海に埋葬するとはすごく過激な発想だよな。"
+
+# 319:White Leaf Desert dialogs
+#: 319:0
+msgid "Here's your book."
+msgstr "君の本"
+
+# 319:White Leaf Desert dialogs
+#: 319:1
+msgid "Good day"
+msgstr "こんにちは"
+
+# 319:White Leaf Desert dialogs
+#: 319:2
+msgid "Good day, all this talk about the Legend is strange, don't you think?"
+msgstr "こんにちは、最近、伝説のうわさおかしいよ。 そう思わない？"
+
+# 319:White Leaf Desert dialogs
+#: 319:3
+msgid "Very strange indeed. I'm just an old fool who would like to grow flowers in the desert, but... I know about this Legend that Dr. FunFrock forbade. I'll tell you what I know if you bring me a sacred book. It is in the Temple of Bù which was buried by a violent sand storm. You can still get in, however, through one of the ventilation shafts still visible just behind me. But be careful: there is danger everywhere!"
+msgstr "確かに何か変じゃな。 わしは砂漠で花を育てたいだけのバカな老いぼ れにすぎないが、それでも、ファンフロック博 士が禁じた伝説は、ちゃんと覚えとるよ。 　聖なる本を持ってくれば、伝説について、わ しの知ってることを君に教えよう。　それはビ ュー寺院にあるんじゃが、寺は激しい砂嵐に埋 まってしまったんじゃ。 　しかし入る方法はある。わしの後ろに今だ見 えているその換気孔から、入り込むのじゃ。し かし、気を付けろ。いろんな危険が待ち受けて おるからな。"
+
+# 319:White Leaf Desert dialogs
+#: 319:4
+msgid "\" This book is a keeper of knowledge. It allows you to read the rocks and to talk to the animals. \""
+msgstr "「この本は、知識の蔵書である。　動物と話す 方法やストーンの読み方が載っている。」"
+
+# 319:White Leaf Desert dialogs
+#: 319:5
+msgid "To Principal Island."
+msgstr "プリンシパル島へ"
+
+# 319:White Leaf Desert dialogs
+#: 319:6
+msgid "I'll leave later on."
+msgstr "後にするよ"
+
+# 319:White Leaf Desert dialogs
+#: 319:7
+msgid "I can get you to where you want to go for only 10 Kashes! Where do you want to go?"
+msgstr "たったの１０キャッシュで君のいきたいところ に連れていってあげるよ、さあどこに行く？"
+
+# 319:White Leaf Desert dialogs
+#: 319:8
+msgid "Sorry, Twinsen, you don't have enough Kashes."
+msgstr "悪いがトゥインセン、 君のキャッシュじゃ足りないよ。"
+
+# 319:White Leaf Desert dialogs
+#: 319:9
+msgid "To Citadel Island."
+msgstr "シタデル島へ"
+
+# 319:White Leaf Desert dialogs
+#: 319:10
+msgid "Thanks for opening the grotto. My name is Joe the Elf. I was locked up here because I wasn't meant to be in the story, there might have been some bugs in the game!"
+msgstr "ほら穴を開けてくれてありがとう。 僕は妖精のジョー。 ゲームに登場しないように閉じ込められてたん だけど、何か故障でもあったのかなあ。"
+
+# 319:White Leaf Desert dialogs
+#: 319:11
+msgid "See you later, and thanks again."
+msgstr "またあとで、本当にありがとう。"
+
+# 319:White Leaf Desert dialogs
+#: 319:12
+msgid "You're too aggressive! Come back later when you've calmed down."
+msgstr "乱暴だなぁ、頭を冷やしてから出直しな！"
+
+# 319:White Leaf Desert dialogs
+#: 319:13
+msgid "Ow, you crazy or what? You don't deserve to be an elf, give me your membership card!"
+msgstr "痛いな、君どうかしてるよ。それでも妖精か？ メンバーシップよこしな！"
+
+# 319:White Leaf Desert dialogs
+#: 319:14
+msgid "Where do you want to go?"
+msgstr "目的地は？"
+
+# 319:White Leaf Desert dialogs
+#: 319:15
+msgid "Home."
+msgstr "家まで"
+
+# 319:White Leaf Desert dialogs
+#: 319:16
+msgid "Proxima island."
+msgstr "プロキシマ島まで"
+
+# 319:White Leaf Desert dialogs
+#: 319:17
+msgid "Rebellion island."
+msgstr "リベリオン島まで"
+
+# 319:White Leaf Desert dialogs
+#: 319:18
+msgid "You are the Heir that the prophecy spoke of, Twinsen ! Find your ancestors' legacy, hidden in your home, and pursue your quest. Come back and see me some time."
+msgstr "予言された世継ぎとは、 お前の事じゃったんだよ、トゥインセン！ お前の先祖がお前に残した物を、家に帰って 探し出し、使命をまっとうするのじゃ。 またいつか会いに来ておくれ。"
+
+# 319:White Leaf Desert dialogs
+#: 319:19
+msgid "Only the Heir could have survived in that Temple! You are the Chosen One that the prophecy spoke of. You are worthy of keeping the Book of Bù, Twinsen. It will allow you to decipher the runes and to speak to the animals. The prophecy that must be accomplished is also revealed in its pages: you must overthrow Dr. FunFrock, the despot who has destroyed the harmony that once existed on this planet. In my dreams, I saw him profaning the Well of Sendell, which caused the immediate destruction of this world. You must go to the Well of Sendell to save us from Dr. FunFrock. I don't know where this well is, but your ancestors must have left instructions for you, somewhere in your home."
+msgstr "あの寺で生き残れるのは世継ぎただ一人。 予言された選ばれし者とは、お前のことじゃっ たんだ。お前は、ビューの本を持つにふさわし い者じゃ、トゥインセン！　本があれば、ルー ニックストーンを解読し、動物と話すことだっ てできるんじゃ。　成就されるべき予言につい ても、ビューの本に記載されている。　かつて この惑星にあった調和を乱した暴君ファンフロ ック博士を倒さなくてはならない。　わしは夢 で、彼が聖なるセンデルの泉を汚しているのを 見た。彼の冒涜が原因で世界が乱れたのじゃ。 　ファンフロック博士から世界を救うため、セ ンデルの泉に行くのじゃ。　この泉がどこかは 知らないが、お前の先祖が残したメモがどこか に隠されてるはずじゃ、お前の家のどこかにな"
+
+# 319:White Leaf Desert dialogs
+#: 319:20
+msgid "Hello fellow elf."
+msgstr "やあ、元気かい？"
+
+# 319:White Leaf Desert dialogs
+#: 319:21
+msgid "Adios! I think I'm going out to discover the world. "
+msgstr "またね！　ちょっと世界を探検してくるんだ。"
+
+# 319:White Leaf Desert dialogs
+#: 319:22
+msgid "You seem to be nice enough, I dub thee an honorary elf. Here's your card. It entitles you to a present."
+msgstr "君はやさしい妖精だね。　妖精名誉会長にして やろう。　君のカードだ。あとでプレゼントと 交換だよ。"
+
+# 319:White Leaf Desert dialogs
+#: 319:23
+msgid "Hello, quetch !"
+msgstr "やあ、クエッチ君！"
+
+# 319:White Leaf Desert dialogs
+#: 319:24
+msgid "Good day, horse."
+msgstr "やあ、お馬さん"
+
+# 319:White Leaf Desert dialogs
+#: 319:25
+msgid "I know the story of the emerald moon, but that's all."
+msgstr "エメラルドの月の話は知ってるけど、他は知ら ないなぁ。"
+
+# 319:White Leaf Desert dialogs
+#: 319:26
+msgid "Hii, hi ! Bbbrrrff ! Brf !"
+msgstr "ヒヒブルルルルルー。"
+
+# 319:White Leaf Desert dialogs
+#: 319:27
+msgid "I don't know what that could be all about."
+msgstr "それが、何の事なのか分からないなぁ。"
+
+# 319:White Leaf Desert dialogs
+#: 319:28
+msgid "Did you know that there are strange noises coming from that symbol on the rocks?"
+msgstr "あの石の紋章から妙な音が聞こえてくる、 気付いてた？"
+
+# 319:White Leaf Desert dialogs
+#: 319:29
+msgid "You were the one who freed that gnome with the hideous hat? He asked me if there was a princess that needed freeing in the neighborhood, but if you want my opinion, he doesn't have what it takes to be a hero."
+msgstr "あの醜い帽子の妖精を解放したのは君だったの か？　あいつ、この辺に助けを求める姫はいな かと聞いてきた。 でも正直に言わせてもらえば、あいつには ヒーローになる素質ってのがないよ。"
+
+# 319:White Leaf Desert dialogs
+#: 319:30
+msgid "No more gas."
+msgstr "ガス欠だ。"
+
+# 319:White Leaf Desert dialogs
+#: 319:31
+msgid "Then you should go visit the Maritime museum on Proxima island."
+msgstr "それなら、プロキシマ島にある 海事博物館に行ってみるといい。"
+
+# 319:White Leaf Desert dialogs
+#: 319:32
+msgid "I can't help you, sorry."
+msgstr "力になれんよ、すまんな。"
+
+# 319:White Leaf Desert dialogs
+#: 319:33
+msgid "I'm looking for the plans of the Teleportation Center."
+msgstr "テレポーテーションセンターの設計図を探して るんだ。"
+
+# 319:White Leaf Desert dialogs
+#: 319:34
+msgid "They say that there are treasures hidden in a temple, somewhere in the desert."
+msgstr "うわさによると、ホワイトリーフ砂漠のどこか にある寺の中に、宝が隠されているらしい。"
+
+# 319:White Leaf Desert dialogs
+#: 319:35
+msgid "I'm looking for information about LeBorgne the pirate."
+msgstr "海賊ルボーニャに関する情報を 集めてるんです。"
+
+# 319:White Leaf Desert dialogs
+#: 319:36
+msgid "I read some excerpts from the Captain's log, that LeBorgne was ruthless! If you're still interested, the log is for sale at the Old Burg bazaar, on the Principal island."
+msgstr "ルボーニャの航海日誌をちょっと読んでみたん だが、ルボーニャは冷酷だったんだなぁ。君も その航海日誌を読みたけりゃ、プリンシパル島 のオールドバーグマーケットで売ってるよ。"
+
+# 319:White Leaf Desert dialogs
+#: 319:37
+msgid "I don't know where they are."
+msgstr "どこだか知らないね。"
+
+# 319:White Leaf Desert dialogs
+#: 319:38
+msgid "I don't know anything about it, but I think a while ago the library had some books that spoke of it."
+msgstr "俺は何も知らないけど、しばらく前まで図書館 に、それに関する本が何冊か置いてあった気が するなぁ。"
+
+# 319:White Leaf Desert dialogs
+#: 319:39
+msgid "I don't know where they are, but we elves don't need that sort of stuff. We can teleport ourselves magically! Well, I forgot how, but I'm not a good example."
+msgstr "場所は知らないけど、妖精にはそんな物必要な いんだ。　魔法を使ってテレポートできるから ね。　 僕はダメだけど．．．ちょっと忘れちゃって。"
+
+# 319:White Leaf Desert dialogs
+#: 319:40
+msgid "To the Hamalayi mountains."
+msgstr "ハマライ山へ"
+
+# 319:White Leaf Desert dialogs
+#: 319:41
+msgid "I'll give you my guitar in exchange for the flute that you possess Twinsen, beforehand, though, you will have play it next to the Clear Water Lake in order to obtain the 4th magical symbol."
+msgstr "お前の持っとるフルートと引き換えに、わしの ギターをやろう。　トゥインセン、しかしその 前に、“聖なる水”の湖のほとりで、 そのフルートを吹き、 第４の魔法のシンボルを手に入れるのだ。"
+
+# 319:White Leaf Desert dialogs
+#: 319:42
+msgid "You will no longer need the flute, Twinsen. On the other hand, it might allow me to realize an old dream of mine. I'll trade you for this guitar that I found in the middle of a meteor."
+msgstr "もうお前にはフルートは必要ない、トゥインセ ン。しかしわしにとっちゃ、このフルートは夢 にまでみたフルートじゃ。代わりにこのギター をやろう、隕石の中に入ってたものじゃ。"
+
+# 319:White Leaf Desert dialogs
+#: 319:43
+msgid "Good day "
+msgstr "やあ"
+
+# 321:Proxima Island dialogs
+#: 321:0
+msgid "\" Maritime Museum, rates: | Children ... 3 Kashes | Adults ... 5 Kashes. \" "
+msgstr "「海事博物館　入場料： 子供３キャッシュ、大人５キャッシュ」"
+
+# 321:Proxima Island dialogs
+#: 321:1
+msgid "\" Welcome to Proxim-City | (Proxima Island). \""
+msgstr "「プロキシマシティへようこそ　 プロキシマ島」"
+
+# 321:Proxima Island dialogs
+#: 321:2
+msgid "\" Guard post - open 24 hours a day. Do not disturb... \""
+msgstr "「警備監視所、２４時間警備、 起こすな．．．」"
+
+# 321:Proxima Island dialogs
+#: 321:3
+msgid "\" Appropriate attire required! \""
+msgstr "「ふさわしい服装のこと」"
+
+# 321:Proxima Island dialogs
+#: 321:4
+msgid "I'm looking for the plans of the Teleportation Center."
+msgstr "テレポーテーションセンターの設計図を探して るんです。"
+
+# 321:Proxima Island dialogs
+#: 321:5
+msgid "To Principal Island."
+msgstr "プリンシパル島へ"
+
+# 321:Proxima Island dialogs
+#: 321:6
+msgid "To Citadel Island."
+msgstr "シタデル島へ"
+
+# 321:Proxima Island dialogs
+#: 321:7
+msgid "We'll see about that later."
+msgstr "それは後になればわかるよ。"
+
+# 321:Proxima Island dialogs
+#: 321:8
+msgid "For 10 Kashes, where do you want to go, Twinsen ?"
+msgstr "料金は１０キャッシュ、 どこに行きたい、トゥインセン？"
+
+# 321:Proxima Island dialogs
+#: 321:9
+msgid "Sorry, you don't have enough Kashes. I've got kids to feed you know!"
+msgstr "悪いが、君のキャッシュじゃ足りないよ！ 家族を養ってる身なんだ。"
+
+# 321:Proxima Island dialogs
+#: 321:10
+msgid "Good day, a ticket for the museum costs 5 Kashes. Would you like one?"
+msgstr "こんにちは、博物館入場券は、 ５キャッシュだよ、買いますか？"
+
+# 321:Proxima Island dialogs
+#: 321:11
+msgid "Yes, I'll take one."
+msgstr "１枚ください。"
+
+# 321:Proxima Island dialogs
+#: 321:12
+msgid "No, museums put me to sleep."
+msgstr "いえ、博物館は退屈だから。"
+
+# 321:Proxima Island dialogs
+#: 321:13
+msgid "Sorry, but you don't have enough Kashes."
+msgstr "あいにく、 あなたのキャッシュじゃ足りません。"
+
+# 321:Proxima Island dialogs
+#: 321:14
+msgid "\" Rear starboard propeller of the FunFrock 2. It was lost when the ship was launched from Principal island. The boat ran out of gas three days later, and finally stopped turning around in circles. \""
+msgstr "「ファンフロック２の後部右のプロペラ。 プリンシパル島から出航した際紛失、同じ場所 をぐるぐる旋回していたが、３日後にガス欠で やっと止まる。」"
+
+# 321:Proxima Island dialogs
+#: 321:15
+msgid "\" Captain LeBorgne's treasure. This chest contains the fruits of a lifetime of dishonesty. It was seized by the IRS, the only predator known to this terrible pirate. \""
+msgstr "「海賊ルボーニャの宝。この箱の宝は、彼の海 賊人生の所産である。ルボーニャと敵対する略 奪者、ＩＲＳによってこの宝は強奪された。」"
+
+# 321:Proxima Island dialogs
+#: 321:16
+msgid "\" Loan shark. This species of shark belongs to the movie producer family. \""
+msgstr "「サラ金業。　この種の金魚は、映画製作者の 家庭で飼われている。」"
+
+# 321:Proxima Island dialogs
+#: 321:17
+msgid "\" Reed Boat or Quffa. Primitive boat made from weaved reeds.\""
+msgstr "「アシの船、クファ。アシ草を編んで作った 原始的な船。」"
+
+# 321:Proxima Island dialogs
+#: 321:18
+msgid "\" Boarding cannon. \""
+msgstr "「搭載砲」"
+
+# 321:Proxima Island dialogs
+#: 321:19
+msgid "\" Oak barrel. Barrels such as this one were used to serve up the daily rations of rum to the sailors. \""
+msgstr "「オーク材の樽。　このような樽は以前、船売 りの毎晩の晩酌のために使用されていた。」"
+
+# 321:Proxima Island dialogs
+#: 321:20
+msgid "\" Bùian Mermaid. A fine example of the absurdity of ancient superstitions: this statue was found in the middle of a desert. \""
+msgstr "「ビュイアン人魚。古代の根も葉もない迷信の よい１例である。この像は砂漠の真ん中で発見 された。」"
+
+# 321:Proxima Island dialogs
+#: 321:21
+msgid "\" Lifeboat. Do not pierce, burn, or bring into contact with an incandescent object. \""
+msgstr "「ライフボート。　穴を開けたり燃やしたり、 火元に近付けたりしないこと。」"
+
+# 321:Proxima Island dialogs
+#: 321:22
+msgid "\" Life candies: would you like 10 hearts for 10 Kashes? \""
+msgstr "「ライフキャンディ：　ハート１０個を１０キ ャッシュでどう？」"
+
+# 321:Proxima Island dialogs
+#: 321:23
+msgid "Ok, I'll take them."
+msgstr "じゃあ買うよ"
+
+# 321:Proxima Island dialogs
+#: 321:24
+msgid "No thank you."
+msgstr "いや、結構"
+
+# 321:Proxima Island dialogs
+#: 321:25
+msgid "Not enough Kashes !"
+msgstr "キャッシュが足りません！"
+
+# 321:Proxima Island dialogs
+#: 321:26
+msgid "Halt. It is forbidden to touch the exhibits."
+msgstr "止まれ！　展示物に手を触れてはいけない。"
+
+# 321:Proxima Island dialogs
+#: 321:27
+msgid "Sound the alarm! It's the escapee!"
+msgstr "警報を鳴らせ！　脱走囚だ！"
+
+# 321:Proxima Island dialogs
+#: 321:28
+msgid "\" Construction work. SLOW DOWN! \""
+msgstr "「工事中、スピード落とせ！」"
+
+# 321:Proxima Island dialogs
+#: 321:29
+msgid "\" I am the Eclipse Stone. The password for the Marked Stone is \"BURBS\". Which word will free me? \""
+msgstr "「僕はエクリプスストーン。　マークストーン のパスワードは、“バーブズ”。僕のパスワー ドは何だろ？」"
+
+# 321:Proxima Island dialogs
+#: 321:30
+msgid "\" I am the Marked Stone. The password for the Eclipse Stone is \"GIZMO\". Which word will free me? \""
+msgstr "「僕はマークストーン。　エクリプスストーン のパスワードは、“ギズモ”。僕のパスワード は何だろ？」"
+
+# 321:Proxima Island dialogs
+#: 321:31
+msgid "I don't know."
+msgstr "わからないよ"
+
+# 321:Proxima Island dialogs
+#: 321:32
+msgid "\" BURBS \""
+msgstr "“バーブズ”"
+
+# 321:Proxima Island dialogs
+#: 321:33
+msgid "\" GIZMO \""
+msgstr "“ギズモ”"
+
+# 321:Proxima Island dialogs
+#: 321:34
+msgid "My brother was arrested and the house is under surveillance: phony red card traffic. Wait a minute, how did you get in here? And who are you?"
+msgstr "レッドカード偽造の罪で、弟は逮捕されちゃっ たんだ。おかげで家は監視付、ちょっと待て、 どうやってここへ入った？　お前は何者だ？"
+
+# 321:Proxima Island dialogs
+#: 321:35
+msgid "My name is Twinsen. I met your brother. He is in jail but is fine for the moment. He told me to mention the word \"Amos\" to you."
+msgstr "僕はトゥインセン、弟さんに会ったんです。 獄中ですが今のところ元気です。彼から “アモス”って言うように言われました。"
+
+# 321:Proxima Island dialogs
+#: 321:36
+msgid "My name is Twinsen and I am the Heir... | voila, voila, voila."
+msgstr "僕はトゥインセン、世継ぎと呼ばれる．．． るらららら．．．。"
+
+# 321:Proxima Island dialogs
+#: 321:37
+msgid "Ah! Ok. Then you might need this."
+msgstr "ああそうか、じゃ、これが要るんだろ？"
+
+# 321:Proxima Island dialogs
+#: 321:38
+msgid "I'm really happy for you, Twinsen! But my brother is being held in FunFrock's headquarters. His cell has a window that is right on the street. If you could tell me how he's doing, I will give you a red card in gratitude."
+msgstr "へぇ、そりゃ本当に良かったな、 トゥインセン。でも弟はまだファンフロック司 令部に捕まったままだ。弟の独房は窓が道に面 してる。弟の様子を見て来てくれたら、お礼に レッドカードを君にさし上げよう。"
+
+# 321:Proxima Island dialogs
+#: 321:39
+msgid "You've just rediscovered all the objects that are in your inventory!"
+msgstr "インベントリーリストにあるアイテムの全てを 手に入れた。"
+
+# 321:Proxima Island dialogs
+#: 321:40
+msgid "\" L.B.A. | Proxim-City sewer service | Ferry Street \""
+msgstr "「Ｌ．Ｂ．Ａ　プロキシムシティ工事　 フェリー通り」"
+
+# 321:Proxima Island dialogs
+#: 321:41
+msgid "I've been trying to sell this hair dryer ever since I was on Principal island! Come on, I know you can use one for 30 Kashes."
+msgstr "プリンシパル島で生まれて以来、このドライヤ ーを売ろうと頑張ってるんだ。　頼むよ、 ３０キャッシュで買ってくれないか！"
+
+# 321:Proxima Island dialogs
+#: 321:42
+msgid "You don't have enough Kashes, see you later."
+msgstr "キャッシュが足りないみたいだな、またな。"
+
+# 321:Proxima Island dialogs
+#: 321:43
+msgid "I don't have anything else to sell!"
+msgstr "他には何も売ってないんだ。"
+
+# 321:Proxima Island dialogs
+#: 321:44
+msgid "Aah, I see that you too have come to Proxima island. You remember me, I sell hair dryers. Look, I'll sell you one for only 30 Kashes, but only because it's been a slow day."
+msgstr "おや、君もプロキシマ島へ来てたのか、 俺覚えてる？　ドライヤー売りだよ。よし、 今日は、１個３０キャッシュに負けとくよ。 売れ行きが悪いんで特別だ。"
+
+# 321:Proxima Island dialogs
+#: 321:45
+msgid "Don't know what you're talking about."
+msgstr "何のことかさっぱり分からないな"
+
+# 321:Proxima Island dialogs
+#: 321:46
+msgid "I've been working on a Jet-Pack prototype for days now. It's a small reactor that harnesses onto your back and allows you to fly about. My problem is that my last test flight wreaked a bit of havoc on the garden wall. It is rather difficult to fine tune the motor's power. I need a rheostat like the one you find in a hair dryer. Do you think you can find one of those for me? "
+msgstr "俺はもう何日もジェットパックの発明に取り組 んでいるんだ。　背中に固定させると宙を飛び まわることのできる小さな原動装置なんだ。　 この間はテスト飛行でちょっと失敗、庭の塀を メチャクチャに壊したよ。　モーター出力の微 調整が幾分難しいんだ。　ドライヤーに使われ てるような加減抵抗器が要るようだ。　 　見つけてくれると嬉しいんだけど。"
+
+# 321:Proxima Island dialogs
+#: 321:47
+msgid "So you found a hair dryer? Great! I'll be with you in a minute, just let me install the rheostat. "
+msgstr "じゃ、ヘアドライヤー見つけたのか？　 よし、ちょっとここで待っててくれ、 今、加減抵抗器を取り付けてくる。"
+
+# 321:Proxima Island dialogs
+#: 321:48
+msgid "Well it's not a Jet-Pack yet, it's still just a Proto-Pack. I would appreciate it if you could test it out to see how it works. You should be able to fly over the water if you approach it from a gently sloping beach. But don't jump! Will you test it for 10 Kashes?"
+msgstr "まだジェットパックが完成した訳じゃなく、 プロトパックにすぎないんだ。うまく作動する か、君がテスト飛行してくれたらありがたいん だけどなぁ。 海の上空だって飛行できるはずだよ。 勾配のゆるやかな海岸から降りてゆけばね。 ジャンプは禁物だ。１０キャッシュ払うから 飛んでくれない？"
+
+# 321:Proxima Island dialogs
+#: 321:49
+msgid "How's the Proto-Pack coming along? Keep testing, I have a bunch of calculations to finish up. And be careful when approaching water: you can only fly by coming in from a gently sloping beach."
+msgstr "プロトパックの調子はどうだい？　そのまま続 けて、俺は複雑な計算を終わらせなくちゃなら ないから。　海に近づくときは、やり方に注意 してゆるやかな傾斜の海岸から近づいていかな いと飛べないからね。"
+
+# 321:Proxima Island dialogs
+#: 321:50
+msgid "\" Our heroic clone troops are responding to the rising rebel threat with a series of bombardments. \""
+msgstr "「勇敢なクローン部隊は、拡大する反乱運動へ のみせしめに爆撃を続けている」"
+
+# 321:Proxima Island dialogs
+#: 321:51
+msgid "\" Skull flag. Pirate emblem belonging to the famous pirate Captain LeBorgne. \" "
+msgstr "「どくろの旗、 有名な海賊キャプテン・ルボーニャの紋章」"
+
+# 321:Proxima Island dialogs
+#: 321:52
+msgid "The museum's alarm system has been activated: we have evacuated the premises for your security. We will open up again later! "
+msgstr "博物館警報システムが作動しました。 安全のため、館内の立入りを禁止します、 後ほど開館します。"
+
+# 321:Proxima Island dialogs
+#: 321:53
+msgid "There was a false alarm at the museum. The only way out was through the sewers, but the grate was not moved, so we're reopening the building."
+msgstr "博物館で警報が誤って作動しました。　 逃げ道は下水溝しかなかったのですが、 鉄格子は動いていませんでした。 さあ、再び館内を開放します。"
+
+# 321:Proxima Island dialogs
+#: 321:54
+msgid "Good day."
+msgstr "こんにちは"
+
+# 321:Proxima Island dialogs
+#: 321:55
+msgid "Sorry, but you don't have enough Kashes."
+msgstr "残念だが、君のキャッシュじゃ足りないね。"
+
+# 321:Proxima Island dialogs
+#: 321:56
+msgid "Welcome, dear customer, and thank you for honoring my humble establishment with your presence. Move in front of the item that you desire."
+msgstr "いらっしゃいませお客さん、ご来店いただきま して心より御礼申しあげます。　欲しい商品の 前まで移動し、アクションコマンドを使ってく ださい。"
+
+# 321:Proxima Island dialogs
+#: 321:57
+msgid "Thief! | | Leave my money box alone!"
+msgstr "どろぼう、金庫から手を離しなさい。"
+
+# 321:Proxima Island dialogs
+#: 321:58
+msgid "You're too aggressive! Come back when you've calmed down a bit!"
+msgstr "ずうずうしい奴だ、礼儀を学んでから出直して ほしいな！"
+
+# 321:Proxima Island dialogs
+#: 321:59
+msgid "Where do you want to go?"
+msgstr "どこに行きますか？"
+
+# 321:Proxima Island dialogs
+#: 321:60
+msgid "Citadel Island."
+msgstr "シタデル島へ"
+
+# 321:Proxima Island dialogs
+#: 321:61
+msgid "The White Leaf Desert."
+msgstr "ホワイトリーフ砂漠へ"
+
+# 321:Proxima Island dialogs
+#: 321:62
+msgid "Rebellion Island. "
+msgstr "リベリオン島へ"
+
+# 321:Proxima Island dialogs
+#: 321:63
+msgid "Gas for 10 voyages costs 30 Kashes."
+msgstr "旅行１０回用の燃料は３０キャッシュだよ。"
+
+# 321:Proxima Island dialogs
+#: 321:64
+msgid "15 hearts of life powder will cost you 30 Kashes."
+msgstr "ハート１５個分は、 ちょうど３０キャッシュです。"
+
+# 321:Proxima Island dialogs
+#: 321:65
+msgid "10 flasks of magic powder will cost you 30 Kashes."
+msgstr "フラスコ１０本分のマジックフラスコは、 ちょうど３０キャッシュになります。"
+
+# 321:Proxima Island dialogs
+#: 321:66
+msgid "One meca-pinguin costs 3 Kashes."
+msgstr "メカペンギンは１つ、えっと３キャッシュだ。"
+
+# 321:Proxima Island dialogs
+#: 321:67
+msgid "My brother is in one of the cells that has a window on the street, in FunFrock's headquarters. And you know, if you tell me how he is doing, I'll give you a red card."
+msgstr "俺の弟はファンフロック司令部の窓が道に面し た独房にいるんだ。　そこでだ、弟の様子を見 てきてくれれば、レッドカードをあげよう。"
+
+# 321:Proxima Island dialogs
+#: 321:68
+msgid "I'm not interested."
+msgstr "興味ありません。"
+
+# 321:Proxima Island dialogs
+#: 321:69
+msgid "I don't know where they are."
+msgstr "どこだかわからないなぁ。"
+
+# 321:Proxima Island dialogs
+#: 321:70
+msgid "I don't know what you're talking about."
+msgstr "何のことかわからないな"
+
+# 321:Proxima Island dialogs
+#: 321:71
+msgid "Don't touch the alarm button, the grobo is wiring it as we speak. And in any case, it is forbidden to touch it!"
+msgstr "警報ボタンに触るなよ！ グロボが今配線架設中なんだ。 とにかく、警報ボタンに触るのは禁止なんだ。"
+
+# 321:Proxima Island dialogs
+#: 321:72
+msgid "Then go to the museum. And along those lines, don't touch the alarm button on the wall! "
+msgstr "なら博物館に行けよ。でも行く途中、 壁の警報ボタンに手を触れるなよ！"
+
+# 321:Proxima Island dialogs
+#: 321:73
+msgid "Well you can believe me if you want, but the museum is well protected! I just connected this button to the alarm system: the building is evacuated as soon as it is pressed. | Only one or two automatic guards will remain. It also sets off a series of sensors under the wooden floor that will sound the alarm as soon as they detect even the slightest weight. You would have to be able to fly to move around in there!"
+msgstr "まあ、信じても信じなくても結構だが、博物館 は厳重警備だ。　このボタンを警報システムに 接続したとこだから、ボタンを押すと同時に、 建物が閉鎖するんだ。　中に残るのは機械警備 員、数人だけさ。木の床の下にはセンサーもあ って、これがほんのわずかな重みでも感知する と、すぐに警報が鳴り響くしくみになってるん だ。　中を動き回りたけりゃ飛ぶしかないな！"
+
+# 321:Proxima Island dialogs
+#: 321:74
+msgid "I think you're going to get hit, if you keep playing with that button!"
+msgstr "そのボタンで遊んでいると、誰かにポカンとや られるぞ！"
+
+# 321:Proxima Island dialogs
+#: 321:75
+msgid "I know that they have something about him in the museum. "
+msgstr "博物館に彼に関する物が置いてあるよ。"
+
+# 321:Proxima Island dialogs
+#: 321:76
+msgid "That name sounds familiar. Go visit the Maritime museum, I think that they have two objects that belonged to LeBorgne."
+msgstr "その名前聞いたことあるなぁ。　海事博物館へ 行ってみるといい、あそこには確か、ルボーニ ャの所持品が２点展示されてたよ。"
+
+# 321:Proxima Island dialogs
+#: 321:77
+msgid "Oh yes, it's great!"
+msgstr "ようし、やったぞ！"
+
+# 321:Proxima Island dialogs
+#: 321:78
+msgid "What about my test flights? I'm not paying you to test your shoes!"
+msgstr "テスト飛行はどうしてくれるんだ、 ちゃんとお金払ってやってもらってるんだぞ！"
+
+# 321:Proxima Island dialogs
+#: 321:79
+msgid "I've been working on a Jet-Pack prototype for days now. It's a small reactor that is harnessed on the back and allows its user to fly about. My problem is that my latest flight test wreaked havoc on my Southern wall. So I'd like to borrow the rheostat in your hair dryer to fine tune the power of the motors (from looking at your hairdo, I don't think you really need the dryer, anyway). And if that works, I will have a job offer for you."
+msgstr "俺はもう何日もジェットパックの発明に取り組 んでいるんだ。　背中に固定させると宙を飛び まわることのできる小さな原動装置なんだ。　 この間はテスト飛行でちょっと失敗、南側の塀 をメチャクチャに壊したよ。　だから、モータ ー出力の微調整のために君のドライヤーの加減 抵抗器を俺に貸して欲しいんだ。　君の髪型を 見た限りでは、君にはどっちみちドライヤーな んて必要ないだろう？　で、それがうまくいっ たら、君に仕事をやるからさ。"
+
+# 321:Proxima Island dialogs
+#: 321:80
+msgid "Well, well. It seems that you too have found an authentic secret map of Captain LeBorgne! Do me a favor would you? Give Lanktir, who lives next to the bazaar, back his coffee pot. I'm so ashamed, I should have given it back long ago."
+msgstr "おやおや、君も海賊ルボーニャの秘密の地図の 本物を発見したようだね。俺の頼みを聞いてく れる？　マーケットの隣に住むランクティアに コーヒーポットを返してくれ、恥ずかしい話、 ずっと返すのを忘れていたんだ。"
+
+# 321:Proxima Island dialogs
+#: 321:81
+msgid "Go try at the museum."
+msgstr "博物館に行ってごらん。"
+
+# 321:Proxima Island dialogs
+#: 321:82
+msgid "Hi!"
+msgstr "よう！"
+
+# 321:Proxima Island dialogs
+#: 321:83
+msgid "I'm looking for information about LeBorgne the pirate."
+msgstr "海賊ルボーニャの情報を集めてるんだ。"
+
+# 321:Proxima Island dialogs
+#: 321:84
+msgid "No more gas."
+msgstr "ガス欠だ。"
+
+# 321:Proxima Island dialogs
+#: 321:85
+msgid "I read some of the Captain's log - that LeBorgne was ruthless! If you're still interested, the log is for sale at the Old Burg bazaar, on Principal Island."
+msgstr "航海日誌を少し読んだが、ルボーニャは冷酷な 奴だったんだなぁ。　君もその航海日誌を読み たけりゃ、プリンシパル島のオールドバーグマ ーケットでこの航海日誌は売ってるよ。"
+
+# 321:Proxima Island dialogs
+#: 321:86
+msgid "I don't know where they are."
+msgstr "どこだか知らないねぇ。"
+
+# 321:Proxima Island dialogs
+#: 321:87
+msgid "I don't know anything about it, but it seems to me that there were some books over at the library that spoke of it."
+msgstr "それについちゃ何にも知らないな。　でもむこ うの図書館にそのことが書かれてる本が何冊か 置いてあるんじゃないかな。"
+
+# 321:Proxima Island dialogs
+#: 321:88
+msgid "\" For reasons of security, this sewer grate will open only from inside the Maritime Museum. \""
+msgstr "「安全を守るため、この下水溝の鉄格子は、海 事博物館の内部からしか開かないようになって います。」"
+
+# 321:Proxima Island dialogs
+#: 321:89
+msgid "To the Hamalayi mountains."
+msgstr "ハマライ山へ"
+
+# 321:Proxima Island dialogs
+#: 321:90
+msgid "Apparently, there was a burglary. The visits will recommence later!"
+msgstr "どうも強盗が入ったようです。 後ほど開館いたします。"
+
+# 321:Proxima Island dialogs
+#: 321:91
+msgid "Here, this will help you keep your strength up!"
+msgstr "はいこれ！　これで君の体力が保持できるよ。"
+
+# 321:Proxima Island dialogs
+#: 321:92
+msgid "Apparently, there was a burglary. Alas, the thief escaped!"
+msgstr "どうも強盗が入ったようです。 残念ですが犯人は逃亡しました。"
+
+# 321:Proxima Island dialogs
+#: 321:93
+msgid "Never saw a storm like it, | never!"
+msgstr "そんな嵐に遭ったことないな、一度も。"
+
+# 321:Proxima Island dialogs
+#: 321:94
+msgid "Sorry, but I don't know where they are."
+msgstr "悪いけど、どこだか分からないよ！"
+
+# 321:Proxima Island dialogs
+#: 321:95
+msgid "No more fake red cards, too dangerous, I quit. From now on, I am only going to make fake Captain LeBorgne secret maps."
+msgstr "もうレッドカードは偽造しないよ、危険だから やめた。　これからは、海賊ルボーニャの秘密 の地図を専門に偽造することにしたよ。"
+
+# 321:Proxima Island dialogs
+#: 321:96
+msgid "Ah, it's impossible to open without a red card."
+msgstr "ああ、レッドカードがないと絶対に開かないん だ。"
+
+# 321:Proxima Island dialogs
+#: 321:97
+msgid "To the Eclipse Stone."
+msgstr "エクリプスストーンへ"
+
+# 321:Proxima Island dialogs
+#: 321:98
+msgid "To the Marked Stone."
+msgstr "マークストーンへ"
+
+# 321:Proxima Island dialogs
+#: 321:99
+msgid "To Proxim-City."
+msgstr "プロキシムシティへ"
+
+# 321:Proxima Island dialogs
+#: 321:100
+msgid "So go in front of LeBorgne's chest, which is in the museum, and read the sign!"
+msgstr "だから、ルボーニャの箱の前まで行くんだ。 博物館にあるから、その説明を読むんだ。"
+
+# 321:Proxima Island dialogs
+#: 321:101
+msgid "Good day"
+msgstr "やあ"
+
+# 321:Proxima Island dialogs
+#: 321:102
+msgid "Sorry, I don't know anything about it."
+msgstr "悪いけど、何も知らないよ。"
+
+# 321:Proxima Island dialogs
+#: 321:103
+msgid "Good day. Incredible huh? These objects belonging to LeBorgne that crossed through time; have you read the inscription in front of the chest?"
+msgstr "こんにちは、すごいでしょ。時代を越えて 残ったルボーニャの所持品の数々、 箱の前に書いてある説明を読みましたか？"
+
+# 321:Proxima Island dialogs
+#: 321:104
+msgid "Good day."
+msgstr "どうも"
+
+# 321:Proxima Island dialogs
+#: 321:105
+msgid "Don't know."
+msgstr "知りません。"
+
+# 321:Proxima Island dialogs
+#: 321:106
+msgid "Don't know!"
+msgstr "さあな"
+
+# 321:Proxima Island dialogs
+#: 321:107
+msgid "Good day."
+msgstr "こんにちは"
+
+# 321:Proxima Island dialogs
+#: 321:108
+msgid "So read the inscriptions, there are objects that belonged to LeBorgne here!"
+msgstr "説明を読んで下さい、ここにはルボーニャの所 持していた物があるんです。"
+
+# 321:Proxima Island dialogs
+#: 321:109
+msgid "I cannot help you. "
+msgstr "力になれません。"
+
+# 321:Proxima Island dialogs
+#: 321:110
+msgid "Someone made a mistake in the address and sent me this object by accident: it's a keypad that opens a door at the \"Teleportation Center\". This opens a room full of meca-penguins."
+msgstr "誰かが住所を書き間違えたのか、僕にこんなも のが郵送されてきた。　これはテレポーテーシ ョンセンターのドアを開けるキーパッドだな、 これでメカペンギンの詰まった部屋が開くぞ。"
+
+# 321:Proxima Island dialogs
+#: 321:111
+msgid "If you give me back my coffee maker, I'll give you a list of certain places where you can find a rare plant and some boxes. And don't ask me where I found this list! "
+msgstr "君が僕のコーヒーメーカーを返してくれたら、 そのお礼として、 珍しい植物が生えてる場所とか、 箱の場所が書いてあるリストを君にあげるよ。"
+
+# 321:Proxima Island dialogs
+#: 321:112
+msgid "Good day."
+msgstr "こんにちは"
+
+# 321:Proxima Island dialogs
+#: 321:113
+msgid "I can't help you out."
+msgstr "んー、力になれないよ。"
+
+# 321:Proxima Island dialogs
+#: 321:114
+msgid "\" Jérôme Baldino. Diverse Gadgets & Inventions. \""
+msgstr "「ジェイロム・バルディノ、雑貨発明会社」"
+
+# 321:Proxima Island dialogs
+#: 321:115
+msgid "Try at the museum."
+msgstr "博物館に行ってみな。"
+
+# 321:Proxima Island dialogs
+#: 321:116
+msgid "Leave me alone, I have nothing to say to you."
+msgstr "ほっといてくれよ、 君に言うことなんて何もないんだから。"
+
+# 321:Proxima Island dialogs
+#: 321:117
+msgid "§"
+msgstr "？"
+
+# 323:Rebellion Island dialogs
+#: 323:0
+msgid "Good day."
+msgstr "こんにちは"
+
+# 323:Rebellion Island dialogs
+#: 323:1
+msgid "You must be Twinsen. Like you, we have rebelled against that madman FunFrock - and you saw what's left of the city. | We don't believe that the Northern hemisphere has become uninhabitable like the propaganda says it has. There may even be some survivors living there who refused to be deported. This is why we have decided to take the road leading to the Okojo pass by force. It leads to the Northern hemisphere. Unfortunately, our leader, Colonel Kroptman, was captured during the attack. We believe that he is still being held in the small fort that guards the pass. Help us free him by raiding the fort. You will be able to get to the Northern hemisphere if you do so. Go back to the hangar, there is a commando waiting for you in the boat."
+msgstr "君がトゥインセンだな、君と同様、我々もファ ンフロック政権に抵抗してきた。北半球が居住 不可能になったなんていう政府の発表など、我 々は信じていないんだ。北半球からの立退きを 拒んだ人がまだ生き残っているかもしれない。 それで我々は、力づくでもオコジョ峠へ向かお うと決めたんだ。この峠の向こうは北半球、残 念ながらリーダーだったクロプマン大佐は、 攻撃中に捕まってしまった。大佐はまだ峠を見 張る小さな砦に留置されてるらしい。 砦の襲撃に加わってくれ、君が北半球に渡りた いのなら、これがチャンスだ。港に戻るんだ。 コマンドーが君をボートで待っている。"
+
+# 323:Rebellion Island dialogs
+#: 323:2
+msgid "Go give your boss FunFrock this message for me, traitor! "
+msgstr "帰ってお前のボス、ファンフロックの野郎に こう伝えろ、裏切者め！"
+
+# 323:Rebellion Island dialogs
+#: 323:3
+msgid "Hi! If I take your flag to be representative of your intentions, I see that you too have chosen Liberty. Lieutenant Grap is down in the trench, go see him - he'll tell you where our leaders are."
+msgstr "よう、君の旗が君の目的の象徴だと判断すると 君も自由を選んだ我々の同志だな、グラップ大 尉は塹壕の中だ、彼に会って、味方の幹部の場 所を聞くんだ。"
+
+# 323:Rebellion Island dialogs
+#: 323:4
+msgid "So, young quetch, you've come to help in the fight against FunFrock? As you can see, this city has suffered because of our rebellion. We are constantly bombed, which is why our leaders have set their camp in the center of the island. You can take my buggy to go see them."
+msgstr "じゃあお前さんは、ファンフロック打倒の ため、戦ってくれるんだな、見ての通り我々に 対する襲撃で、町はめちゃめちゃだ。連日の爆 撃を避けるため、我が反乱軍の幹部は島の中央 に基地を設置した。そこのバギーで幹部に会い に行くといい。"
+
+# 323:Rebellion Island dialogs
+#: 323:5
+msgid "\" Welcome to... AAARRGHH ! | |  ... glb \""
+msgstr "「ようこそアーグリップへ」"
+
+# 323:Rebellion Island dialogs
+#: 323:6
+msgid "Where do you want to go?"
+msgstr "どこに行きますか"
+
+# 323:Rebellion Island dialogs
+#: 323:7
+msgid "To Citadel Island."
+msgstr "シタデル島へ"
+
+# 323:Rebellion Island dialogs
+#: 323:8
+msgid "To Principal Island."
+msgstr "プリンシパル島へ"
+
+# 323:Rebellion Island dialogs
+#: 323:9
+msgid "To the White Leaf Desert."
+msgstr "ホワイトリーフ砂漠へ"
+
+# 323:Rebellion Island dialogs
+#: 323:10
+msgid "To Proxima island."
+msgstr "プロキシマ島へ"
+
+# 323:Rebellion Island dialogs
+#: 323:11
+msgid "I'm staying here."
+msgstr "ここに残ります。"
+
+# 323:Rebellion Island dialogs
+#: 323:12
+msgid "Go see Grap first if you want to drive. He's a rabbibunny and he's down in the trench."
+msgstr "運転したいのなら、 まずグラップに会ってこい、 彼はラビバニーで、今塹壕にいる。"
+
+# 323:Rebellion Island dialogs
+#: 323:13
+msgid "Twinsen, you MUST SUCCEED in this mission. That fort is in a strategic position of the utmost importance. Once we've taken it, the two hemispheres can be united once again. "
+msgstr "トゥインセン、このミッションは、絶対成功さ せるんだ。あのとりでは、戦略上極めて重要な 地点に位置している、あそこを占領すれば、 ２つの半球は再び１つのものとなるのだ。"
+
+# 323:Rebellion Island dialogs
+#: 323:14
+msgid "We're going to help you take the fort: you will guide me, and I'll follow you with my grenades! Whatever you do, wait for me before you change zones and don't forget to neutralize the emitter. We won't talk during the combats and if I bite it, another rebel will come and take my place, he'll wait for you at the landing site."
+msgstr "砦占領なら協力するぜ、君のあとを俺がグレ ネードを持ってついてゆく、何をしようと ゾーンを変える時は俺を待ってくれ。エミッ ターは必ず破壊しろ。戦闘中話はしない。 でも俺がやられたら、別の隊員が代わりを 務める。上陸地点で彼と落ち合え。"
+
+# 323:Rebellion Island dialogs
+#: 323:15
+msgid "I'm looking for the plans of the Teleportation Center."
+msgstr "テレポーテーションセンターの設計図を捜して るんです。"
+
+# 323:Rebellion Island dialogs
+#: 323:16
+msgid "You're now one of us, Twinsen."
+msgstr "君はこれで仲間だ、トゥインセン。"
+
+# 323:Rebellion Island dialogs
+#: 323:17
+msgid "Be careful behind the wheel, this isn't a go cart!"
+msgstr "注意して運転しろよ、 ゴーカートじゃないんだぜ！"
+
+# 323:Rebellion Island dialogs
+#: 323:18
+msgid "Calm down! Save your strength for the clones."
+msgstr "落ち着けよ、体力はクローンの破壊に使え。"
+
+# 323:Rebellion Island dialogs
+#: 323:19
+msgid "Hey, you look familiar! I just came back from an infiltration mission in Proxim-City and I saw your mug on quite a few wanted posters."
+msgstr "おい、見た顔だな、プロキシムシティへの潜入 ミッションから戻ったばかりなんだが、お前の 写真入り指名手配ポスターを何度も見たぞ。"
+
+# 323:Rebellion Island dialogs
+#: 323:20
+msgid "I've heard about an underground city that the clones use as a meeting place. It's in the Northern hemisphere, on Tippet island. You should check it out!"
+msgstr "クローンが会議場所として使ってるという地下 の町の話を聞いた事がある。場所は北半球のチ ペット島だ、調べてみるんだな。"
+
+# 323:Rebellion Island dialogs
+#: 323:21
+msgid "Ask Grap. He's in the trench, he'll know where to find them."
+msgstr "グラップ大尉にあたれ、塹壕にいる。 彼なら場所を知っているだろう。"
+
+# 323:Rebellion Island dialogs
+#: 323:22
+msgid "The end is near for FunFrock."
+msgstr "ファンフロックの最後も近いな。"
+
+# 323:Rebellion Island dialogs
+#: 323:23
+msgid "You must wait for your partner when you change zones if you want to make it through this mission."
+msgstr "ゾーンを変えるときパートナーを待つ事が、こ のミッション達成の鍵だ。"
+
+# 323:Rebellion Island dialogs
+#: 323:24
+msgid "Thank you Twinsen, we couldn't have done it without you."
+msgstr "ありがとう、これもすべて君のお蔭だ。"
+
+# 323:Rebellion Island dialogs
+#: 323:25
+msgid "Try over at Funky-Town. You can buy anything over there!"
+msgstr "ファンキータウンに行ってみな、あそこでは、 何でも揃うんだ。"
+
+# 323:Rebellion Island dialogs
+#: 323:26
+msgid "No more gas."
+msgstr "ガス欠だ。"
+
+# 323:Rebellion Island dialogs
+#: 323:27
+msgid "To the Hamalayi mountains."
+msgstr "ハマライ山へ"
+
+# 323:Rebellion Island dialogs
+#: 323:28
+msgid "To the rebel camp."
+msgstr "反乱軍基地へ"
+
+# 323:Rebellion Island dialogs
+#: 323:29
+msgid "To the harbour."
+msgstr "港へ"
+
+# 323:Rebellion Island dialogs
+#: 323:30
+msgid "I haven't seen them. | Sorry!"
+msgstr "みてないな、悪いね。"
+
+# 323:Rebellion Island dialogs
+#: 323:31
+msgid "Good day"
+msgstr "よう"
+
+# 323:Rebellion Island dialogs
+#: 323:32
+msgid "Good day"
+msgstr "おっす"
+
+# 323:Rebellion Island dialogs
+#: 323:33
+msgid "Sorry, I don't know where they are."
+msgstr "悪いけど、どこだか全く知らないね。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:0
+msgid "Good day."
+msgstr "こんにちは"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:1
+msgid "You need me to get into the fort. Wait there!"
+msgstr "俺が砦の中に入ろう、そこで待つんだ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:2
+msgid "Come with me, we'll continue in the tank!"
+msgstr "一緒に来てくれ、戦車で続行だ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:3
+msgid "I'll cover you - go free the Colonel."
+msgstr "俺が援護する、大佐を救出しろ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:4
+msgid "Don't jive me, my predecessor was killed in combat! Well, I guess that's life, huh? Shall we go?"
+msgstr "からかうなよ、俺の先輩が死んだなんて。 まあ、しょうがないか、さあ行こうか。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:5
+msgid "Quick, get me out of here!"
+msgstr "はやく、ここから出してくれ！"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:6
+msgid "Hey quetch, hell of a job. If you'd like to carry on down the corridor and, try to open the hatch at the end of the hall."
+msgstr "おい、クエッチ、見事だぞ。 通路のもっと先まで前進したら、 突き当たりのドアを開けてみろ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:7
+msgid "From this warehouse we send material to the other hemisphere, we use a shuttle that dates back to the old subway lines. I participated in its construction but I've been waiting for a ferry for two years... Two years!!"
+msgstr "この倉庫から北半球へ物資を送っているんだ。 輸送には、昔の地下鉄の列車を使ってる。　 工事に参加したんだけど、もう２年もフェリー を待っているんだ、２年もだ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:8
+msgid "Yes, I know, you also want me to start the transporter. Ok, stand in front of it, I'll start it up."
+msgstr "言わなくたって知ってるよ、僕にトランスポー ターを始動させて欲しいんだろう。　 いいよ、前の方に立って、始動させるから。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:9
+msgid "I don't know what that could be all about."
+msgstr "何のことだか分からないな。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:10
+msgid "I'm with the rebels who are fighting against FunFrock. We are currently trying to cross the Hamalayi mountains. Our leader, Colonel Kroptman, has been taken prisoner. Welcome aboard if you are joining the fight! Go see my friends on Rebellion island. They will let you dock only if you're displaying the proper emblem: a pirate flag with a skull."
+msgstr "ファンフロックと戦う反乱軍の者だ、軍は今、 ハマライ山縦断を実行中、リーダーのクロプマ ン大佐は捕虜となっている。一緒に戦うなら、 ボートに乗り込め。　リベリオン島で仲間と合 流だ。　味方の証拠である海賊のどくろの旗を 見せれば港に入れてくれるだろう。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:11
+msgid "Use the flag: attach it to your boat and you will be able to dock on Rebellion island. You will certainly be able to help us cross the Hamalayi mountains."
+msgstr "旗を利用しろ、ボートに旗をつければ、リベリ オン島の埠頭にボートをつけることができる。 　君なら我軍のハマライ山脈縦断に貢献できる だろう。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:12
+msgid "Hang on! Wait for you partner before trying to change zones. If you are having problems reaching the fort, try neutralizing the radar above the bunkers, in the zone where you landed."
+msgstr "ちょっと待て、ゾーンを変える前に必ずパート ナーを待つんだ。　砦への到着が困難な場合に は、着いたゾーン内のレーダーを完全に破壊し てしまうことだ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:13
+msgid "You're a real hero, Twinsen ! Well uh ... I mean, thanks for freeing Colonel Kroptman."
+msgstr "君は本当のヒーローだ、トゥインセン。あっ、 つまり、大佐を解放してくれてありがとう。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:14
+msgid "Thanks to you, we are now in contact with the Northern hemisphere. And I've received some information about that black-market city, Funky-Town. You will surely find some information over there!"
+msgstr "君のお陰で、北半球と連絡がとれるようになっ た。　ところで、あのやみ市場の町、ファンキ ータウンについての情報をいくつか得たぞ。　 その町に行けば、 何か手がかりが見つかるだろう。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:15
+msgid "Hang in there Twinsen, your quest is almost over."
+msgstr "頑張れよトゥインセン、使命達成の日もすぐそ こだ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:16
+msgid "There are still a few clones left, but with Kroptman at the helm of the tank, we'll take the fort."
+msgstr "まだ、クローンが数人残っている。　でも大佐 が戦車の指揮をとれば、砦はいただきだ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:17
+msgid "Ask the look-out further on down the road, he'll be able to help you."
+msgstr "道の先の見張りに聞くといい、彼なら知ってる はずだ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:18
+msgid "No more gas."
+msgstr "ガス欠だ"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:19
+msgid "Ah! I don't know where those plans are. You can find information about everything in Funky-Town, but this city will soon be destroyed by FunFrock."
+msgstr "設計図の場所は知らないよ。　ファンキータウ ンに行けばどんな情報でも入手できるよ。　で もファンフロックがあの町を破壊するのも時間 の問題だ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:20
+msgid "Hey, get me out of here! Find a key quick!"
+msgstr "ねえ、僕をここから出して！　 キーを見つけて、はやく！"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:21
+msgid "I am Raymond-the-Elf, to show my gratitude, I will indicate the location of the Clear Water Lake to you. It is to the North-West, in the Hamalayi mountains (look on your Holomap). If you play the flute there, you will find an important element of the prophecy. And if you have a membership card you can show me, I've something else for you."
+msgstr "僕は妖精レイモンド、今日のお礼に ”聖なる水”の湖の場所を 君に教えてあげるよ。ハマライ山の北西部にあ るんだ。ホロマップを見て！そこでフルートを 吹けば、予言上重要な物が手に入るよ。　 それからもしメンバーシップカード持ってるの なら、もう１つプレゼントがあるよ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:22
+msgid "I am Raymond-the-Elf, to show my gratitude, I will indicate the location of the Clear Water Lake to you. It is to the North-West, in the Hamalayi mountains (look on your Holomap). If you play the flute there, you will find an important element of the prophecy. And in a grotto near the temple of Bù, you'll find one of my fellow elves, he'll be able to get you a blue card."
+msgstr "僕は妖精レイモンド、今日のお礼に ”聖なる水”の湖の場所を 君に教えてあげるよ。ハマライ山の北西部にあ るんだ。ホロマップを見て！　そこでフルート を吹けば、予言上重要な物が手に入るよ。　 それからビューの寺近辺のほら穴に、僕の仲間 の妖精がいる。ブルーカードは彼がくれるよ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:23
+msgid "Hello fellow elf."
+msgstr "やあ、兄弟。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:24
+msgid "Never seen them, I don't know anything about teleportation."
+msgstr "見たことないよ、テレポーテーションのことは 何も知らないんだ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:25
+msgid "Where do you want to go?"
+msgstr "行き先はどこ？"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:26
+msgid "To Principal island."
+msgstr "プリンシパル島へ"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:27
+msgid "To the White Leaf Desert."
+msgstr "ホワイトリーフ砂漠へ"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:28
+msgid "To Proxima island."
+msgstr "プロキシマ島へ"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:29
+msgid "To Rebellion island."
+msgstr "リベリオン島へ"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:30
+msgid "I'm staying here."
+msgstr "ここに残ります。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:31
+msgid "To Citadel island."
+msgstr "シタデル島へ"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:32
+msgid "I'm looking for the plans for the Teleportation Center."
+msgstr "テレポーテーションセンターの設計図を捜して るんだ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:33
+msgid "Hi, you should go see one of my fellow elves who is in the White Leaf Desert. He can give you a blue card."
+msgstr "やあ、ホワイトリーフ砂漠にいる僕の妖精仲間 に会いにいくといいよ。　ブルーカードをくれ るよ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:34
+msgid "What are you doing there? They're letting anyone in here now! I even captured an elf a little while ago. I don't know what to do with him, officially, that doesn't even exist!"
+msgstr "ここで何してる？　ここは立ち入り禁止なんだ ぞ！　さっきうろついていた妖精も捕まえてや った。　あいつどうしてやろうか、公にはして ないんだがな。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:35
+msgid "Surrender!"
+msgstr "降伏しろ！"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:36
+msgid "Do you prefer to die on an empty stomach, or do you want something special for your last meal?"
+msgstr "空腹のまま死を迎えたいか？　それとも最後の 晩さんがほしいか？"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:37
+msgid "Too bad!"
+msgstr "残念だな"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:38
+msgid "Not hungry!"
+msgstr "何も要らない！"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:39
+msgid "You have not achieved a sufficient level of power to defeat the red clones. We will wait for your return."
+msgstr "赤のクローンを倒すには、君のパワーはまだ不 充分だ。　君の帰りを待っている。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:40
+msgid "Sound the alarm! A prisoner is escaping!"
+msgstr "警報を鳴らせ、囚人が脱走した！"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:41
+msgid "You've just rediscovered all the objects in your inventory!"
+msgstr "インベントリーリストにあったアイテムの全て を手に入れた。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:42
+msgid "I don't know where they are."
+msgstr "どこだか分からないよ。"
+
+# 325:Hamalayi Mountains - Southern Range dialogs
+#: 325:43
+msgid "I'm looking for information about LeBorgne the pirate."
+msgstr "海賊ルボーニャについての 情報を探してるんだ。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:0
+msgid "Good day."
+msgstr "こんにちは"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:1
+msgid "You have no business here, this factory is top secret!"
+msgstr "何でお前がここにいるんだ、ここは極秘の工場 なんだぞ！"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:2
+msgid "Don't touch those buttons!"
+msgstr "それらのボタンに手を触れるな！"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:3
+msgid "Hey, you, don't touch our kitchen!"
+msgstr "おい、君、キッチンに触るなよ！"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:4
+msgid "Noble stranger, we will open the Door of the Sacred Carrot for you if you sabotage the mutant factory, from where the monsters that infest this hemisphere emerge. This door leads to the shore, and from there you can access all of this part of the planet."
+msgstr "勇敢な旅人よ、 北半球にはびこる怪物を製造しているミュータ ント工場を君が壊してくれたら、我々は神聖な るニンジンのドアを開けてさしあげよう。　 このドアは海岸に通じ、そして、北半球各地へ 移動することができる。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:5
+msgid "The passage that I'm opening for you leads to a port, where the old subway that crossed the Hamalayi used to leave from. "
+msgstr "今開いているこのドアの道は、港へ通じていま す。　そこは昔、ハマライを通過した列車の始 発駅でした。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:6
+msgid "Hey, you! Don't touch our k... oh, it's you! | Good work, you have disabled the mutant factory! No more new monsters are being produced. By the way, what is your name, brave stranger?"
+msgstr "おいお前、キッチンを触る．．あっ、なんだ君 か。　ミュータント工場破壊、見事であった。 　これでもう怪物も作れないってことだ。　 ところで、君の名前はなんて言うのかな？"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:7
+msgid "No more gas."
+msgstr "ガス欠だ。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:8
+msgid "Greetings! Our village is harassed by the mutants. But these monsters are not a result of the climate - they are produced in a nearby factory built by FunFrock."
+msgstr "ようこそ、 この村はいつも怪物におそわれます。　でも 怪物は突然変異のものなんかじゃない。近くの ファンフロック工場で、作られているんです。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:9
+msgid "This is not really a good time! "
+msgstr "ちょっと後にしてくれないか！"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:10
+msgid "Thanks for your help. And, whatever you do, destroy the eggs if you are going in the factory! If you don't, new monsters will be produced and will come and attack the village."
+msgstr "ご協力ありがとう。工場に入るんなら、何があ っても卵を全滅させてくれ！さもないと、卵が かえって怪物になり、村を襲いにくるからな。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:11
+msgid "I don't know what that could be all about."
+msgstr "どういうことかさっぱり分からないなぁ。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:12
+msgid "Good day."
+msgstr "よう"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:13
+msgid "New monsters are still coming to the village: the factory has not been completely disabled!"
+msgstr "ふ化した怪物が続々と村にやってくる、工場は まだ完全に破壊されてないんだ。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:14
+msgid "And now, brave stranger Twinsen, follow me to the Door of the Sacred Carrot."
+msgstr "さあそれでは勇敢な旅人トゥインセンよ、聖な るニンジンのドアへご案内しよう。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:15
+msgid "Twinsen"
+msgstr "トゥインセン"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:16
+msgid "Thank you for saving this village, brave stranger Twinsen."
+msgstr "この村を救ってくれてありがとう、英雄トゥイ ンセン。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:17
+msgid "I don't know what that could be all about, brave stranger Twinsen."
+msgstr "どういうことかさっぱり分からんよ、英雄トゥ インセン。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:18
+msgid "It's so much calmer since you've come, do you really have to leave?"
+msgstr "あなたのお陰で村が平和になりました。 どうしても行ってしまうのですか？"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:19
+msgid "I'd like so much to help you, Twinsen."
+msgstr "あなたのお役に立ちたいのです、 トゥインセン。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:20
+msgid "Help!"
+msgstr "うわっあ、助けて！"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:21
+msgid "Whew, safe!"
+msgstr "うおっと、一安心！"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:22
+msgid "Carrot, open up!"
+msgstr "ニンジンよ、そのドアを開け！"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:23
+msgid "I'm looking for the plans for the Teleportation Center."
+msgstr "テレポーテーションセンターの設計図を探して るんだ。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:24
+msgid "Did you know that there is a Clear Water lake very near here. It is located close to the Door of the Sacred Carrot and it has a close connection with a prophecy."
+msgstr "この近くに”聖なる水”の湖があるってこと、 君知ってたかい？　聖なるニンジンのドアの近 くにあるんだけど、その湖、実は予言と深い関 係があるんだよ。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:25
+msgid "You will have to interrogate traffickers, people that are in this hemisphere in any case. "
+msgstr "君が尋問しなくちゃならないのは、 密入者やとにかく、この北半球をうろついてい る奴らだよ。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:26
+msgid "Where do you want to go?"
+msgstr "行き先はどこ？"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:27
+msgid "To Tippett island."
+msgstr "チペット島へ"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:28
+msgid "To Fortress island."
+msgstr "フォートレス島へ"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:29
+msgid "To Brundle island."
+msgstr "ブランドル島へ"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:30
+msgid "I'm staying here."
+msgstr "ここに残るよ。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:31
+msgid "Where do you want do go, Twinsen?"
+msgstr "目的地は？　トゥインセン。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:32
+msgid "Ah, it's impossible to open without a blue card."
+msgstr "ああ、ブルーカードがないとやっぱり開かない よ。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:33
+msgid "To the rabbibunny village."
+msgstr "ラビバニー村へ"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:34
+msgid "To the mutant factory."
+msgstr "ミュータント工場へ"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:35
+msgid "Leave me alone! I've got work to do, and no time to play!"
+msgstr "ほっといてくれよ、仕事が忙しくて遊んでるヒ マなんてないんだ！"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:36
+msgid "Use your red card to use the skilift."
+msgstr "君のレッドカードで、 スキーリフトが使えるよ。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:37
+msgid "Sorry, I don't know where they are."
+msgstr "悪いけど、どこだか分からないよ。"
+
+# 327:Hamalayi Mountains - Northern Range dialogs
+#: 327:38
+msgid "I don't know where they are."
+msgstr "どこだか知らないよ。"
+
+# 329:Tippet Island dialogs
+#: 329:0
+msgid "Good day."
+msgstr "こんにちは"
+
+# 329:Tippet Island dialogs
+#: 329:1
+msgid "Catch anything?"
+msgstr "釣れた？"
+
+# 329:Tippet Island dialogs
+#: 329:2
+msgid "I'm trying to find my bracelet..."
+msgstr "ブレスレットを探してるんだ。"
+
+# 329:Tippet Island dialogs
+#: 329:3
+msgid "Hold on, I've got something!"
+msgstr "ちょっと待って、何かかかったぞ！"
+
+# 329:Tippet Island dialogs
+#: 329:4
+msgid "I know this hemisphere very well, for 10 Kashes I'll tell you what FunFrock is concocting here."
+msgstr "北半球のことならバッチリ知ってる。　１０キ ャッシュくれりゃ、ファンフロックがここで何 作ってるか教えてやるぜ。"
+
+# 329:Tippet Island dialogs
+#: 329:5
+msgid "Our leaders don't know that we come here, it's the only place where we can put these blasted helmets down. I'm here for business only: I can sell you information about anything. See you later..."
+msgstr "リーダーに内緒でここに来てるんだ。　このダ サイヘルメットを脱いでいられるのは、ここだ けなんだよ。　ここには商売にきたんだ、あら ゆる情報を売るのが俺の商売さ。"
+
+# 329:Tippet Island dialogs
+#: 329:6
+msgid "Did you know that there is a means of getting to Fortress island in my basement? I'll let you in there if you improve the quality of the show. The atmosphere is terrible nowadays, the patrons are bummed out."
+msgstr "ここの地下室に、実はフォートレス島へ行くた めの手段があるってご存じかな？　案内してや ってもいいけどここのショーを良くしてくれた らだ。　近頃は店の雰囲気が最悪で、常連客も 暗いんだ。"
+
+# 329:Tippet Island dialogs
+#: 329:7
+msgid "That's much better, go on it! But be careful - there are still a few giant crabs. Thanks again!"
+msgstr "よーしいいぞ。ノッてきたぜ。 そうだ、気を付けろよ、まだ巨大なカニが数匹 残ってるぞ、ありがとよ。"
+
+# 329:Tippet Island dialogs
+#: 329:8
+msgid "With an atmosphere like this, I'm gonna be rich!"
+msgstr "このショーを続けていけば、 ボロもうけは確実だ。"
+
+# 329:Tippet Island dialogs
+#: 329:9
+msgid "Our group is sort of lacking: we don't have half the material we need, and we're eight hit songs short of an album. I'm begging you: find a guitar for me!"
+msgstr "俺のバンドはすさんじゃってるんだ。　必要な 道具は半分しかそろってないし、あと８曲ヒッ トしないとアルバムは作れない、お願いだ、俺 にギターを探してくれないか！"
+
+# 329:Tippet Island dialogs
+#: 329:10
+msgid "I must be hallucinating, look, he found the Space Guitar!"
+msgstr "わーお、夢見てるんじゃないかな、 見てくれよ、スペースギターをもらったんだ。"
+
+# 329:Tippet Island dialogs
+#: 329:11
+msgid "I think we've got a hit here, thanks pal!"
+msgstr "よーし、いい調子だ、これはヒット間違いなし だ、感謝するぜ。"
+
+# 329:Tippet Island dialogs
+#: 329:12
+msgid "No more gas."
+msgstr "ガス欠だ。"
+
+# 329:Tippet Island dialogs
+#: 329:13
+msgid "\" L.B.A. | Funky-Town sewer service \""
+msgstr "「Ｌ．Ｂ．Ａ　ファンキータウン下水工事」"
+
+# 329:Tippet Island dialogs
+#: 329:14
+msgid "\" L.B.A. | Funky-Town sewer service | Swindler street \""
+msgstr "「Ｌ．Ｂ．Ａ　ファンキータウン下水工事、ス ウィンドラー通り」"
+
+# 329:Tippet Island dialogs
+#: 329:15
+msgid "\" L.B.A. | Funky-Town sewer service | Dino-Fly street \""
+msgstr "「Ｌ．Ｂ．Ａ　ファンキータウン下水工事、ダ イノフライ通り」"
+
+# 329:Tippet Island dialogs
+#: 329:16
+msgid "Good day. Let's see, you can talk to me and you're wearing the Medallion of Sendell: you must be the Heir! I've been waiting for you for centuries and I've got a backache so we'll go carefully. The Hamalayi mountains are too high for me but I can lead you through this entire hemisphere, except for Polar island: it is too well guarded by FunFrock. Where do you want to go?"
+msgstr "そうだな、わしと話しができて、センデルのメ ダルを身につけてるところを見ると、君は予言 の世継ぎだな、もう何百年も君を待っていたか ら、腰が痛くなってしまった。 だからゆっくり行くとするか。　 　ハマライ山は高すぎるから無理だが、北半球 ならどこへでも案内してあげよう。 北極島以外はな。　ファンフロックの警備が厳 しいんだ。　どこへ行きたいんだ？"
+
+# 329:Tippet Island dialogs
+#: 329:17
+msgid "Where do you want to go Twinsen?"
+msgstr "どこに行きたいんだ、トゥインセン？"
+
+# 329:Tippet Island dialogs
+#: 329:18
+msgid "I don't know where they are."
+msgstr "どこだか分からんぞ。"
+
+# 329:Tippet Island dialogs
+#: 329:19
+msgid "Where do you want to go?"
+msgstr "どこに行きたいんだ？"
+
+# 329:Tippet Island dialogs
+#: 329:20
+msgid "To Brundle island."
+msgstr "ブランドル島へ"
+
+# 329:Tippet Island dialogs
+#: 329:21
+msgid "To Fortress island."
+msgstr "フォートレス島へ"
+
+# 329:Tippet Island dialogs
+#: 329:22
+msgid "To the Hamalayi mountains."
+msgstr "ハマライ山へ"
+
+# 329:Tippet Island dialogs
+#: 329:23
+msgid "I'm staying here."
+msgstr "ここに残るよ"
+
+# 329:Tippet Island dialogs
+#: 329:24
+msgid "Ask one of the helmet-less groboclones, they come here to traffic and listen to music."
+msgstr "ヘルメットを脱いだグロボクローンに聞いてみ な、奴らの目的は商売と音楽鑑賞なんだ。"
+
+# 329:Tippet Island dialogs
+#: 329:25
+msgid "I'm non-violent."
+msgstr "非暴力主義なんだ。"
+
+# 329:Tippet Island dialogs
+#: 329:26
+msgid "Ha ha, I was the watchman on the construction site of the Teleportation Center. So for 50 Kashes I can tell you EXACTLY where those plans are."
+msgstr "ははは、俺はテレポーテーションセンターの工 事現場で、監視員をやっていたんだ。　だから ５０キャッシュくれれば、俺が設計図のありか を詳しく教えてやるぜ。"
+
+# 329:Tippet Island dialogs
+#: 329:27
+msgid "Thief, that's too expensive!"
+msgstr "バカ言え、そりゃ高すぎるよ！"
+
+# 329:Tippet Island dialogs
+#: 329:28
+msgid "Sold!"
+msgstr "決まり！"
+
+# 329:Tippet Island dialogs
+#: 329:29
+msgid "You don't have enough Kashes, my poor little quetch."
+msgstr "君のキャッシュじゃ足りないな、かわいそうな クエッチ坊や。"
+
+# 329:Tippet Island dialogs
+#: 329:30
+msgid "The plans for this center are in FunFrock's personal safe. In his headquarters on Principal island. But to get in you must be able to defeat the Supergros (the nurses equipped with tablet launchers!)."
+msgstr "そのセンターの設計図は、ファンフロックの私 用金庫の中にある。金庫はプリンシパル島の司 令部内だ。　しかし鉄砲を持った看護士のスー パーグローを倒さないと、ファンフロックの司 令部に入ることはできない。"
+
+# 329:Tippet Island dialogs
+#: 329:31
+msgid "Hi, nice weather huh?"
+msgstr "やあ、いい天気だな。"
+
+# 329:Tippet Island dialogs
+#: 329:32
+msgid "I refuse to fight when I'm not on duty."
+msgstr "勤務時間以外に戦うつもりはないな。"
+
+# 329:Tippet Island dialogs
+#: 329:33
+msgid "So, which one of FunFrock's factories do you want information about?"
+msgstr "それで、ファンフロックのどの工場に関する情 報を君は欲しいのかね？"
+
+# 329:Tippet Island dialogs
+#: 329:34
+msgid "I don't givre credit, come back when you're richer!"
+msgstr "えっ、つけは受けつけないよ、現金持って出直 して来いよ。"
+
+# 329:Tippet Island dialogs
+#: 329:35
+msgid "The mutant factory."
+msgstr "ミュータント工場"
+
+# 329:Tippet Island dialogs
+#: 329:36
+msgid "FunFrock cleared out the populations from this hemisphere but there are still a few people that resist like here in Funky-Town. He produces mutant insects in his factory at the foot of the Hamalayi mountains to exterminate us. The factory was supposedly sabotaged, but there are still monsters in the sewers: they were produced before the sabotage. In fact, you can jump on the giant crabs!"
+msgstr "ファンフロックは、この北半球から人間を立ち のかせたが、ここファンキータウンには今も反 対派が残り、奴の権力に抵抗している。 奴はハマライ山のふもとの工場で、昆虫ミュー タントを作っている、我々を滅ぼすためだ。　 ミュータント工場は確かに破壊されたはずだ。 しかし下水道にはまだ怪物がうじゃうじゃして いる。工場倒壊の前に作られた奴らだ、奴らに あったら、その背中に飛び乗るといいぜ。"
+
+# 329:Tippet Island dialogs
+#: 329:37
+msgid "The Teleportation Center."
+msgstr "テレポーテーションセンター"
+
+# 329:Tippet Island dialogs
+#: 329:38
+msgid "It is located on Brundle island, from there FunFrock's cohorts control all the planet's teleportations! The entrance is guarded but they will let you in if you act like one of them."
+msgstr "そのセンターはブランドル島にあるんだ。　　 センターでは、ファンフロックの部下が世界中 のテレポーテーションを管理している。入口に は警備員がいるが、仲間を装ってゆけば、中に 通してもらえるぞ。"
+
+# 329:Tippet Island dialogs
+#: 329:39
+msgid "The Cloning center."
+msgstr "クローニングセンター"
+
+# 329:Tippet Island dialogs
+#: 329:40
+msgid "The center where all the planet's clones are produced is inside FunFrock's Fortress. It's his headquarters when he is in this hemisphere. Be careful because I heard that he is working on some VERY special clones, it's on Fortress island."
+msgstr "世界中のクローンが生産されるクローニングセ ンターは、暴君ファンフロックの要塞の中にあ る。このクローニングセンターが、奴の北半球 での本部だ。慎重にいけ、奴は特別強力なクロ ーンの製造に取り掛かっているという噂だ、場 所はフォートレス島だ。"
+
+# 329:Tippet Island dialogs
+#: 329:41
+msgid "See you later."
+msgstr "またあとで"
+
+# 329:Tippet Island dialogs
+#: 329:42
+msgid "That type of information is too specific, ask one of the helmet-less groboclones that are here instead."
+msgstr "そんな細かい情報は待ち合わせていない。そう いうことはこっちのヘルメットを取ったグロボ クローンに聞くんだな。"
+
+# 329:Tippet Island dialogs
+#: 329:43
+msgid "Your hydroglider is great! But you won't make it to Fortress island or to Polar island with it. They are isolated by the currents, no ship can find them. You need a Dino-Fly to go there."
+msgstr "おいおい、君のハイドログライダー、 そんなんじゃフォートレス島やポーラ島には行 けないぜ。あのな、気流の関係で無理なんだ。 船だってダメだな、ダイノフライならひとっ飛 びだぜ。"
+
+# 329:Tippet Island dialogs
+#: 329:44
+msgid "Ask the rabbibunny with the sunglasses, he's an informer."
+msgstr "おい君、サングラスのラビバニーに聞けよ、情 報屋だけどいい奴だぜ。"
+
+# 329:Tippet Island dialogs
+#: 329:45
+msgid "Good day"
+msgstr "ノッてるかい"
+
+# 329:Tippet Island dialogs
+#: 329:46
+msgid "I'm looking for the plans for the Teleportation Center."
+msgstr "テレポーテーションセンターの設計図を探して るんだ。"
+
+# 329:Tippet Island dialogs
+#: 329:47
+msgid "Calm down, I'll only let you in if the audience likes the group. Work it out with the guitarist!"
+msgstr "落ち着け、客がバンドを気に入ったら、地下室 に君を案内してやるよ。 ギタリストと交渉しな！"
+
+# 329:Tippet Island dialogs
+#: 329:48
+msgid "Ask the rabbibunny with the sunglasses who is at the entrance to Funky-Town, he's an informer."
+msgstr "サングラスのラビバニーに聞いてみな、ファン キータウンの入口にいるから、彼は情報屋だ。"
+
+# 329:Tippet Island dialogs
+#: 329:49
+msgid "Those guys on stage are fabulous! | But it's too bad that they don't play anything."
+msgstr "ステージのバンドはすごいの一言だぜ！　何も 演奏してないのは残念だけどな。"
+
+# 329:Tippet Island dialogs
+#: 329:50
+msgid "Wow! Never heard anything like that before, they are too much!"
+msgstr "わーお！　こんなサウンドを聴くのは生まれて 初めてだぜ、まったく、ぶっ飛びもんだな！"
+
+# 329:Tippet Island dialogs
+#: 329:51
+msgid "Be quiet, you'd do yourself a favor if you listen to that, it's fabulous!"
+msgstr "静かにしろよ、だまって聴いてみりゃ良さが分 かるってもんよ、とにかくすごいんだから！"
+
+# 329:Tippet Island dialogs
+#: 329:52
+msgid "I don't know what it is."
+msgstr "は？　何だが分からないな。"
+
+# 329:Tippet Island dialogs
+#: 329:53
+msgid "You don't have enough Kashes."
+msgstr "君のキャッシュじゃ足りないな。"
+
+# 329:Tippet Island dialogs
+#: 329:54
+msgid "Good day, if you like an item, move in front of it."
+msgstr "いらっしゃい、欲しい商品があれば、その前に 立ってアクションコマンドを使うんだよ。"
+
+# 329:Tippet Island dialogs
+#: 329:55
+msgid "Thief!"
+msgstr "どろぼう！"
+
+# 329:Tippet Island dialogs
+#: 329:56
+msgid "Ouch!"
+msgstr "いってぇ！"
+
+# 329:Tippet Island dialogs
+#: 329:57
+msgid "Gas for 10 voyages costs 40 Kashes."
+msgstr "旅行１０回分の燃料は４０キャッシュだよ。"
+
+# 329:Tippet Island dialogs
+#: 329:58
+msgid "15 hearts of life powder costs 20 Kashes."
+msgstr "ハート１５個は、２０キャッシュだよ。"
+
+# 329:Tippet Island dialogs
+#: 329:59
+msgid "10 flasks of magic powder costs 20 Kashes."
+msgstr "マジックフラスコは、１０本で２０キャッシュ だよ。"
+
+# 329:Tippet Island dialogs
+#: 329:60
+msgid "One meca-penguin costs 3 Kashes."
+msgstr "メカペンギンは１個３キャッシュだよ。"
+
+# 329:Tippet Island dialogs
+#: 329:61
+msgid "I don't know where they are."
+msgstr "どこだか知らないねぇ。"
+
+# 329:Tippet Island dialogs
+#: 329:62
+msgid "Your Kashes!"
+msgstr "キャッシュを出せ！"
+
+# 329:Tippet Island dialogs
+#: 329:63
+msgid "Or your life!"
+msgstr "でなきゃ命だ！"
+
+# 329:Tippet Island dialogs
+#: 329:64
+msgid "Mercy!"
+msgstr "許して！"
+
+# 329:Tippet Island dialogs
+#: 329:65
+msgid "Mama!"
+msgstr "ママー！"
+
+# 331:Brundle Island dialogs
+#: 331:0
+msgid "Let me see some identification please!"
+msgstr "身分証明書を見せてくださいな。"
+
+# 331:Brundle Island dialogs
+#: 331:1
+msgid "It's weird this sign that appears, I paint over it regularly but it comes back every time."
+msgstr "この紋章はまったくおかしいな、 定期的に塗り潰しても元に戻ってしまう、 いつも必ずだ。"
+
+# 331:Brundle Island dialogs
+#: 331:2
+msgid "Good day."
+msgstr "こんにちは"
+
+# 331:Brundle Island dialogs
+#: 331:3
+msgid "Where do you want to go?"
+msgstr "どこに行きたいんだい？"
+
+# 331:Brundle Island dialogs
+#: 331:4
+msgid "To Tippett island."
+msgstr "チペット島へ"
+
+# 331:Brundle Island dialogs
+#: 331:5
+msgid "To Fortress island."
+msgstr "フォートレス島へ"
+
+# 331:Brundle Island dialogs
+#: 331:6
+msgid "To the Hamalayi mountains."
+msgstr "ハマライ山へ"
+
+# 331:Brundle Island dialogs
+#: 331:7
+msgid "I'm staying here."
+msgstr "ここに残るよ。"
+
+# 331:Brundle Island dialogs
+#: 331:8
+msgid "\" The telepod's activating pedals are fragile. Stop jumping on them! \""
+msgstr "テレポッドのスイッチはもろい。 乗って暴れたりするな！"
+
+# 331:Brundle Island dialogs
+#: 331:9
+msgid "No more gas"
+msgstr "ガス欠だ！"
+
+# 331:Brundle Island dialogs
+#: 331:10
+msgid "Where do you want to go Twinsen ?"
+msgstr "どこに行きたいのトゥインセン？"
+
+# 331:Brundle Island dialogs
+#: 331:11
+msgid "\" Welcome to Brundle island. \""
+msgstr "「ブランドル島へようこそ」"
+
+# 331:Brundle Island dialogs
+#: 331:12
+msgid "Alert!"
+msgstr "警報！"
+
+# 331:Brundle Island dialogs
+#: 331:13
+msgid "Go ahead!"
+msgstr "さあどうぞ！"
+
+# 331:Brundle Island dialogs
+#: 331:14
+msgid "Clever, now there is no longer a sign on the wall."
+msgstr "うわー　さすが、 これでもう紋章が壁から消えた。"
+
+# 331:Brundle Island dialogs
+#: 331:15
+msgid "Get out of here without breaking anything and we'll take it into consideration!"
+msgstr "何も壊さずにここから出ていけば、 少し刑を軽くしてやるぜ！"
+
+# 331:Brundle Island dialogs
+#: 331:16
+msgid "I'm looking for the plans of the Teleportation Center."
+msgstr "テレポーテーションセンターの設計図を探して るんだ。"
+
+# 331:Brundle Island dialogs
+#: 331:17
+msgid "I don't know where they are. "
+msgstr "どこだか、知らないなぁ。"
+
+# 333:Fortress Island dialogs
+#: 333:0
+msgid "I have you at last! I see that you appreciated the clone that I made of your friend, the original is safe. | I suppose that you have come here to find the 3rd Runic Stone. I already found it a long time ago, but it took some time to decipher it. And as soon as I knew the location of the Well of Sendell, I began the foraging work. |"
+msgstr "ついに捕まえたぞ、私が作った貴様の恋人のク ローン、気に入ったようだな、恋人本人は無事 だぞ。貴様、第３のルーニックストーンを探し にここに来たんだろう。私がとっくに見つけた よ、いささか解読に時間がかかったがね、 センデルの泉のある場所もすでに捜索を始めた ところだ。"
+
+# 333:Fortress Island dialogs
+#: 333:1
+msgid "Not being able to destroy the stone, I built my fortress around it to dissimulate it. That reminds me, you supposedly destroyed two of my factories, but that is of little importance! I will soon possess such fantastic powers, that I will need but an instant to clone or teleport the totality of the inhabitants of the planet. I also can make you relive the worst moments of your existence indefinitely... | Good bye, you will never realize the prophecy because I will be the one who encounters Sendell and I will inherit her powers."
+msgstr "ストーンはどうしても破壊できなかったので、 辺りに要塞を作り隠したのだ。そう言えば、 貴様、よくも私の工場を２つ壊してくれたな、 まあそんなことはもはやどうでもいいがな。 私はもうじきすさまじい力を手にする、これで この惑星の全種族のクローン化やテレポートが 一瞬にして可能なのだ。貴様には人生で最も辛 い経験をさせることもできる、永久にな．．． ごきげんよう。 貴様に予言を成就することなど出来ない。 センデルに会うのはこの私だからだ。 その力は私のものだ！"
+
+# 333:Fortress Island dialogs
+#: 333:2
+msgid "\" I am the stone of the Septentrion. The Well of Sendell is located at the summit of the rocky peak that is at the center of Polar island. Only the Heir can break the seal that bars the entrance. \""
+msgstr "「僕はセプテントリオンストーン。センデルの 泉は、北極島の中央部に高くそびえる巨大な岩 石の頂上に位置している。世継ぎだけが、 入口の封印をやぶることができる。」"
+
+# 333:Fortress Island dialogs
+#: 333:3
+msgid "Help Twinsen ! They found the Runic Stone and I ..."
+msgstr "助けて、トゥインセン！　彼らがルーニックス トーンを見つけ、あーー。"
+
+# 333:Fortress Island dialogs
+#: 333:4
+msgid "Ah, there you are at last my love!"
+msgstr "あー、どんなにあなたに会いたかったか。"
+
+# 333:Fortress Island dialogs
+#: 333:5
+msgid "I don't know where they are, but hurry up because FunFrock is going..."
+msgstr "どこだか分からないけど、急いで、ファンフロ ックが来ちゃう．．。"
+
+# 333:Fortress Island dialogs
+#: 333:6
+msgid "Don't know who rigged the telepods, I just succeeded in picking the lock of my cell, and I ended up here!"
+msgstr "テレポッドをいじったのが誰だかわからないけ ど、僕が独房をこじ開けた瞬間、気が付いたら ここにいたんだ。"
+
+# 333:Fortress Island dialogs
+#: 333:7
+msgid "Their teleportation thingamajig is all smashed up. I was walking, minding my own business, in the Hamalayi mountains, and suddenly I end up here!"
+msgstr "テレポーテーションの何とかかんとかが、故障 してるみたい。僕は１人でハマライ山をぶらぶ らしてたんだけど、いつの間にやらこっちに飛 んでたんだ。"
+
+# 333:Fortress Island dialogs
+#: 333:8
+msgid "Hi"
+msgstr "どうも"
+
+# 333:Fortress Island dialogs
+#: 333:9
+msgid "Stop fidgeting prisoner Twinsen!"
+msgstr "くねくねするな、囚人トゥインセン！"
+
+# 333:Fortress Island dialogs
+#: 333:10
+msgid "A prisoner is escaping! | Sound the alarm!"
+msgstr "囚人が脱走した、警報を鳴らせ！"
+
+# 333:Fortress Island dialogs
+#: 333:11
+msgid "You've just rediscovered all the objects in your inventory!"
+msgstr "インベントリーリストにあったアイテムの全て を手に入れた。"
+
+# 333:Fortress Island dialogs
+#: 333:12
+msgid "Good day."
+msgstr "元気か？"
+
+# 333:Fortress Island dialogs
+#: 333:13
+msgid "\" Dr FunFrock's secret Fortress. You shouldn't even be reading that! \""
+msgstr "「ファンフロック博士の秘密要塞、これを読む ことすら許さん！」"
+
+# 333:Fortress Island dialogs
+#: 333:14
+msgid "Hmmm, what if I tried to attract a guard's attention?"
+msgstr "そうだなぁ、看守の気を引いてみたらどうなる かなぁ？"
+
+# 333:Fortress Island dialogs
+#: 333:15
+msgid "You are being held here because you are a troublemaker. We know from an informant that you claim to have prophetic dreams. | Calm down, we're going to dissect... uh, I mean take care of you!"
+msgstr "お前は問題を起こすからここにいるんだ。 お前が妙な夢を見ることは情報屋から聞いて知 ってる、落ち着けって、これから解剖．．． いや、面倒見てやるからさ！"
+
+# 333:Fortress Island dialogs
+#: 333:16
+msgid "Uh ... Hi!"
+msgstr "えっと、やあ！"
+
+# 333:Fortress Island dialogs
+#: 333:17
+msgid "\" Training pool. Do not throw anything to the shark! \""
+msgstr "「トレーニングプール、サメに餌を与えるな、 サメ！」"
+
+# 333:Fortress Island dialogs
+#: 333:18
+msgid "\" Draining valve. DO NOT TOUCH! \""
+msgstr "「排水バルブ、手を触れるな！」"
+
+# 333:Fortress Island dialogs
+#: 333:19
+msgid "To Tippett island."
+msgstr "チペット島へ"
+
+# 333:Fortress Island dialogs
+#: 333:20
+msgid "To Brundle island."
+msgstr "ブランドル島へ"
+
+# 333:Fortress Island dialogs
+#: 333:21
+msgid "To the Hamalayi mountains."
+msgstr "ハマライ山へ"
+
+# 333:Fortress Island dialogs
+#: 333:22
+msgid "I'm staying here."
+msgstr "ここに残るよ"
+
+# 333:Fortress Island dialogs
+#: 333:23
+msgid "Where do you want to go Twinsen ? "
+msgstr "どこに行きたいんだって、トゥインセン？"
+
+# 333:Fortress Island dialogs
+#: 333:24
+msgid "I know that symbol on your medallion. Virgul, our sorcerer, told us about your coming, and we have often prayed in front of the Runic Stone, which carries the same symbol. Unfortunately, Dr. FunFrock found it and built his fortress right over it, although the Rock was supposed to be indestructible! I would dig a tunnel for you so that you could enter the building, but you must first sabotage the Teleportation Center. Go find the plans of this center, I can dig only after all the telepods have been neutralized!"
+msgstr "僕は君のメダルのシンボルを知ってるよ、魔術 師のバーガルが君が来ると言ってたから、それ に、同じシンボルを持つルーニックストーンの 前で、いつも礼拝していた。　残念なことに、 ファンフロック博士がストーンを見つけ、その 辺りに要塞を築いてしまった。　なぜならその ストーンを破壊するのはどうしても不可能だっ たからだ。　君が要塞に入れるように、トンネ ルを掘ってあげるよ。　でもその前に、テレポ ーテーションセンターを破壊してきてくれ。 まずセンターの設計図を探すんだな、全テレポ ッドを破壊しなければ、トンネルを掘ることは できないな。"
+
+# 333:Fortress Island dialogs
+#: 333:25
+msgid "I don't know where they are, but with these plans you must enter the Center on Brundle island and then sabotage it. Then I can dig under the Fortress!"
+msgstr "どこだか知らないけど、この設計図を使ってブ ランドル島にあるセンターに入り込んで、メチ ャクチャに破壊するんだ、 そうしたら僕が掘り始めるから。"
+
+# 333:Fortress Island dialogs
+#: 333:26
+msgid "Go to Brundle island, get in the Center and neutralize the telepods control system."
+msgstr "まずブランドル島へ言って、センターに侵入し テレポッド管理システムを壊してくれ。"
+
+# 333:Fortress Island dialogs
+#: 333:27
+msgid "Good going, the telepods are no longer working, follow me!"
+msgstr "よくやった、 テレポッドはもはや動いてないな ついてきて！"
+
+# 333:Fortress Island dialogs
+#: 333:28
+msgid "You're the one that's making life difficult for FunFrock? He recently threw a tantrum that could be heard from here. Since then, he brought in several telepods, he's worried about his fortress."
+msgstr "ファンフロックが頭を抱えているのは君のせい だったのか。　最近奴はかんしゃく起こして、 ここまで声が聞こえたよ。　その日以来、テレ ポッドを何台か入れたんだ、へっ要塞が心配な んだろう。"
+
+# 333:Fortress Island dialogs
+#: 333:29
+msgid "You have once again angered FunFrock, he screamed a little while ago! What did you break this time, you know that he hates you?"
+msgstr "き、君、またファンフロックを怒らせたな、さ っき叫んでいたぞ。　今回は何を壊したんだ？ にくまれてるのは知ってるだろ？"
+
+# 333:Fortress Island dialogs
+#: 333:30
+msgid "I don't know where they are, ask your flying animal over there. In fact, can you eat that animal?"
+msgstr "どこにあるか知らないね。 あっちの飛ぶ動物に聞いてみな、ところで、あ の動物食べられるの？"
+
+# 333:Fortress Island dialogs
+#: 333:31
+msgid "We no longer fear the threat of the teleportations, but you must get rid of the guards and the assault tank for us. I will then be able to dig."
+msgstr "これでテレポーテーションに怯える必要もなく なった。　しかし、まだ警備の兵士と奇襲戦車 を一掃しなくてはならない、それが済んだら掘 り始めてやろう。"
+
+# 333:Fortress Island dialogs
+#: 333:32
+msgid "Good luck!"
+msgstr "がんばれよ！"
+
+# 333:Fortress Island dialogs
+#: 333:33
+msgid "Get out!"
+msgstr "出ていけ！"
+
+# 333:Fortress Island dialogs
+#: 333:34
+msgid "I'm looking for the plans of the Teleportation Center."
+msgstr "テレポーテーションセンターの設計図を探して るんだ。"
+
+# 333:Fortress Island dialogs
+#: 333:35
+msgid "I don't know where they are. "
+msgstr "さあ、分からないな。"
+
+# 335:Polar Island dialogs
+#: 335:0
+msgid "Twinsen help! I'm not a clone, it's me, the real Zoé."
+msgstr "トゥインセン、助けて！ クローンじゃないわ、私、本物のゾーイよ。"
+
+# 335:Polar Island dialogs
+#: 335:1
+msgid "You must break the seal so that I can enter the Well of Sendell. None of my machines could drill through this rock, it resists me, just like the Runic Stone. I began digging around the rocky peak, but it will take months for me to reach the center of the planet! You'll see, I will realize the prophecy myself, and I'll take good care of this planet. Break the seal and I'll spare you Twinsen, you and your friend."
+msgstr "封印をやぶるのだ、センデルの泉に入れるよう に、何をやってもこの岩はびくともしない、私 を拒んでいる、ルーニックストーンもそうだっ た。　岩山の辺りから掘り始めたが星の中心に 達するのはいつになることやら。　いいか、予 言を成就するのはこの私だ。　そしてこの惑星 は私が支配するのだ、封印を破れば、お前の命 は助けよう、恋人の命もだ。"
+
+# 335:Polar Island dialogs
+#: 335:2
+msgid "I will at last see Sendell's face. If everything goes as planned, I'll make you my jester when I come back. Ha, ha, ha!"
+msgstr "とうとうセンデルの顔が見られるのだ。 すべてが計画通りにいけば、戻った時に私の奴 隷にしてやろう、ハハハ！"
+
+# 335:Polar Island dialogs
+#: 335:3
+msgid "Before you destroy the cloning factory, I prepared THIS for you!"
+msgstr "お前がクローニング工場を壊す前にお前にこれ を作ってやったぞ。"
+
+# 335:Polar Island dialogs
+#: 335:4
+msgid "At last, you took your time, my love. I'm not escorted by two groboclones, but I promise that it's really me. Go find Sendell and then we'll go home."
+msgstr "トゥインセン、やっと助けに来てくれたのね、 グロボクローンには連れられていないけど 私、本物のゾーイよ、センデルを見つけたら家 に帰りましょ。"
+
+# 335:Polar Island dialogs
+#: 335:5
+msgid "Good day. "
+msgstr "こんにちは"
+
+# 335:Polar Island dialogs
+#: 335:6
+msgid "I am Sendell, like all of those you see here, we are all Sendells. We are here to watch over a stellar entity that is in gestation, it will come into existence in a few centuries. As we can only act from the heart of the planet, we implanted a lineage of elected creatures among the species living on the surface. You are the current descendant of this family, and when FunFrock's threat had become too great, it was me that called to you in your dreams. The entity can now finish its gestation because you rid us of FunFrock. It would have died if he had gotten to it, and this world would have imploded, thanks to you it will continue to flourish. Return now to the surface, you can now erase the final traces that he left there."
+msgstr "私はセンデル、そしてごらんになる全ての人々 も、皆センデルです。　私達の使命は宇宙生命 体の形成を見守ること、それはあと数百年後に 完成するはずです。　私は惑星の中心部から動 けないので、地表に暮らす民の中に、選ばれし 一族の種を植えつけたのです。　 あなたは、その子孫、ファンフロックの力が耐 えがたくなったあの日、あなたの夢枕にたった のは私です。あなたがファンフロックを倒して くれたので、生命体の形成は続きます。　 彼が勝利を手にしていたら、この星は爆発して いたでしょう、さあ地表に戻りなさい。 ファンフロックの残した暴虐国家を 正してくるのです。"
+
+# 335:Polar Island dialogs
+#: 335:7
+msgid "Twinsen, NO! We are finished, don't let him reach us!"
+msgstr "トゥインセン、いけない、彼を止めて！ この星が滅びてしまう！"
+
+# 335:Polar Island dialogs
+#: 335:8
+msgid "Uh ... you might be surprised when you discover the house."
+msgstr "あっと．．．、家を見たら驚くかもね。"
+
+# 335:Polar Island dialogs
+#: 335:9
+msgid "What are you doing there? The route that connects the 2 islands is classified top secret."
+msgstr "そこで何してるんだ、２つの島を結ぶ道は、 極秘扱いだったはずだぞ！？"
+
+# 335:Polar Island dialogs
+#: 335:10
+msgid "Can't start this machine without an ignition key!"
+msgstr "始動キーがないとこの機械は動かないよ！"
+
+# 335:Polar Island dialogs
+#: 335:11
+msgid "Here, little guy, take the ignition key and bring the bulldozer back for me - I'll appreciate it. I don't have time to do it myself."
+msgstr "はい、これだ。 この始動キーを持ってってブルドーザーをここ に持ってきてくれ、感謝するよ、自分でやって いる時間がないんだ。"
+
+# 335:Polar Island dialogs
+#: 335:12
+msgid "This work is not moving along fast!"
+msgstr "なかなか仕事がはかどらないなぁ。"
