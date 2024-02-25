@@ -28,21 +28,31 @@ export async function loadTextData(game, hqr: HQR, language) {
         end = data.getUint16(idx * 2 + 2, true);
         const type = game === 'lba2' ? data.getUint8(start++) : undefined;
         let quote = '';
-        if (language.data.code === 'JPN') {
-            const bytes = [];
-            for (let i = start; i < end - 1; i += 1) {
-                bytes.push(data.getInt8(i));
+        try {
+            if (language.data.code === 'JPN') {
+                const bytes = [];
+                for (let i = start; i < end - 1; i += 1) {
+                    bytes.push(data.getInt8(i));
+                }
+                // SJIS charmap reference: http://www.rikai.com/library/kanjitables/kanji_codes.sjis.shtml
+                quote = jconv.convert(Buffer.from(bytes), 'SJIS', 'UTF8').toString('utf8');
+            } else {
+                for (let i = start; i < end - 1; i += 1) {
+                    const quote_byte = data.getUint8(i);
+                    quote += String.fromCharCode(
+                        language.data.charmap
+                            ? language.data.charmap[quote_byte]
+                            : quote_byte,
+                    );
+                }
             }
-            // SJIS charmap reference: http://www.rikai.com/library/kanjitables/kanji_codes.sjis.shtml
-            quote = jconv.convert(Buffer.from(bytes), 'SJIS', 'UTF8').toString('utf8');
-        } else {
-            for (let i = start; i < end - 1; i += 1) {
-                quote += String.fromCharCode(
-                    language.data.charmap
-                        ? language.data.charmap[data.getUint8(i)]
-                        : data.getUint8(i),
-                );
+            if (language.data.code === 'HEB') {
+                quote = quote.trim().trimStart().trimEnd()
+                quote = quote.replace(/\u0000/g, '');
+                quote = quote.replace(/  /g, '');
             }
+        } catch (err) {
+            console.error(`Error reading text at index ${idx}: ${err}`);
         }
         texts.push({
             index: -1,
