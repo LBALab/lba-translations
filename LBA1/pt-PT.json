@@ -187,7 +187,7 @@
                     "entry_index": 0,
                     "quote_index": 24,
                     "map_index": 32,
-                    "quote": "Sombras (Tudo)"
+                    "quote": "Sombras (Todas)"
                 },
                 {
                     "index": 25,
@@ -208,7 +208,7 @@
                     "entry_index": 0,
                     "quote_index": 27,
                     "map_index": 132,
-                    "quote": "Sombra das personagens"
+                    "quote": "Sombras das personagens"
                 },
                 {
                     "index": 28,
@@ -229,7 +229,7 @@
                     "entry_index": 0,
                     "quote_index": 30,
                     "map_index": 232,
-                    "quote": "Sem sombras"
+                    "quote": "Sem Sombras"
                 },
                 {
                     "index": 31,
@@ -243,49 +243,49 @@
                     "entry_index": 0,
                     "quote_index": 32,
                     "map_index": 40,
-                    "quote": "Criar novo jogador:"
+                    "quote": "Criar um novo jogo:"
                 },
                 {
                     "index": 33,
                     "entry_index": 0,
                     "quote_index": 33,
                     "map_index": 41,
-                    "quote": "Copiar jogos gravados"
+                    "quote": "Copiar jogos guardados"
                 },
                 {
                     "index": 34,
                     "entry_index": 0,
                     "quote_index": 34,
                     "map_index": 42,
-                    "quote": "Escreva o seu nome:"
+                    "quote": "Escreva o nome do jogo:"
                 },
                 {
                     "index": 35,
                     "entry_index": 0,
                     "quote_index": 35,
                     "map_index": 43,
-                    "quote": "O jogador que adicionou já existe! Tente de novo."
+                    "quote": "O nome que adicionou já existe! Tente de novo."
                 },
                 {
                     "index": 36,
                     "entry_index": 0,
                     "quote_index": 36,
                     "map_index": 44,
-                    "quote": "Adicione outro nome"
+                    "quote": "Adicione um novo nome"
                 },
                 {
                     "index": 37,
                     "entry_index": 0,
                     "quote_index": 37,
                     "map_index": 45,
-                    "quote": "Apagar jogo gravado"
+                    "quote": "Apagar jogo guardado"
                 },
                 {
                     "index": 38,
                     "entry_index": 0,
                     "quote_index": 38,
                     "map_index": 46,
-                    "quote": "Manutenção de jogos gravados"
+                    "quote": "Gerir jogos"
                 },
                 {
                     "index": 39,
@@ -313,7 +313,7 @@
                     "entry_index": 0,
                     "quote_index": 42,
                     "map_index": 50,
-                    "quote": "Copiar ficheiros de diálogos para o Disco Rígido, espere por favor..."
+                    "quote": "A copiar ficheiros de diálogos para o Disco Rígido, espere por favor..."
                 }
             ]
         },
@@ -333,7 +333,7 @@
                     "entry_index": 2,
                     "quote_index": 1,
                     "map_index": 1,
-                    "quote": "Ideia original por Frédérick Raynal "
+                    "quote": "Ideia original de Frédérick Raynal"
                 },
                 {
                     "index": 45,
@@ -347,7 +347,7 @@
                     "entry_index": 2,
                     "quote_index": 3,
                     "map_index": 3,
-                    "quote": "Programação:"
+                    "quote": "Programação :"
                 },
                 {
                     "index": 47,
@@ -389,7 +389,7 @@
                     "entry_index": 2,
                     "quote_index": 9,
                     "map_index": 4,
-                    "quote": "Animação e Objectos 3D:"
+                    "quote": "Animação e Objectos 3D :"
                 },
                 {
                     "index": 53,
@@ -403,7 +403,7 @@
                     "entry_index": 2,
                     "quote_index": 11,
                     "map_index": 5,
-                    "quote": "Gráficos de Cenário:"
+                    "quote": "Design Gráfico :"
                 },
                 {
                     "index": 55,
@@ -424,7 +424,7 @@
                     "entry_index": 2,
                     "quote_index": 14,
                     "map_index": 6,
-                    "quote": "Projecto e História:"
+                    "quote": "Argumento :"
                 },
                 {
                     "index": 58,
@@ -438,14 +438,14 @@
                     "entry_index": 2,
                     "quote_index": 16,
                     "map_index": 7,
-                    "quote": "Diálogos:"
+                    "quote": "Diálogos :"
                 },
                 {
                     "index": 60,
                     "entry_index": 2,
                     "quote_index": 17,
                     "map_index": 8,
-                    "quote": "Story Coding:"
+                    "quote": "Jogabilidade :"
                 },
                 {
                     "index": 61,
@@ -459,7 +459,7 @@
                     "entry_index": 2,
                     "quote_index": 19,
                     "map_index": 9,
-                    "quote": "Sequências de Video:"
+                    "quote": "Sequências de Video :"
                 },
                 {
                     "index": 63,
@@ -473,7 +473,7 @@
                     "entry_index": 2,
                     "quote_index": 21,
                     "map_index": 10,
-                    "quote": "Música:"
+                    "quote": "Música :"
                 },
                 {
                     "index": 65,
@@ -487,7 +487,7 @@
                     "entry_index": 2,
                     "quote_index": 23,
                     "map_index": 12,
-                    "quote": "Teste:"
+                    "quote": "Teste do Jogo :"
                 },
                 {
                     "index": 67,
@@ -529,14 +529,14 @@
                     "entry_index": 2,
                     "quote_index": 29,
                     "map_index": 13,
-                    "quote": "Controlo de Qualidade:"
+                    "quote": "Controlo de Qualidade :"
                 },
                 {
                     "index": 73,
                     "entry_index": 2,
                     "quote_index": 30,
                     "map_index": 14,
-                    "quote": "Efeitos Sonoros:"
+                    "quote": "Efeitos Sonoros :"
                 },
                 {
                     "index": 74,
@@ -557,7 +557,7 @@
                     "entry_index": 2,
                     "quote_index": 33,
                     "map_index": 16,
-                    "quote": "Traduzido para português por Alexandre Fontoura [alexfont]"
+                    "quote": "Tradução Portuguêsa de Alexandre Fontoura [xesf]"
                 }
             ]
         },
@@ -570,322 +570,322 @@
                     "entry_index": 4,
                     "quote_index": 0,
                     "map_index": 0,
-                    "quote": "Acabou de descobrir o Holomapa! Pode usá-lo a partir do inventário, carregando na tecla (SHIFT), ou através da tecla (H) para acesso directo."
+                    "quote": "Acabas de encontrar o Holomapa! Podes usá-lo a partir do inventário, carregando na tecla (SHIFT), ou através da tecla (H) para acesso directo."
                 },
                 {
                     "index": 78,
                     "entry_index": 4,
                     "quote_index": 1,
                     "map_index": 1,
-                    "quote": "Acabou de descobrir a Bola Mágica! Tente usá-la nos clones!"
+                    "quote": "Acabas de encontrar a Bola Mágica! Tente usá-la nos clones!"
                 },
                 {
                     "index": 79,
                     "entry_index": 4,
                     "quote_index": 2,
                     "map_index": 2,
-                    "quote": "Acabou de roubar o sabre de Dr. FunFrock!"
+                    "quote": "Acabas de roubar o Sabre de Dr. FunFrock!"
                 },
                 {
                     "index": 80,
                     "entry_index": 4,
                     "quote_index": 3,
                     "map_index": 3,
-                    "quote": "Acabou de descobrir o Chifre de Gawley, um objecto deixado para si pelos seus antepassados."
+                    "quote": "Acabas de encontrar o Chifre de Gawley, um objecto deixado pelos teus antepassados."
                 },
                 {
                     "index": 81,
                     "entry_index": 4,
                     "quote_index": 4,
                     "map_index": 4,
-                    "quote": "Acabou de ganhar apenas o primeiro nível de Magia, por ter encontrado a Túnica deixada pelos seus antepassados. Está apto a armazenar magia com ela. "
+                    "quote": "Acabas de ganhar o primeiro nível de Magia, por teres encontrado a Túnica deixada pelos teus antepassados. Agora podes armazenar magia."
                 },
                 {
                     "index": 82,
                     "entry_index": 4,
                     "quote_index": 5,
                     "map_index": 5,
-                    "quote": "Acabou de ganhar o segundo nível de Magia, por ter encontrado o Livro de Bù."
+                    "quote": "Acabas de ganhar o segundo nível de Magia, por teres encontrado o Livro de Bù."
                 },
                 {
                     "index": 83,
                     "entry_index": 4,
                     "quote_index": 6,
                     "map_index": 6,
-                    "quote": "Acabou de ganhar o terceiro nível de Magia, por ter encontrado o Medalhão de Sendell."
+                    "quote": "Acabas de ganhar o terceiro nível de Magia, por teres encontrado o Medalhão de Sendell."
                 },
                 {
                     "index": 84,
                     "entry_index": 4,
                     "quote_index": 7,
                     "map_index": 7,
-                    "quote": "Acabou de ganhar o quarto nível de Magia, por ter enxido o seu frasco com Ägua Límpida."
+                    "quote": "Acabas de ganhar o quarto nível de Magia, por teres enxido o teu frasco com Água Límpida."
                 },
                 {
                     "index": 85,
                     "entry_index": 4,
                     "quote_index": 8,
                     "map_index": 8,
-                    "quote": "Possui agora o Cartão Magnético Vermelho."
+                    "quote": "Tens agora o Cartão Magnético Vermelho."
                 },
                 {
                     "index": 86,
                     "entry_index": 4,
                     "quote_index": 9,
                     "map_index": 9,
-                    "quote": "Com este cartão você é o quarto membro do Clube Elves, seu próprio negócio!"
+                    "quote": "Com este cartão és o quarto membro do Clube dos Elfos. Agora só depende de ti!"
                 },
                 {
                     "index": 87,
                     "entry_index": 4,
                     "quote_index": 10,
                     "map_index": 10,
-                    "quote": "Acabou de reencontrar o seu cartão de identificação."
+                    "quote": "Acabas de reencontrar o teu cartão de identificação."
                 },
                 {
                     "index": 88,
                     "entry_index": 4,
                     "quote_index": 11,
                     "map_index": 11,
-                    "quote": "Possui agora o passe de Arquitecto."
+                    "quote": "Tens agora o passe de Arquitecto."
                 },
                 {
                     "index": 89,
                     "entry_index": 4,
                     "quote_index": 12,
                     "map_index": 12,
-                    "quote": "Possui agora o Proto-Pack."
+                    "quote": "Tens agora o Proto-Pack."
                 },
                 {
                     "index": 90,
                     "entry_index": 4,
                     "quote_index": 13,
                     "map_index": 13,
-                    "quote": "Os Kamis deram-lhe um Snowboard."
+                    "quote": "Os Kamis deram-te um Snowboard."
                 },
                 {
                     "index": 91,
                     "entry_index": 4,
                     "quote_index": 14,
                     "map_index": 14,
-                    "quote": "Possui um Meca-Penguin."
+                    "quote": "Tens um Meca-Penguin."
                 },
                 {
                     "index": 92,
                     "entry_index": 4,
                     "quote_index": 15,
                     "map_index": 15,
-                    "quote": "Acabou de reabastecer alguma da sua fonte de combustível."
+                    "quote": "Acabas de reabastecer alguma da tua fonte de combustível."
                 },
                 {
                     "index": 93,
                     "entry_index": 4,
                     "quote_index": 16,
                     "map_index": 16,
-                    "quote": "Acabou de roubar uma Bandeira de Piratas."
+                    "quote": "Acabas de roubar uma Bandeira Pirata."
                 },
                 {
                     "index": 94,
                     "entry_index": 4,
                     "quote_index": 17,
                     "map_index": 17,
-                    "quote": "Acabou de descobrir a Flauta Mágica."
+                    "quote": "Acabas de encontrar uma Flauta Mágica."
                 },
                 {
                     "index": 95,
                     "entry_index": 4,
                     "quote_index": 18,
                     "map_index": 18,
-                    "quote": "O homem sábio deu-lhe a guitarra do espaço."
+                    "quote": "O sábio deu-te a Guitarra do Espaço."
                 },
                 {
                     "index": 96,
                     "entry_index": 4,
                     "quote_index": 19,
                     "map_index": 19,
-                    "quote": "Acabou de comprar um secador de cabelo."
+                    "quote": "Acabas de comprar um Secador de Cabelo."
                 },
                 {
                     "index": 97,
                     "entry_index": 4,
                     "quote_index": 20,
                     "map_index": 20,
-                    "quote": "Acabou de encontrar a chave perdida pelo seu antepassado Hégésippe."
+                    "quote": "Acabas de encontrar a chave perdida pelo teu antepassado Hégésippe."
                 },
                 {
                     "index": 98,
                     "entry_index": 4,
                     "quote_index": 21,
                     "map_index": 21,
-                    "quote": "Acabou de encontrar um Frasco de Xarope!"
+                    "quote": "Acabas de encontrar um Frasco de Xarope!"
                 },
                 {
                     "index": 99,
                     "entry_index": 4,
                     "quote_index": 22,
                     "map_index": 22,
-                    "quote": "O frasco encontra-se vazio."
+                    "quote": "O frasco está vazio."
                 },
                 {
                     "index": 100,
                     "entry_index": 4,
                     "quote_index": 23,
                     "map_index": 23,
-                    "quote": "Possui um bilhete de Barco."
+                    "quote": "Tens um bilhete de Barco."
                 },
                 {
                     "index": 101,
                     "entry_index": 4,
                     "quote_index": 24,
                     "map_index": 24,
-                    "quote": "Acabou de receber um teclado numérico que controla um sistema de segurança digital."
+                    "quote": "Acabaste de receber um teclado numérico."
                 },
                 {
                     "index": 102,
                     "entry_index": 4,
                     "quote_index": 25,
                     "map_index": 25,
-                    "quote": "Possui agora um recipiente de café."
+                    "quote": "Tens agora uma cafeteira."
                 },
                 {
                     "index": 103,
                     "entry_index": 4,
                     "quote_index": 26,
                     "map_index": 26,
-                    "quote": "M. Lanktir deu-lhe a sua lista. "
+                    "quote": "Lanktir deu-te a lista dele."
                 },
                 {
                     "index": 104,
                     "entry_index": 4,
                     "quote_index": 27,
                     "map_index": 100,
-                    "quote": "Pressione (H) para ver o Holomapa. O Holomapa mostra a sua posição no planeta. As setas representam importantes lugares que lhe foram indicados durante as suas viagens. Desaparecerão uma vez terminada a tarefa em cada um dos lugares correspondentes. O Holomapa gira pressionando simultaneamente (CTRL) e as teclas cursoras. Pressionando somente as teclas cursoras, é-lhe mostrada a informação correspondente às setas visíveis no Holomapa."
+                    "quote": "Holomapa. O Holomapa mostra a tua posição no planeta. As setas representam importantes lugares que te foram indicados durante as tuas aventuras. Elas desaparecem assim que a tarefa terminar em cada um dos lugares apresentados. O Holomapa gira se carregar simultaneamente a tecla (CTRL) e as teclas cursoras. Ao carregar somente nas teclas cursoras, é mostrada a informação correspondente às setas visíveis no Holomapa."
                 },
                 {
                     "index": 105,
                     "entry_index": 4,
                     "quote_index": 28,
                     "map_index": 101,
-                    "quote": "Tecla (ALT) para Bola Mágica. Cada vez que alcançar um nível mais elevado de magia, o poder impressionante da bola mágica aumentará. A sua trajectória tornar-se-á também mais eficaz com novos níveis, enquanto tiver bastante magia armazenada! A bola usará a magia cada vez que é utilizada."
+                    "quote": "Bola Mágica. Cada vez que atingires um nível seeguinte de magia, o poder da bola mágica aumenta. A sua trajectória será mais eficaz a cada nível enquanto houver magia suficiente! A bola usa magia cada vez que é utilizada."
                 },
                 {
                     "index": 106,
                     "entry_index": 4,
                     "quote_index": 29,
                     "map_index": 102,
-                    "quote": "Sabre Mágico, uma vez que o sabre está na sua mão (tecla ENTER), pressione (ALT) para atacar. É a arma mais poderosa deste planeta. Poderá usar a Bola Mágica sempre que desejar, seleccionando-a."
+                    "quote": "Sabre Mágico. É a arma mais poderosa deste planeta."
                 },
                 {
                     "index": 107,
                     "entry_index": 4,
                     "quote_index": 30,
                     "map_index": 103,
-                    "quote": "Chifre de Gawley: tecla (ENTER). Para o uso nas gravuras de Sendell. Permite que os abra, podendo assim alcançar novos lugares."
+                    "quote": "Chifre de Gawley. Para usares nas gravuras de Sendell. Permite abrí-los e poder alcançar novos lugares."
                 },
                 {
                     "index": 108,
                     "entry_index": 4,
                     "quote_index": 31,
                     "map_index": 104,
-                    "quote": "Túnica. Com este símbolo mágico, acaba de ganhar apenas o primeiro nível de Magia."
+                    "quote": "Túnica. Com este símbolo mágico, acabas de ganhar o primeiro nível de magia."
                 },
                 {
                     "index": 109,
                     "entry_index": 4,
                     "quote_index": 32,
                     "map_index": 105,
-                    "quote": "Livro de Bù (e PROFECIA). Pressione  a tecla (ENTER) para ler a profecia. @ Com este símbolo mágico, acaba de ganhar o segundo nível de magia. Poderá agora ler as runas e falar com os animais."
+                    "quote": "Livro de Bù (e PROFECIA). Com este símbolo mágico, acabas de ganhar o segundo nível de magia. Podes ler as runas e falar com os animais."
                 },
                 {
                     "index": 110,
                     "entry_index": 4,
                     "quote_index": 33,
                     "map_index": 106,
-                    "quote": "Medalhão de Sendell. Com este símbolo mágico, acaba de ganhar apenas o terceiro nível de magia."
+                    "quote": "Medalhão de Sendell. Com este símbolo mágico, acabas de ganhar o terceiro nível de magia."
                 },
                 {
                     "index": 111,
                     "entry_index": 4,
                     "quote_index": 34,
                     "map_index": 156,
-                    "quote": "Medalhão de Sendell. @ Permite-lhe ganhar o terceiro nível de magia."
+                    "quote": "Medalhão de Sendell. @ Permitirá ganhar o terceiro nível de magia."
                 },
                 {
                     "index": 112,
                     "entry_index": 4,
                     "quote_index": 35,
                     "map_index": 107,
-                    "quote": "Frasco com Ägua Límpida. Com este símbolo mágico, acaba de ganhar o quarto nível de magia."
+                    "quote": "Frasco com Água Límpida. Com este símbolo mágico, acabas de ganhar o quarto nível de magia."
                 },
                 {
                     "index": 113,
                     "entry_index": 4,
                     "quote_index": 36,
                     "map_index": 157,
-                    "quote": "Frasco com Ägua Límpida. @ Permite-lhe ganhar o quarto nível de magia."
+                    "quote": "Frasco com Água Límpida. @ Permitirá ganhar o quarto nível de magia."
                 },
                 {
                     "index": 114,
                     "entry_index": 4,
                     "quote_index": 37,
                     "map_index": 108,
-                    "quote": "Cartão Magnético Vermelho. Permite-lhe abrir portas com uma fechadura vermelha."
+                    "quote": "Cartão Magnético Vermelho. Permitirá abrir portas com uma fechadura vermelha."
                 },
                 {
                     "index": 115,
                     "entry_index": 4,
                     "quote_index": 38,
                     "map_index": 109,
-                    "quote": "Cartão Azul do Clube Elves. Este cartão está coberto por um pó e permite-lhe abrir as portas com fechaduras azuis."
+                    "quote": "Cartão Azul do Clube Elfos. Este cartão está coberto por um pó estrelado e permitirá abrir as portas com fechaduras azuis."
                 },
                 {
                     "index": 116,
                     "entry_index": 4,
                     "quote_index": 39,
                     "map_index": 110,
-                    "quote": "Cartão de Identificação. Permite-lhe identificar-se perante as autoridade. O seu sorriso é especialmente atraente na foto!"
+                    "quote": "Cartão de Identificação. Permitirá identificar-te perante as autoridade. Não ficaste mal na fotografia!"
                 },
                 {
                     "index": 117,
                     "entry_index": 4,
                     "quote_index": 40,
                     "map_index": 111,
-                    "quote": "Passe de M. Mies van der Rooh's. Este passe garante-lhe a entrada no Centro de Teleportação. Terá que utilizar também o Chifre de Gawley à esquerda, depois do primeiro posto de guarda."
+                    "quote": "Passe de Mies van der Rooh's. Este passe garante-te a entrada no Centro de Teleportação. Terás que utilizar o Chifre de Gawley à esquerda, depois do primeiro posto de guarda."
                 },
                 {
                     "index": 118,
                     "entry_index": 4,
                     "quote_index": 41,
                     "map_index": 112,
-                    "quote": "Proto-Pack. É controlado pelas teclas cursoras."
+                    "quote": "Proto-Pack"
                 },
                 {
                     "index": 119,
                     "entry_index": 4,
                     "quote_index": 42,
                     "map_index": 113,
-                    "quote": "Snowboard. Só pode ser usado no Himalayi, perto do elevador de ski. Coloque-se entre duas bandeiras antes de usar."
+                    "quote": "Snowboard. Só pode ser usado no Himalayi, perto do elevador de ski entre duas bandeiras."
                 },
                 {
                     "index": 120,
                     "entry_index": 4,
                     "quote_index": 43,
                     "map_index": 114,
-                    "quote": "Meca-Penguin. Os clones vermelhos odeiam este brinquedo estúpido."
+                    "quote": "Meca-Penguin. Os clones vermelhos detestam este brinquedo."
                 },
                 {
                     "index": 121,
                     "entry_index": 4,
                     "quote_index": 44,
                     "map_index": 115,
-                    "quote": "Combustível. Não poderá usar veículos enquanto o nível de combustível estiver a zero. "
+                    "quote": "Combustível, extracto de melaço. Não podes usar veículos quando o nível de combustível estiver a zero. "
                 },
                 {
                     "index": 122,
                     "entry_index": 4,
                     "quote_index": 45,
                     "map_index": 116,
-                    "quote": "Bandeira Pirata. Pode uni-la a um barco."
+                    "quote": "Bandeira Pirata. Podes usá-la num barco."
                 },
                 {
                     "index": 123,
@@ -899,7 +899,7 @@
                     "entry_index": 4,
                     "quote_index": 47,
                     "map_index": 118,
-                    "quote": "Guitarra do Espaço. Encontrou-se no meio de um asteroid que aterrou no deserto da Folha Branca. Trouxe novas harmonias a Twinsun."
+                    "quote": "Guitarra do Espaço. Encontrada no meio de um asteroid que aterrou no Deserto da Folha Branca, trouxe novas harmonias a Twinsun."
                 },
                 {
                     "index": 125,
@@ -913,7 +913,7 @@
                     "entry_index": 4,
                     "quote_index": 49,
                     "map_index": 120,
-                    "quote": "Chave Ancestral. Abre um compartimento secreto na casa de Twinsen."
+                    "quote": "Chave Ancestral. Permite abrir um compartimento secreto na casa de Twinsen."
                 },
                 {
                     "index": 127,
@@ -941,35 +941,35 @@
                     "entry_index": 4,
                     "quote_index": 53,
                     "map_index": 124,
-                    "quote": "Teclado numérico que controla um sistema de segurança digital. Uma vez colocado na porta que se encontra dentro do centro de teleportação, permite-lhe o acesso a um compartimento cheio de Meca-Pinguins."
+                    "quote": "Teclado Numérico. Uma vez colocado na porta que se encontra dentro do centro de teleportação, dá acesso a um compartimento cheio de Meca-Pinguins."
                 },
                 {
                     "index": 131,
                     "entry_index": 4,
                     "quote_index": 54,
                     "map_index": 125,
-                    "quote": "Recipiente de Café. Deve entregá-lo a Lanktir que vive ao lado do bazar na Ilha Proxima."
+                    "quote": "Cafeteira. Tem de devolvê-la a Lanktir que vive ao lado do bazar na Ilha Proxima."
                 },
                 {
                     "index": 132,
                     "entry_index": 4,
                     "quote_index": 55,
                     "map_index": 126,
-                    "quote": "Lista de Bónus: Pressione (ENTER) para ler."
+                    "quote": "Lista de Bónus"
                 },
                 {
                     "index": 133,
                     "entry_index": 4,
                     "quote_index": 56,
                     "map_index": 127,
-                    "quote": "Trevo. Pressione a tecla (ENTER): usando este trevo tem a possibilidade de se revitalisar ao máximo."
+                    "quote": "Trevo. Ao usares este trevo tens a possibilidade de te revitalisar ao máximo."
                 },
                 {
                     "index": 134,
                     "entry_index": 4,
                     "quote_index": 57,
                     "map_index": 128,
-                    "quote": "Vazio."
+                    "quote": "Vazio"
                 },
                 {
                     "index": 135,
