@@ -894,7 +894,7 @@ msgstr "Bom dia, amigo enfermeiro."
 # 175:Citadel Island dialogs
 #: 175:5
 msgid "A prisoner has escaped! | Sound the alarm!"
-msgstr "Um presioneiro escapou! | Toquem o alarme!"
+msgstr "Um prisioneiro escapou! | Toquem o alarme!"
 
 # 175:Citadel Island dialogs
 #: 175:6
